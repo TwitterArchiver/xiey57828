@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2059478564031041821",
+    "created_at": "2026-05-27T03:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059478564031041821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036071254873276416",
+          "start": 3,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059478564031041821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059467153565249768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renyue105: 本来就有很多跨女因为经济，健康，家庭问题不能hrt...跨女是“性别认同为女的指派男性”而不是“吃了雌激素的指派男性”药娘和跨女从来不是一个概念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2059478564031041821",
+        "created_at": "2026-05-27T03:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059478564031041821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036071254873276416",
+              "start": 3,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059478564031041821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059467153565249768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renyue105: 本来就有很多跨女因为经济，健康，家庭问题不能hrt...跨女是“性别认同为女的指派男性”而不是“吃了雌激素的指派男性”药娘和跨女从来不是一个概念"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2059467153565249768",
+        "created_at": "2026-05-27T02:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059467153565249768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Octocat01/stat…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Octocat01/status/2059285249260228735",
+              "start": 73,
+              "url": "https://t.co/3inJAndhxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059467153565249768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059285249260228735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来就有很多跨女因为经济，健康，家庭问题不能hrt...跨女是“性别认同为女的指派男性”而不是“吃了雌激素的指派男性”药娘和跨女从来不是一个概念 https://t.co/3inJAndhxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨史上最快大证😋26.5.21丨🍥hrt24.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨#易性症 #双相情感障碍 #视力四级残疾 丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "双相情感障碍"
+              },
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "视力四级残疾"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059267949769408817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 358,
+          "like_count": 6548,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2427
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "我是谁?",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059457055639879686/3fa8Ch4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 65,
+          "like_count": 3380,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 2977
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

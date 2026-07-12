@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2043646789363048935",
+    "created_at": "2026-04-13T11:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043647722931269743"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043647722931269743",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043646789363048935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "眼神模糊，闭眼之后天旋地转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2043646789363048935",
+        "created_at": "2026-04-13T11:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043647722931269743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043647722931269743",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043646789363048935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "眼神模糊，闭眼之后天旋地转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2043646789363048935",
+        "created_at": "2026-04-13T11:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043646789363048935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xiey57828/status/2043632763765772292",
+              "start": 36,
+              "url": "https://t.co/tV1nPhAwTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043646789363048935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043632763765772292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "七点，两个小时😣\n有点晕晕，走不稳，意识清醒，感觉没o多少，没啥药效啊 https://t.co/tV1nPhAwTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦丨MtF＆友跨🏳️‍⚧️丨休学ing丨hrt2024.02.17丨深柜丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态取决于我的父亲，正常吃药不o。碎碎念...。我想学Python。https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 141,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 118,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "家",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2043615386068029455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 494,
+          "like_count": 2109,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

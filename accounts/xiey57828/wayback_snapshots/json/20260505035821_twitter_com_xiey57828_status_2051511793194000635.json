@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2051511793194000635",
+    "created_at": "2026-05-05T03:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051511793194000635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qi_bu64350/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/qi_bu64350/status/2051504497978138906",
+          "start": 11,
+          "url": "https://t.co/MkyYtMWchz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051511793194000635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051504497978138906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没事的时候偷“点懒” https://t.co/MkyYtMWchz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2051511793194000635",
+        "created_at": "2026-05-05T03:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051511793194000635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qi_bu64350/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/qi_bu64350/status/2051504497978138906",
+              "start": 11,
+              "url": "https://t.co/MkyYtMWchz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051511793194000635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051504497978138906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没事的时候偷“点懒” https://t.co/MkyYtMWchz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900108524304076800",
+        "conversation_id": "2051504497978138906",
+        "created_at": "2026-05-05T03:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051504497978138906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051504497978138906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么能快速赚很多钱的方法（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "hi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/qfam1DZRUf"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "猫窝",
+        "name": "沐桃",
+        "pinned_tweet_id": "2048948188070150603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 286,
+          "like_count": 4975,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/qfam1DZRUf",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "好累……\n依旧把这当QQ空间用\n一切过激言论均由第二人格控制发布\n前@Ciallo_114_514 @YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2049667185740775911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 580,
+          "like_count": 547,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 742
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      }
+    ]
+  }
+}

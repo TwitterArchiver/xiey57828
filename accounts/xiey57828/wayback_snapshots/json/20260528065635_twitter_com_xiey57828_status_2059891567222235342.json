@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2059875081359413702",
+    "created_at": "2026-05-28T06:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059891567222235342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830260222180646912",
+          "start": 0,
+          "username": "DioCcc95326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059891567222235342",
+    "in_reply_to_user_id": "1830260222180646912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059891373575418304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DioCcc95326 会被打死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2059875081359413702",
+        "created_at": "2026-05-28T06:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059891567222235342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830260222180646912",
+              "start": 0,
+              "username": "DioCcc95326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059891567222235342",
+        "in_reply_to_user_id": "1830260222180646912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059891373575418304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DioCcc95326 会被打死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830260222180646912",
+        "conversation_id": "2059875081359413702",
+        "created_at": "2026-05-28T06:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059891373575418304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059891373575418304",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059875081359413702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 拿个音箱放好运来，跟他魔法对轰¯꒳¯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨大证🍥hrt24.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨#易性症 #双相情感障碍 #视力四级残疾 丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "双相情感障碍"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "视力四级残疾"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "pinned_tweet_id": "2059267949769408817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 365,
+          "like_count": 6698,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2456
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T15:03:53.000Z",
+        "description": "想当开朗阳光小狗，带给所有人幸福/INFP-T/重度以上抑郁/情绪调酒师/渴望和所有人交朋友，但低精力/希望能睡够八小时……",
+        "id": "1830260222180646912",
+        "name": "番茄摞一批🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059240653293518848/PV6Psq4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 49,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "username": "DioCcc95326",
+        "verified": false
+      }
+    ]
+  }
+}

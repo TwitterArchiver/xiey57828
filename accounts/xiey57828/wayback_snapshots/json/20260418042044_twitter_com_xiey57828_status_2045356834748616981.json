@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045304270157922304"
+      ],
+      "media_source_tweet_id": [
+        "2045304280194654262"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2045356834748616981",
+    "created_at": "2026-04-18T04:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045356834748616981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486225700793495552",
+          "start": 3,
+          "username": "ABC13067637"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wMckj4ULPn",
+          "end": 56,
+          "expanded_url": "https://x.com/ABC13067637/status/2045304280194654262/photo/1",
+          "media_key": "3_2045304270157922304",
+          "start": 33,
+          "url": "https://t.co/wMckj4ULPn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045356834748616981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045304280194654262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ABC13067637: 催眠治疗跨性别？这真的有用吗🧐 https://t.co/wMckj4ULPn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2045304270157922304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJhZbBaQAAckeJ.jpg",
+        "width": 1783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045304270157922304"
+          ],
+          "media_source_tweet_id": [
+            "2045304280194654262"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2045356834748616981",
+        "created_at": "2026-04-18T04:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045356834748616981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486225700793495552",
+              "start": 3,
+              "username": "ABC13067637"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMckj4ULPn",
+              "end": 56,
+              "expanded_url": "https://x.com/ABC13067637/status/2045304280194654262/photo/1",
+              "media_key": "3_2045304270157922304",
+              "start": 33,
+              "url": "https://t.co/wMckj4ULPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045356834748616981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045304280194654262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ABC13067637: 催眠治疗跨性别？这真的有用吗🧐 https://t.co/wMckj4ULPn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045304270157922304"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "conversation_id": "2045304280194654262",
+        "created_at": "2026-04-18T00:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045304280194654262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMckj4ULPn",
+              "end": 39,
+              "expanded_url": "https://x.com/ABC13067637/status/2045304280194654262/photo/1",
+              "media_key": "3_2045304270157922304",
+              "start": 16,
+              "url": "https://t.co/wMckj4ULPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045304280194654262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 587,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "催眠治疗跨性别？这真的有用吗🧐 https://t.co/wMckj4ULPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦🥵。精神状态中等去玩应该变较好吧🥺，o！😣。碎碎念😇....自我介绍在@520xiey57828。宝宝@xyu1182202 好妹妹@ST_Bed0721讨厌0721😡和我聊天加微信或者tg：https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "520xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "ST_Bed0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 136,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 113,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2045044238765981782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 336,
+          "like_count": 3090,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1255
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 332,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 195
+        },
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

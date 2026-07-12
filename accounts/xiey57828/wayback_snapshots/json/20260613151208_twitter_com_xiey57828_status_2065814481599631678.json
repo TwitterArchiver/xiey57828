@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065814481599631678",
+    "created_at": "2026-06-13T15:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065814481599631678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065814481599631678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好缺爱…\n\n（我编辑了一大段话，发现超字数了…）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065814481599631678",
+        "created_at": "2026-06-13T15:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065814481599631678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065814481599631678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好缺爱…\n\n（我编辑了一大段话，发现超字数了…）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥MtF大证含糖\n🍰出生08.02.16\n🤤喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！🤤\n🏥精神状态超好！？😉\n😇双相，视力残疾😱\n🥺缺爱b，渴望被爱…\n所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 426,
+          "like_count": 8606,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3210
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

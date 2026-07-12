@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072488256680382464"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2072488261315149858",
+    "created_at": "2026-07-02T01:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072488261315149858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xP17LLblu",
+          "end": 40,
+          "expanded_url": "https://x.com/xiey57828/status/2072488261315149858/photo/1",
+          "media_key": "3_2072488256680382464",
+          "start": 17,
+          "url": "https://t.co/1xP17LLblu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072488261315149858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该算药娘里面的高知识分子了吧 https://t.co/1xP17LLblu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 260,
+        "media_key": "3_2072488256680382464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML1FsSaUAA93x_.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072488256680382464"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2072488261315149858",
+        "created_at": "2026-07-02T01:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072488261315149858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xP17LLblu",
+              "end": 40,
+              "expanded_url": "https://x.com/xiey57828/status/2072488261315149858/photo/1",
+              "media_key": "3_2072488256680382464",
+              "start": 17,
+              "url": "https://t.co/1xP17LLblu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072488261315149858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该算药娘里面的高知识分子了吧 https://t.co/1xP17LLblu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2008刚高考完\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2071060255400718346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 501,
+          "like_count": 9907,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 3911
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

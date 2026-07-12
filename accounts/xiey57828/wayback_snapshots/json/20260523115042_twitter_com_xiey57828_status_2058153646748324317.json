@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058117160996864000"
+      ],
+      "media_source_tweet_id": [
+        "2058117169532051840"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2058153646748324317",
+    "created_at": "2026-05-23T11:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058153646748324317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DySAFlTjby",
+          "end": 139,
+          "expanded_url": "https://x.com/smiroyama/status/2058117169532051840/photo/1",
+          "media_key": "3_2058117160996864000",
+          "start": 116,
+          "url": "https://t.co/DySAFlTjby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058153646748324317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058117169532051840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: “你好，初次见面。我是醋酸环丙孕酮，你也可以叫我的英文缩写，CPA。”\n\n“我的工作机制，听起来或许有些冷酷。我会进入你的身体，精准地找到那些让你躁动不安的雄激素受体，然后，安静而坚决地将它们阻断。… https://t.co/DySAFlTjby"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2058117160996864000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_mp09agAA0a6W.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058117160996864000"
+          ],
+          "media_source_tweet_id": [
+            "2058117169532051840"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2058153646748324317",
+        "created_at": "2026-05-23T11:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058153646748324317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DySAFlTjby",
+              "end": 139,
+              "expanded_url": "https://x.com/smiroyama/status/2058117169532051840/photo/1",
+              "media_key": "3_2058117160996864000",
+              "start": 116,
+              "url": "https://t.co/DySAFlTjby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058153646748324317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058117169532051840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: “你好，初次见面。我是醋酸环丙孕酮，你也可以叫我的英文缩写，CPA。”\n\n“我的工作机制，听起来或许有些冷酷。我会进入你的身体，精准地找到那些让你躁动不安的雄激素受体，然后，安静而坚决地将它们阻断。… https://t.co/DySAFlTjby"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058117160996864000"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2058117169532051840",
+        "created_at": "2026-05-23T09:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058117169532051840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DySAFlTjby",
+              "end": 123,
+              "expanded_url": "https://x.com/smiroyama/status/2058117169532051840/photo/1",
+              "media_key": "3_2058117160996864000",
+              "start": 100,
+              "url": "https://t.co/DySAFlTjby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058117169532051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“你好，初次见面。我是醋酸环丙孕酮，你也可以叫我的英文缩写，CPA。”\n\n“我的工作机制，听起来或许有些冷酷。我会进入你的身体，精准地找到那些让你躁动不安的雄激素受体，然后，安静而坚决地将它们阻断。\n\n我知道这样做的后果。最直接的变化，就是我会为你降低欲望。那些曾经像沸水一样翻滚的、喧嚣的、甚至让你感到失控与痛苦的原始冲动，都会在我的干预下逐渐冷却、平息。有人害怕这种失去，认为那是生命力的流失，但是……你并不这么认为，对吧？”\n\n“当那些多余的、狂热的感官刺激褪去后，我们会一起走进一个黑白的世界。\n\n这是一个极度安静、极度理智的领域。这里没有刺目的猩红，也没有令人目眩的霓虹，只有像我这件白大褂一样的纯白，和夜空般深邃的漆黑。在这个世界里，一切感官都被简化到了极致。你或许会觉得周围的风景变得有些清冷，但这恰恰是喧嚣退去后的宁静。”\n\n “我并不擅长为你制造激烈的情绪波动或狂喜，但我存在的最大意义，是为你降低压抑感。\n\n当那些错误的化学物质不再禁锢你的身体，当灵魂不再被不属于你的本能所拉扯，那些长期以来压在你胸口的巨石、那些让你喘不过气来的性别错位与焦虑，都会在这个黑白的世界里烟消云散。\n\n深呼吸。接下来的日子里，我会坐在这个安静的黑白房间里，陪你一起理清人生的代码。你可以安心地做你自己了。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1951,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "“你好，初次见面。我是醋酸环丙孕酮，你也可以叫我的英文缩写，CPA。”\n\n“我的工作机制，听起来或许有些冷酷。我会进入你的身体，精准地找到那些让你躁动不安的雄激素受体，然后，安静而坚决地将它们阻断。 https://t.co/DySAFlTjby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑永远18岁丨史上最快大证😋2026.5.21无小证😱丨🍥hrt2024.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨第二次生命2026.5.16😵。活着才有见到太阳的可能❕丨只发日常碎碎念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 326,
+          "like_count": 6087,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 2244
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5610,
+          "following_count": 2298,
+          "like_count": 11779,
+          "listed_count": 19,
+          "media_count": 1770,
+          "tweet_count": 6885
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2048307131833852285",
+    "created_at": "2026-06-17T02:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067075097521979878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "858921480028995585",
+          "start": 0,
+          "username": "WindyLuster"
+        },
+        {
+          "end": 27,
+          "id": "2048003423384010752",
+          "start": 13,
+          "username": "TeamRain_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067075097521979878",
+    "in_reply_to_user_id": "858921480028995585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048312910196396286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WindyLuster @TeamRain_2024 你是友跨顺男吗"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [TeamRain_2024].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "TeamRain_2024",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "TeamRain_2024"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2048307131833852285",
+        "created_at": "2026-06-17T02:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067075097521979878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "858921480028995585",
+              "start": 0,
+              "username": "WindyLuster"
+            },
+            {
+              "end": 27,
+              "id": "2048003423384010752",
+              "start": 13,
+              "username": "TeamRain_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067075097521979878",
+        "in_reply_to_user_id": "858921480028995585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048312910196396286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WindyLuster @TeamRain_2024 你是友跨顺男吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858921480028995585",
+        "conversation_id": "2048307131833852285",
+        "created_at": "2026-04-26T08:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048312910196396286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048003423384010752",
+              "start": 0,
+              "username": "TeamRain_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048312910196396286",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048307131833852285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain_2024 坏诶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 445,
+          "like_count": 8853,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 3335
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T05:50:13.000Z",
+        "description": "07｜友跨｜什么都不会｜备用:@StarryNoct",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "858921480028995585",
+        "name": "晚风遇光🌟",
+        "pinned_tweet_id": "2032030477792788984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033073074359382017/BiYFAZ-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "WindyLuster",
+        "verified": false
+      }
+    ]
+  }
+}

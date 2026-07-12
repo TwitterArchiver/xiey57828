@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2038430307913969824",
+    "created_at": "2026-03-31T01:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038791531499536505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038791531499536505",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038430307913969824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 是不是时间太久了很热了？我怕痛用的是ulikeme，这个可以湿脱，涂芦荟胶就不疼了，还有如果没刮干净也会痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2038430305275748352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEn1kAVaIAAgPb7.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2038430307913969824",
+        "created_at": "2026-03-31T01:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038791531499536505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038791531499536505",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038430307913969824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 是不是时间太久了很热了？我怕痛用的是ulikeme，这个可以湿脱，涂芦荟胶就不疼了，还有如果没刮干净也会痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038430305275748352"
+          ]
+        },
+        "author_id": "1792933283040284673",
+        "conversation_id": "2038430307913969824",
+        "created_at": "2026-03-30T01:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038430307913969824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2qKpXOqSm",
+              "end": 55,
+              "expanded_url": "https://x.com/tuamitx0/status/2038430307913969824/photo/1",
+              "media_key": "3_2038430305275748352",
+              "start": 32,
+              "url": "https://t.co/J2qKpXOqSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038430307913969824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2197,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拖延症啊。不想动\n每天用激光脱毛都要只是一个小时，还疼得要死😇 https://t.co/J2qKpXOqSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆羡慕炸柜丨citywalk lover＆minecraft丨不pass丨梦想srs丨貌似有精神问题过段时间有空去查查",
+        "id": "1887391023976038400",
+        "location": "豫章",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 226,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/裏垢：https://t.co/q7AzGVPC4y /联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pari.cafe/@poi",
+                "end": 41,
+                "expanded_url": "https://pari.cafe/@poi",
+                "start": 18,
+                "url": "https://t.co/q7AzGVPC4y"
+              },
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 71,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 48,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst🍫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013987958014296065/ZXpt5StP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 802,
+          "like_count": 26235,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 16188
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

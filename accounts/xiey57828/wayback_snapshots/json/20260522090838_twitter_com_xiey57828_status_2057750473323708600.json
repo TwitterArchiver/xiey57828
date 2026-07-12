@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057750288635985920"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2057750473323708600",
+    "created_at": "2026-05-22T09:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057750473323708600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7MSn2xtI0q",
+          "end": 38,
+          "expanded_url": "https://x.com/xiey57828/status/2057750473323708600/photo/1",
+          "media_key": "3_2057750288635985920",
+          "start": 15,
+          "url": "https://t.co/7MSn2xtI0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057750473323708600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个怎么样，之前看到过有人跳 https://t.co/7MSn2xtI0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057750288635985920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6Y_C6bAAAJyXR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057750288635985920"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2057750473323708600",
+        "created_at": "2026-05-22T09:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057750473323708600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MSn2xtI0q",
+              "end": 38,
+              "expanded_url": "https://x.com/xiey57828/status/2057750473323708600/photo/1",
+              "media_key": "3_2057750288635985920",
+              "start": 15,
+              "url": "https://t.co/7MSn2xtI0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057750473323708600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个怎么样，之前看到过有人跳 https://t.co/7MSn2xtI0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "活着不好，死了不错",
+        "id": "1887391023976038400",
+        "location": "乌托邦",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 321,
+          "like_count": 5995,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 2199
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

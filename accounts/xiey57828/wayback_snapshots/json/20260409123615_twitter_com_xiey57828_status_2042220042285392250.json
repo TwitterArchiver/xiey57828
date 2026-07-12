@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2042220042285392250",
+    "created_at": "2026-04-09T12:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042220042285392250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nacn999/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nacn999/status/2041819217444663764",
+          "start": 9,
+          "url": "https://t.co/y0hNGM8z3c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042220042285392250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041819217444663764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种腿到底怎么练 https://t.co/y0hNGM8z3c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2041819105892954113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFX_qKZa8AEcaYy.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042220042285392250",
+        "created_at": "2026-04-09T12:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042220042285392250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nacn999/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nacn999/status/2041819217444663764",
+              "start": 9,
+              "url": "https://t.co/y0hNGM8z3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220042285392250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041819217444663764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种腿到底怎么练 https://t.co/y0hNGM8z3c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041819105892954113"
+          ]
+        },
+        "author_id": "2018245927371501568",
+        "conversation_id": "2041819217444663764",
+        "created_at": "2026-04-08T10:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041819217444663764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bM8wqaRahY",
+              "end": 35,
+              "expanded_url": "https://x.com/nacn999/status/2041819217444663764/photo/1",
+              "media_key": "3_2041819105892954113",
+              "start": 12,
+              "url": "https://t.co/bM8wqaRahY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041819217444663764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 47363,
+          "like_count": 1394,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂带图标的小腿袜吗 https://t.co/bM8wqaRahY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 128,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 105,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 418,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T08:51:53.000Z",
+        "description": "♂️；ACGN全肯定；把推当树洞；拍的不好看请别骂我",
+        "id": "2018245927371501568",
+        "location": "魔都",
+        "name": "氰化钠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018247133393272832/IYiFoP_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 89,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 390
+        },
+        "username": "nacn999",
+        "verified": false
+      }
+    ]
+  }
+}

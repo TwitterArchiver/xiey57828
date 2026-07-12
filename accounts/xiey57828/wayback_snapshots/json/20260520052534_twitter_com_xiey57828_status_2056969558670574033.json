@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2056969558670574033",
+    "created_at": "2026-05-20T05:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056969558670574033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IgnoredReal/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/IgnoredReal/status/2056914544510013660",
+          "start": 10,
+          "url": "https://t.co/x8FqdZIBYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056969558670574033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056914544510013660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "考到了这里，吓哭了 https://t.co/x8FqdZIBYb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 429500,
+        "height": 952,
+        "media_key": "13_2056914458031828992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056914458031828992/img/oOublLdshcBfDBK_.jpg",
+        "public_metrics": {
+          "view_count": 35254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056914458031828992/vid/avc1/320x564/UTfTEPkQHe0xidVY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056914458031828992/vid/avc1/480x846/Cy_TSveUBUZaiFez.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056914458031828992/vid/avc1/540x952/3AoTC9JgHGY7oEY9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056914458031828992/pl/E4ANTGBjHgNACndX.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2056969558670574033",
+        "created_at": "2026-05-20T05:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056969558670574033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IgnoredReal/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/IgnoredReal/status/2056914544510013660",
+              "start": 10,
+              "url": "https://t.co/x8FqdZIBYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056969558670574033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056914544510013660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "考到了这里，吓哭了 https://t.co/x8FqdZIBYb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056914458031828992"
+          ]
+        },
+        "author_id": "962077200",
+        "conversation_id": "2056914544510013660",
+        "created_at": "2026-05-20T01:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056914544510013660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiF6OkvE7M",
+              "end": 77,
+              "expanded_url": "https://x.com/IgnoredReal/status/2056914544510013660/video/1",
+              "media_key": "13_2056914458031828992",
+              "start": 54,
+              "url": "https://t.co/LiF6OkvE7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056914544510013660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "恐怖一幕：上海第二工业大学迟到学生发飙喊杀！\n\n前情提要，大概就是这个人来上课来得晚了，只有前排的座位了。\n\n老师让他坐第一排，他说坐不了，然后让他坐到第二排。老师跟他提了一句说不要睡觉，然后他就突然生气了，跑到教室外面去拿消防器材乱砸，还砸教室的门，接着进来质问老师说为什么要折了他的面子。\n老师说 你到底要干嘛？他就开始怒吼 杀杀杀。\n后来老师没招了，跟他道歉，说是老师的错，不该打扰你睡觉，这个时候他好像消气了，转身准备离开，老师也已经心力憔悴了，就说就这样吧，这节课就这样，先下课吧。\n然后他就很生气，又折返回来对着老师怒吼说你要把我们的矛盾转移到同学身上吗，最后他吼着什么 这就是所谓的集体、荣誉……哼哼哼……就离开了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 98715,
+          "like_count": 268,
+          "quote_count": 9,
+          "reply_count": 46,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "恐怖一幕：上海第二工业大学迟到学生发飙喊杀！\n\n前情提要，大概就是这个人来上课来得晚了，只有前排的座位了。 https://t.co/LiF6OkvE7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑希望能见到太阳升起的那天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 316,
+          "like_count": 5744,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-21T09:32:51.000Z",
+        "description": "工作是996，新闻是404，关注主流忽略的新闻。人生苦短，新闻更短。点个关注，一起emo。| Mainstream too busy? We post the stuff nobody asked for. Ordinary life, zero likes, still going.",
+        "id": "962077200",
+        "name": "被忽略",
+        "pinned_tweet_id": "2020490608616538302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021682786449707008/4NbW5dve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24499,
+          "following_count": 1735,
+          "like_count": 628,
+          "listed_count": 31,
+          "media_count": 972,
+          "tweet_count": 14921
+        },
+        "username": "IgnoredReal",
+        "verified": true
+      }
+    ]
+  }
+}

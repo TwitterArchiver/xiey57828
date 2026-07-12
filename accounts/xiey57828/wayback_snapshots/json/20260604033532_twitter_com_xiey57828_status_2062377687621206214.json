@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062377330987905247",
+    "created_at": "2026-06-04T03:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062377687621206214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062377687621206214",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062377330987905247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 😱居然有人记录了我😋\n谢谢你喵，嘿嘿，虽然几天后就会忘记，虽然是不好的事情…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2062377320535711744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8JPv9aYAAVipU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 323,
+        "media_key": "3_2062377320514801665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8JPv4bUAEuubB.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062377330987905247",
+        "created_at": "2026-06-04T03:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062377687621206214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062377687621206214",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062377330987905247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 😱居然有人记录了我😋\n谢谢你喵，嘿嘿，虽然几天后就会忘记，虽然是不好的事情…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062377320535711744",
+            "3_2062377320514801665"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2062377330987905247",
+        "created_at": "2026-06-04T03:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062377330987905247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IakdTrRJUr",
+              "end": 53,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2062377330987905247/photo/1",
+              "media_key": "3_2062377320535711744",
+              "start": 30,
+              "url": "https://t.co/IakdTrRJUr"
+            },
+            {
+              "display_url": "pic.x.com/IakdTrRJUr",
+              "end": 53,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2062377330987905247/photo/1",
+              "media_key": "3_2062377320514801665",
+              "start": 30,
+              "url": "https://t.co/IakdTrRJUr"
+            },
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/xiey57828/status/2062371987931210004",
+              "start": 54,
+              "url": "https://t.co/PmSY7Yc3YI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062377330987905247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062371987931210004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妳好，有的；人要學會為自己說的話負責，因為言說是一種行動。 https://t.co/IakdTrRJUr https://t.co/PmSY7Yc3YI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑大证含糖，半家长党。喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。视力四级残疾，大概30岁之前会瞎然后死掉。\n或许在这个世界上会有人喜欢我，只是我还未从遇见。我想再等等。\n看不惯我的人能不能屏蔽我？你们看到我烦我看到你们也烦😅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 398,
+          "like_count": 7466,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2762
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。祢有一個我不會忘記的代詞。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "Erlösung",
+        "name": "小羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 148,
+          "like_count": 8101,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 5711
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

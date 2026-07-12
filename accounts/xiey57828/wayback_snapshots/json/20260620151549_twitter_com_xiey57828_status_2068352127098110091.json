@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2067922526165143811",
+    "created_at": "2026-06-20T15:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068352127098110091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1152599208106455040",
+          "start": 0,
+          "username": "zhongqucoda823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068352127098110091",
+    "in_reply_to_user_id": "1152599208106455040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068337508715487336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongqucoda823 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2067922526165143811",
+        "created_at": "2026-06-20T15:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068352127098110091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1152599208106455040",
+              "start": 0,
+              "username": "zhongqucoda823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068352127098110091",
+        "in_reply_to_user_id": "1152599208106455040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068337508715487336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongqucoda823 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152599208106455040",
+        "conversation_id": "2067922526165143811",
+        "created_at": "2026-06-20T14:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068337508715487336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068337508715487336",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1064,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067922526165143811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 女儿没当过，别人的后妈倒是当过不少次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 462,
+          "like_count": 9069,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-20T15:20:40.000Z",
+        "description": "常驻长三角 只玩X平台和电报 \n电报聊天群：https://t.co/3HLd2UuxMq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/codacoda521",
+                "end": 45,
+                "expanded_url": "https://t.me/codacoda521",
+                "start": 22,
+                "url": "https://t.co/3HLd2UuxMq"
+              }
+            ]
+          }
+        },
+        "id": "1152599208106455040",
+        "location": "🚪50",
+        "name": "Codaaaaa",
+        "pinned_tweet_id": "2067244700474671498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865571792951394304/DLwnGhVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141078,
+          "following_count": 159,
+          "like_count": 300,
+          "listed_count": 590,
+          "media_count": 91,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "zhongqucoda823",
+        "verified": true
+      }
+    ]
+  }
+}

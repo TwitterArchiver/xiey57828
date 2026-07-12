@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2043107621461463234",
+    "created_at": "2026-04-12T00:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T01:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043126536078032923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043126536078032923",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043107621461463234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 可爱捏😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6840,
+        "height": 720,
+        "media_key": "13_2043107559759056899",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043107559759056899/img/6OcKGgrBydE535P3.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043107559759056899/vid/avc1/360x270/JZpsGMiXd2QlKvJY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043107559759056899/vid/avc1/480x360/j3h9MpIfeqE-18Bw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043107559759056899/vid/avc1/960x720/hT9lBlFZpghMySpP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043107559759056899/pl/qEYJ_Lv-0pz7L8C5.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2043107621461463234",
+        "created_at": "2026-04-12T00:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T01:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043126536078032923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043126536078032923",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043107621461463234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 可爱捏😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043107559759056899"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2043107621461463234",
+        "created_at": "2026-04-11T23:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043107621461463234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzPLKRqt5z",
+              "end": 38,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2043107621461463234/video/1",
+              "media_key": "13_2043107559759056899",
+              "start": 15,
+              "url": "https://t.co/ZzPLKRqt5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043107621461463234",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 140,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(*&gt;_&lt;*)ﾉ https://t.co/ZzPLKRqt5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，我想学Python。https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 138,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 115,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2042381887642222758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 456,
+          "like_count": 1653,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘，谢谢喜欢。好きになってくれてありがとうございます",
+        "id": "1763034943599607808",
+        "location": "🉑🌙🚪48",
+        "name": "月光的琉璃梦🏳️‍⚧️🍥🌸4代目",
+        "pinned_tweet_id": "2041532208981430542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 66,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1026
+        },
+        "username": "moonlight_ruri",
+        "verified": false
+      }
+    ]
+  }
+}

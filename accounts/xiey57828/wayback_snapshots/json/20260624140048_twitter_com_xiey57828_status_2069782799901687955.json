@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2069782799901687955",
+    "created_at": "2026-06-24T14:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069782799901687955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deriniko9/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/deriniko9/status/2069476009112371517",
+          "start": 26,
+          "url": "https://t.co/Nx6TvvbNMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069782799901687955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069476009112371517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我重生了,这一世我不要这么累了，早点就可以去死了。 https://t.co/Nx6TvvbNMP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2069782799901687955",
+        "created_at": "2026-06-24T14:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069782799901687955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deriniko9/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/deriniko9/status/2069476009112371517",
+              "start": 26,
+              "url": "https://t.co/Nx6TvvbNMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069782799901687955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069476009112371517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我重生了,这一世我不要这么累了，早点就可以去死了。 https://t.co/Nx6TvvbNMP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89478500",
+        "conversation_id": "2069476009112371517",
+        "created_at": "2026-06-23T17:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069476009112371517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069476009112371517",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {},
+          "text": "Güncel yaşlarımız \n\n1988 - 30 yaşında\n1989 - 29 yaşında\n1990 - 28 yaşında\n1991 - 27 yaşında\n1992 - 26 yaşında\n1993 - 25 yaşında\n1994 - 24 yaşında\n1995 - 23 yaşında\n1996 - 22 yaşında\n1997 - 21 yaşında\n1998 - 20 yaşında\n1999 - 19 yaşında\n2000 - 18 yaşında\n2001 - 17 yaşında\n2002 - 16 yaşında\n2003 - 15 yaşında\n2004 - 14 yaşında"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 547,
+          "impression_count": 1163927,
+          "like_count": 3806,
+          "quote_count": 487,
+          "reply_count": 385,
+          "retweet_count": 969
+        },
+        "reply_settings": "everyone",
+        "text": "Güncel yaşlarımız \n\n1988 - 30 yaşında\n1989 - 29 yaşında\n1990 - 28 yaşında\n1991 - 27 yaşında\n1992 - 26 yaşında\n1993 - 25 yaşında\n1994 - 24 yaşında\n1995 - 23 yaşında\n1996 - 22 yaşında\n1997 - 21 yaşında\n1998 - 20 yaşında\n1999 - 19 yaşında\n2000 - 18 yaşında\n2001 - 17 yaşında\n2002 -"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我想死吗？想。我敢死吗？不敢。我就是个懦夫。口嗨罢了。负面情绪警告⚠",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 487,
+          "like_count": 9357,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 3651
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T16:14:33.000Z",
+        "description": "🌼",
+        "id": "89478500",
+        "name": "DERİN",
+        "pinned_tweet_id": "2069476009112371517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032924806786510848/_H4fQ4cq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11063,
+          "following_count": 10186,
+          "like_count": 39104,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 21864
+        },
+        "url": "",
+        "username": "deriniko9",
+        "verified": true
+      }
+    ]
+  }
+}

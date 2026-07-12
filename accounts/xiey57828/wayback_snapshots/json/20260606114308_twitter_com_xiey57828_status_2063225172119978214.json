@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2063067945526530462",
+    "created_at": "2026-06-06T11:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063225172119978214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1355091688230805517",
+          "start": 0,
+          "username": "cheeset13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063225172119978214",
+    "in_reply_to_user_id": "1355091688230805517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063067945526530462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheeset13 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063067938316587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKF9W_rbkAA5xOP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2063067945526530462",
+        "created_at": "2026-06-06T11:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063225172119978214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1355091688230805517",
+              "start": 0,
+              "username": "cheeset13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063225172119978214",
+        "in_reply_to_user_id": "1355091688230805517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063067945526530462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheeset13 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063067938316587008"
+          ]
+        },
+        "author_id": "1355091688230805517",
+        "conversation_id": "2063067945526530462",
+        "created_at": "2026-06-06T01:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063067945526530462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLalcGa6Kb",
+              "end": 35,
+              "expanded_url": "https://x.com/cheeset13/status/2063067945526530462/photo/1",
+              "media_key": "3_2063067938316587008",
+              "start": 12,
+              "url": "https://t.co/YLalcGa6Kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063067945526530462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 18369,
+          "like_count": 1716,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子床铺展示🀄，，， https://t.co/YLalcGa6Kb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "所有和我接触密切的人都会倒霉",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 417,
+          "like_count": 7814,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2912
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T09:53:43.000Z",
+        "description": "",
+        "id": "1355091688230805517",
+        "location": "南京",
+        "name": "焦糖布丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062470070249672704/oHQf5z4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 469,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "cheeset13",
+        "verified": false
+      }
+    ]
+  }
+}

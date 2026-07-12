@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2057412790563004808",
+    "created_at": "2026-05-21T10:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057412790563004808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057412790563004808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们有证之后怎么进行正规hrt啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2057412790563004808",
+        "created_at": "2026-05-21T10:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057412790563004808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057412790563004808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们有证之后怎么进行正规hrt啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑内心坚定的mtf。大证2026.5.21丨永远18岁！丨喜欢男生、mc和猫猫叶@LeavesMao丨无精神病？丨家长党？有点天赋党？丨我怎么这么丑啊😭😭😭丨2026年5月16日第二次生命。希望大家珍惜生命，活着才可能会有见到太阳的那天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "乌托邦",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 319,
+          "like_count": 5900,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 2166
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

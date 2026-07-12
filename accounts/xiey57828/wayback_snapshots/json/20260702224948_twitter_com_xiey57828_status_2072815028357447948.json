@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2072655647858966590",
+    "created_at": "2026-07-02T22:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072815028357447948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798798722018758656",
+          "start": 0,
+          "username": "dreamlessnia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072815028357447948",
+    "in_reply_to_user_id": "1798798722018758656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072670923828986272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamlessnia 前天进水湿了也没味（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2072655647858966590",
+        "created_at": "2026-07-02T22:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072815028357447948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798798722018758656",
+              "start": 0,
+              "username": "dreamlessnia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072815028357447948",
+        "in_reply_to_user_id": "1798798722018758656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072670923828986272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamlessnia 前天进水湿了也没味（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798798722018758656",
+        "conversation_id": "2072655647858966590",
+        "created_at": "2026-07-02T13:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072670923828986272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072670923828986272",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072655647858966590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我的也是，只要天气不闷，袜子没沾水没运动就是芝士味w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2072488261315149858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 507,
+          "like_count": 10036,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T19:27:04.000Z",
+        "description": "吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱！\n友跨🏳️‍⚧️",
+        "id": "1798798722018758656",
+        "name": "栀栀栀栀栀子花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980459459773128704/QO5yl8qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 584,
+          "like_count": 7859,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "dreamlessnia",
+        "verified": false
+      }
+    ]
+  }
+}

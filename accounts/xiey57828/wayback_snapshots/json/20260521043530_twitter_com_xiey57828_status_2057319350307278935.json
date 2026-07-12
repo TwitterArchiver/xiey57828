@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2057317081721528528",
+    "created_at": "2026-05-21T04:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057319350307278935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869219648492986368",
+          "start": 0,
+          "username": "btbt673308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057319350307278935",
+    "in_reply_to_user_id": "1869219648492986368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057319059658772527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btbt673308 那我不是精神病了，我问我妈我是不是精神病，她说不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2057317081721528528",
+        "created_at": "2026-05-21T04:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057319350307278935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869219648492986368",
+              "start": 0,
+              "username": "btbt673308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057319350307278935",
+        "in_reply_to_user_id": "1869219648492986368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057319059658772527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btbt673308 那我不是精神病了，我问我妈我是不是精神病，她说不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869219648492986368",
+        "conversation_id": "2057317081721528528",
+        "created_at": "2026-05-21T04:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057319059658772527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057319059658772527",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057317081721528528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我们精神病改变世界😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑希望能见到太阳升起的那天",
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 318,
+          "like_count": 5835,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 2137
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T03:14:43.000Z",
+        "description": "简介应该怎么写呢 性别男 品种 侏罗纪短手霸王龙🦖   雅俗共赏\n文学业余爱好者（只吹水不看书） 轻音乐爱好者  加密小白 抽奖爱好者\n骚扰大家and陪大家发疯",
+        "id": "1869219648492986368",
+        "name": "bt bt",
+        "pinned_tweet_id": "2055951391106208032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022350993426685952/d19-RPSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 651,
+          "like_count": 2025,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 3716
+        },
+        "username": "btbt673308",
+        "verified": false
+      }
+    ]
+  }
+}

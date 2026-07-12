@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2072887334199242824",
+    "created_at": "2026-07-03T03:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072888959428923848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1842108320611762178",
+          "start": 0,
+          "username": "Knowing_Dreams"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072888959428923848",
+    "in_reply_to_user_id": "1842108320611762178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072887334199242824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knowing_Dreams 牛逼兄弟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2072887314691629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRgB7OboAAS0uh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2072887334199242824",
+        "created_at": "2026-07-03T03:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072888959428923848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1842108320611762178",
+              "start": 0,
+              "username": "Knowing_Dreams"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072888959428923848",
+        "in_reply_to_user_id": "1842108320611762178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072887334199242824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knowing_Dreams 牛逼兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072887314691629056"
+          ]
+        },
+        "author_id": "1842108320611762178",
+        "conversation_id": "2072887334199242824",
+        "created_at": "2026-07-03T03:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072887334199242824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmLy0i9QGj",
+              "end": 30,
+              "expanded_url": "https://x.com/Knowing_Dreams/status/2072887334199242824/photo/1",
+              "media_key": "3_2072887314691629056",
+              "start": 7,
+              "url": "https://t.co/gmLy0i9QGj"
+            },
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/xiey57828/status/2072883471714783594",
+              "start": 31,
+              "url": "https://t.co/8GkN1ily9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072887334199242824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072883471714783594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陪一个，电专 https://t.co/gmLy0i9QGj https://t.co/8GkN1ily9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2072488261315149858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 506,
+          "like_count": 10060,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 3986
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-04T07:44:08.000Z",
+        "description": "04/190cm/89kg/双 | 浮生若梦，为欢几何？| 生活推 · 碎碎念 · 纯清水 | 疑神疑鬼的深柜大处男 | 欢迎扩列，推止于推",
+        "id": "1842108320611762178",
+        "location": "群山之巅",
+        "name": "晓梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062431741814652928/ohg3kD4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 591,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "Knowing_Dreams",
+        "verified": true
+      }
+    ]
+  }
+}

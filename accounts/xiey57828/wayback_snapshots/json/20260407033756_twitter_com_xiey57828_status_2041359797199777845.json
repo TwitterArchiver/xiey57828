@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2041359797199777845",
+    "created_at": "2026-04-07T03:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041359797199777845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041359797199777845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道导员从哪知道我抑郁的？我要死了她说要告诉我父母🤔😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2041359797199777845",
+        "created_at": "2026-04-07T03:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041359797199777845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041359797199777845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道导员从哪知道我抑郁的？我要死了她说要告诉我父母🤔😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四马上毕业丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨精神状态不好。https://t.co/dlkZFZjfgW我是人机",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 133,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 110,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2040430005826797922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 399,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 338
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

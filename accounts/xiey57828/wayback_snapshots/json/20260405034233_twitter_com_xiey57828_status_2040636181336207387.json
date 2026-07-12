@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040636177557192704"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2040622911686664645",
+    "created_at": "2026-04-05T03:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T04:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040636181336207387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862650099614326786",
+          "start": 0,
+          "username": "qqqqqq223355"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9g5J1uuWhx",
+          "end": 44,
+          "expanded_url": "https://x.com/xiey57828/status/2040636181336207387/photo/1",
+          "media_key": "3_2040636177557192704",
+          "start": 21,
+          "url": "https://t.co/9g5J1uuWhx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040636181336207387",
+    "in_reply_to_user_id": "1862650099614326786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040622911686664645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqq223355 完原神玩的（ https://t.co/9g5J1uuWhx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2040636177557192704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHLyq8bgAAuejA.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040636177557192704"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2040622911686664645",
+        "created_at": "2026-04-05T03:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040636181336207387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862650099614326786",
+              "start": 0,
+              "username": "qqqqqq223355"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9g5J1uuWhx",
+              "end": 44,
+              "expanded_url": "https://x.com/xiey57828/status/2040636181336207387/photo/1",
+              "media_key": "3_2040636177557192704",
+              "start": 21,
+              "url": "https://t.co/9g5J1uuWhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040636181336207387",
+        "in_reply_to_user_id": "1862650099614326786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040622911686664645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqq223355 完原神玩的（ https://t.co/9g5J1uuWhx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862650099614326786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2040622911686664645",
+        "created_at": "2026-04-05T02:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040622911686664645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040622911686664645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到清明节我才发现我们村这么富！\n各种兰博基尼，宝马奔驰，迈巴赫！！！\n为啥只有我在骑电驴……\n很简单，因为可悲的原神家庭🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF＆友跨🏳️‍⚧️丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机丨淡推学习",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2040246688078831627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 362,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 211
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T00:09:36.000Z",
+        "description": "mtf/药娘/od/地雷系/福瑞控/飞机场/精神分裂/爱玩抽象的梗小鬼/25岁家里蹲/尼特/小学文凭/原生家庭受害者/共产主义接班人/喜爱福手游大王/gay/四爱/百合豚/鉴政达人/子平八字/爱党爱国/台湾统一/川普让美国伟大/字母/猫女的一生不受束缚/成分复杂#以上内容只有一项是真的",
+        "id": "1862650099614326786",
+        "name": "芙宁娜（爆仓下海版）🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034266871441285120/qHbel1ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 23,
+          "like_count": 62,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 984
+        },
+        "username": "qqqqqq223355",
+        "verified": false
+      }
+    ]
+  }
+}

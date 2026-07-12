@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2046493083018387612",
+    "created_at": "2026-04-21T07:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046494236464578598"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046494236464578598",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046493083018387612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怪不得我昨晚让室友砍他没看见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2046493078777892864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaanMPaEAA24H1.jpg",
+        "width": 1188
+      },
+      {
+        "height": 584,
+        "media_key": "3_2046493079759474690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaanP5b0AIXiHF.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2046493083018387612",
+        "created_at": "2026-04-21T07:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046494236464578598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046494236464578598",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046493083018387612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怪不得我昨晚让室友砍他没看见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046493078777892864",
+            "3_2046493079759474690"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2046493083018387612",
+        "created_at": "2026-04-21T07:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046493083018387612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPwQ4WLb1A",
+              "end": 36,
+              "expanded_url": "https://x.com/xiey57828/status/2046493083018387612/photo/1",
+              "media_key": "3_2046493078777892864",
+              "start": 13,
+              "url": "https://t.co/FPwQ4WLb1A"
+            },
+            {
+              "display_url": "pic.x.com/FPwQ4WLb1A",
+              "end": 36,
+              "expanded_url": "https://x.com/xiey57828/status/2046493083018387612/photo/1",
+              "media_key": "3_2046493079759474690",
+              "start": 13,
+              "url": "https://t.co/FPwQ4WLb1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046493083018387612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒是不是把我禁了😰 https://t.co/FPwQ4WLb1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "#人妖 #跨畜 #精神病  #od #自残 #出生 #白眼狼 #不成熟 #神经病 #脑残 #缺爱 #微信粉 #OPPO粉。傻逼健全人，只对健全人刻薄\n最好的宝宝@xyu1182202 。最好的妹妹@LeavesMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "人妖"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "跨畜"
+              },
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "精神病"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "自残"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "出生"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "白眼狼"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "不成熟"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "神经病"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "脑残"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "缺爱"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "微信粉"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "OPPO粉"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "pinned_tweet_id": "2046400320176005588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 264,
+          "like_count": 3485,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

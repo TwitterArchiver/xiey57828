@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2056145595702944050",
+    "created_at": "2026-05-18T05:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056249690132545924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862650099614326786",
+          "start": 0,
+          "username": "qqqqqq223355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056249690132545924",
+    "in_reply_to_user_id": "1862650099614326786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056145595702944050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqq223355 原神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_2056145592913661953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjlhdgakAE-1uv.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2056145595702944050",
+        "created_at": "2026-05-18T05:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056249690132545924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862650099614326786",
+              "start": 0,
+              "username": "qqqqqq223355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056249690132545924",
+        "in_reply_to_user_id": "1862650099614326786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056145595702944050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqq223355 原神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056145592913661953"
+          ]
+        },
+        "author_id": "1862650099614326786",
+        "conversation_id": "2056145595702944050",
+        "created_at": "2026-05-17T22:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056145595702944050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmenVlM4Xy",
+              "end": 64,
+              "expanded_url": "https://x.com/qqqqqq223355/status/2056145595702944050/photo/1",
+              "media_key": "3_2056145592913661953",
+              "start": 41,
+              "url": "https://t.co/ZmenVlM4Xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056145595702944050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近有没有什么好玩的二次元游戏啊，轻松休闲，立绘好看，没有pvp和真人社交内容的 https://t.co/ZmenVlM4Xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "事情不是我想要的样子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃",
+        "pinned_tweet_id": "2055853934460522952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 307,
+          "like_count": 5567,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T00:09:36.000Z",
+        "description": "mtf/药娘/od/地雷系/福瑞控/飞机场/精神分裂/爱玩抽象的梗小鬼/25岁家里蹲/尼特/小学文凭/原生家庭受害者/共产主义接班人/喜爱福手游大王/gay/四爱/百合豚/鉴政达人/科学的尽头是玄学/爱党爱国/台湾统一/川普让美国再次伟大/字母圈/猫女的一生不受束缚/成分复杂/反党分子/原神60#以上内容只有一项是真的",
+        "id": "1862650099614326786",
+        "name": "芙宁娜（爆仓下海版）🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034266871441285120/qHbel1ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 24,
+          "like_count": 64,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 1184
+        },
+        "username": "qqqqqq223355",
+        "verified": false
+      }
+    ]
+  }
+}

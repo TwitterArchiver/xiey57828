@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2051942739160576011",
+    "created_at": "2026-05-06T14:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052029675921359239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862650099614326786",
+          "start": 0,
+          "username": "qqqqqq223355"
+        },
+        {
+          "end": 28,
+          "id": "1598557374046179328",
+          "start": 14,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052029675921359239",
+    "in_reply_to_user_id": "1862650099614326786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051983715681914894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqq223355 @huihui_mikumi 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2051942739160576011",
+        "created_at": "2026-05-06T14:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052029675921359239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862650099614326786",
+              "start": 0,
+              "username": "qqqqqq223355"
+            },
+            {
+              "end": 28,
+              "id": "1598557374046179328",
+              "start": 14,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052029675921359239",
+        "in_reply_to_user_id": "1862650099614326786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051983715681914894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqq223355 @huihui_mikumi 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862650099614326786",
+        "conversation_id": "2051942739160576011",
+        "created_at": "2026-05-06T11:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051983715681914894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051983715681914894",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051942739160576011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 因为这世界很有趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥🏳️‍⚧️ she / 沐桃！\n2009.03.27 | 半休学… | 山东 青岛 | 双相 | #Minecraft | 最好的妹妹 @LeavesMao | 焦虑中…迷茫中…丨另一个？我@xyu1182202不要喂负面情绪😡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 50,
+                "tag": "Minecraft"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xyu1182202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "猫窝",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2048948188070150603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051554729109737472/u8eZbhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 307,
+          "like_count": 5165,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T00:09:36.000Z",
+        "description": "mtf/药娘/od/地雷系/福瑞控/飞机场/精神分裂/爱玩抽象的梗小鬼/25岁家里蹲/尼特/小学文凭/原生家庭受害者/共产主义接班人/喜爱福手游大王/gay/四爱/百合豚/鉴政达人/科学的尽头是玄学/爱党爱国/台湾统一/川普让美国再次伟大/字母圈/猫女的一生不受束缚/成分复杂/反党分子/原神60#以上内容只有一项是真的",
+        "id": "1862650099614326786",
+        "name": "芙宁娜（爆仓下海版）🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034266871441285120/qHbel1ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 24,
+          "like_count": 62,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 1055
+        },
+        "username": "qqqqqq223355",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 432,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 788
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

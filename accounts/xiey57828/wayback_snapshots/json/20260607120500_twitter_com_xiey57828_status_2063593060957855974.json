@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063593058390937600"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063593060957855974",
+    "created_at": "2026-06-07T12:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063593060957855974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xCuLN64T8",
+          "end": 27,
+          "expanded_url": "https://x.com/xiey57828/status/2063593060957855974/photo/1",
+          "media_key": "3_2063593058390937600",
+          "start": 4,
+          "url": "https://t.co/7xCuLN64T8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063593060957855974",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤣🤣🤣 https://t.co/7xCuLN64T8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063593058390937600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNa9AZakAA6boH.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063593058390937600"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063593060957855974",
+        "created_at": "2026-06-07T12:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063593060957855974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xCuLN64T8",
+              "end": 27,
+              "expanded_url": "https://x.com/xiey57828/status/2063593060957855974/photo/1",
+              "media_key": "3_2063593058390937600",
+              "start": 4,
+              "url": "https://t.co/7xCuLN64T8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063593060957855974",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣 https://t.co/7xCuLN64T8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑出生08.02.16可能是跨畜也可能反跨（另一个我）😋丨喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！精神状态超好！？😉丨双相，视力残疾丨喜欢@StarryNocts（明恋！）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "StarryNocts"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 418,
+          "like_count": 7938,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 2955
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

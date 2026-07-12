@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2048612010515218718",
+    "created_at": "2026-04-27T06:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048657412626993599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652290033926254592",
+          "start": 0,
+          "username": "huanmengyuandi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048657412626993599",
+    "in_reply_to_user_id": "1652290033926254592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048650534673109233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanmengyuandi 磕药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2048612010515218718",
+        "created_at": "2026-04-27T06:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048657412626993599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652290033926254592",
+              "start": 0,
+              "username": "huanmengyuandi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048657412626993599",
+        "in_reply_to_user_id": "1652290033926254592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048650534673109233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanmengyuandi 磕药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652290033926254592",
+        "conversation_id": "2048612010515218718",
+        "created_at": "2026-04-27T06:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048650534673109233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048650534673109233",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048612010515218718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我也想要睡这么好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我好像搞砸了……\n坏宝宝@xyu1182202。乖宝宝@StarryNocts。最最最最好的妹妹@LeavesMao猫猫是坏猫哦！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/qfam1DZRUf"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 276,
+          "like_count": 4461,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/qfam1DZRUf",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T12:34:07.000Z",
+        "description": "小男娘，暂时已经戒掉了吃糖/OD/割手，重度焦虑抑郁患者，目前正在药物治疗，情绪很稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanmengyuandi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanmengyuandi1",
+                "start": 0,
+                "url": "https://t.co/FPnVEFrW95"
+              }
+            ]
+          }
+        },
+        "id": "1652290033926254592",
+        "name": "幻梦之渊底",
+        "pinned_tweet_id": "2047633140001497426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044411933349302272/RSvsQ2_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 67,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/FPnVEFrW95",
+        "username": "huanmengyuandi",
+        "verified": false
+      }
+    ]
+  }
+}

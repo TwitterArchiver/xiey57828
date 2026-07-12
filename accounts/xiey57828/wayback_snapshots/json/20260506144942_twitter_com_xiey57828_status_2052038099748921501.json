@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052038082594213888",
+        "3_2052038082665623552",
+        "3_2052038083915452417",
+        "3_2052038083751858176"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052038099748921501",
+    "created_at": "2026-05-06T14:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052038099748921501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqHbf6RsNy",
+          "end": 77,
+          "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+          "media_key": "3_2052038082594213888",
+          "start": 54,
+          "url": "https://t.co/uqHbf6RsNy"
+        },
+        {
+          "display_url": "pic.x.com/uqHbf6RsNy",
+          "end": 77,
+          "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+          "media_key": "3_2052038082665623552",
+          "start": 54,
+          "url": "https://t.co/uqHbf6RsNy"
+        },
+        {
+          "display_url": "pic.x.com/uqHbf6RsNy",
+          "end": 77,
+          "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+          "media_key": "3_2052038083915452417",
+          "start": 54,
+          "url": "https://t.co/uqHbf6RsNy"
+        },
+        {
+          "display_url": "pic.x.com/uqHbf6RsNy",
+          "end": 77,
+          "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+          "media_key": "3_2052038083751858176",
+          "start": 54,
+          "url": "https://t.co/uqHbf6RsNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052038099748921501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好耶！\n辣死猫猫叶了🥺明明是微辣为什么我觉得不是很辣🥺\n不许割手😡\n哇，发夹好好看，就是我头发太短了…呜… https://t.co/uqHbf6RsNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2052038082594213888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpNw5KaEAAPPfN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2052038082665623552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpNw5bbsAAxtav.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052038083915452417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpNw-FakAEhUSs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052038083751858176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpNw9eaUAARuLl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052038082594213888",
+            "3_2052038082665623552",
+            "3_2052038083915452417",
+            "3_2052038083751858176"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052038099748921501",
+        "created_at": "2026-05-06T14:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052038099748921501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqHbf6RsNy",
+              "end": 77,
+              "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+              "media_key": "3_2052038082594213888",
+              "start": 54,
+              "url": "https://t.co/uqHbf6RsNy"
+            },
+            {
+              "display_url": "pic.x.com/uqHbf6RsNy",
+              "end": 77,
+              "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+              "media_key": "3_2052038082665623552",
+              "start": 54,
+              "url": "https://t.co/uqHbf6RsNy"
+            },
+            {
+              "display_url": "pic.x.com/uqHbf6RsNy",
+              "end": 77,
+              "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+              "media_key": "3_2052038083915452417",
+              "start": 54,
+              "url": "https://t.co/uqHbf6RsNy"
+            },
+            {
+              "display_url": "pic.x.com/uqHbf6RsNy",
+              "end": 77,
+              "expanded_url": "https://x.com/xiey57828/status/2052038099748921501/photo/1",
+              "media_key": "3_2052038083751858176",
+              "start": 54,
+              "url": "https://t.co/uqHbf6RsNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052038099748921501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶！\n辣死猫猫叶了🥺明明是微辣为什么我觉得不是很辣🥺\n不许割手😡\n哇，发夹好好看，就是我头发太短了…呜… https://t.co/uqHbf6RsNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥🏳️‍⚧️ she / 沐桃！\n2009.03.27 | 半休学… | 山东 青岛 | 双相 | #Minecraft | 最好的妹妹 @LeavesMao | 焦虑中…迷茫中…丨另一个？我@xyu1182202不要喂负面情绪😡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 50,
+                "tag": "Minecraft"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xyu1182202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "猫窝",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2048948188070150603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051554729109737472/u8eZbhQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 307,
+          "like_count": 5167,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

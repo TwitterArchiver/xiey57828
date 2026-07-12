@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2066913734279168400",
+    "created_at": "2026-06-17T03:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067082996898025956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972970846194180096",
+          "start": 0,
+          "username": "xuelingqiansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067082996898025956",
+    "in_reply_to_user_id": "1972970846194180096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066913734279168400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuelingqiansha 怎么你主页的图片都是敏感内容"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2066913729380290560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8nFf0XEAAW8oI.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2066913734279168400",
+        "created_at": "2026-06-17T03:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067082996898025956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972970846194180096",
+              "start": 0,
+              "username": "xuelingqiansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067082996898025956",
+        "in_reply_to_user_id": "1972970846194180096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066913734279168400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuelingqiansha 怎么你主页的图片都是敏感内容"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066913729380290560"
+          ]
+        },
+        "author_id": "1972970846194180096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066913734279168400",
+        "created_at": "2026-06-16T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066913734279168400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/pMkDRpxunI"
+            },
+            {
+              "display_url": "pic.x.com/JD6lI1GKWA",
+              "end": 64,
+              "expanded_url": "https://x.com/xuelingqiansha/status/2066913734279168400/photo/1",
+              "media_key": "3_2066913729380290560",
+              "start": 41,
+              "url": "https://t.co/JD6lI1GKWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066913734279168400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/pMkDRpxunI https://t.co/JD6lI1GKWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 445,
+          "like_count": 8862,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 3341
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T10:24:49.000Z",
+        "description": "05.2.20/hrt:24.5.16(已经是大龄药娘哩)/家长管不了党/长的一般/不会伪音(好难)/大学生一枚/学校:新疆 家:辽宁/不打算srs,就这样过一辈子,mtx/180大只(嘻嘻)/抖m,sub/讨厌被骗(超级超级讨厌)/同类互fo,随时欢迎找我玩捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuelingqiansha",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuelingqiansha",
+                "start": 0,
+                "url": "https://t.co/SKiotz39DX"
+              }
+            ]
+          }
+        },
+        "id": "1972970846194180096",
+        "location": "就在你的心里呀,笨蛋～",
+        "name": "雪澪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062878865501155328/bqTiL-ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 286,
+          "like_count": 1203,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/SKiotz39DX",
+        "username": "xuelingqiansha",
+        "verified": true
+      }
+    ]
+  }
+}

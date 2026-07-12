@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046758838091841536"
+      ],
+      "media_source_tweet_id": [
+        "2046759198638448658"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2046775636681978118",
+    "created_at": "2026-04-22T02:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046775636681978118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bRpHWKtrhN",
+          "end": 119,
+          "expanded_url": "https://x.com/smiroyama/status/2046759198638448658/photo/1",
+          "media_key": "3_2046758838091841536",
+          "start": 96,
+          "url": "https://t.co/bRpHWKtrhN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046775636681978118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046759198638448658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 嗨👋 我是雌二醇娘\n\n您可能对我不陌生，在国中生物的课堂上，老师在讲解女性生殖系统和青春期发育的时候提及到我。说什么雌激素促进第二性征发育、维持月经周期云云。… https://t.co/bRpHWKtrhN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_2046758838091841536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeMUa1bAAAZXNN.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046758838091841536"
+          ],
+          "media_source_tweet_id": [
+            "2046759198638448658"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2046775636681978118",
+        "created_at": "2026-04-22T02:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046775636681978118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRpHWKtrhN",
+              "end": 119,
+              "expanded_url": "https://x.com/smiroyama/status/2046759198638448658/photo/1",
+              "media_key": "3_2046758838091841536",
+              "start": 96,
+              "url": "https://t.co/bRpHWKtrhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046775636681978118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046759198638448658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 嗨👋 我是雌二醇娘\n\n您可能对我不陌生，在国中生物的课堂上，老师在讲解女性生殖系统和青春期发育的时候提及到我。说什么雌激素促进第二性征发育、维持月经周期云云。… https://t.co/bRpHWKtrhN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046758838091841536"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2046759198638448658",
+        "created_at": "2026-04-22T01:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:11:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046758850788004236",
+          "2046759198638448658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRpHWKtrhN",
+              "end": 103,
+              "expanded_url": "https://x.com/smiroyama/status/2046759198638448658/photo/1",
+              "media_key": "3_2046758838091841536",
+              "start": 80,
+              "url": "https://t.co/bRpHWKtrhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046759198638448658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "嗨👋 我是雌二醇娘\n\n您可能对我不陌生，在国中生物的课堂上，老师在讲解女性生殖系统和青春期发育的时候提及到我。说什么雌激素促进第二性征发育、维持月经周期云云。\n\n但实际上，在临床医学中，人们常常用我来做激素替代治疗。小红书上的”健康博主”常常把我和”激素”两个字绑在一起，配上一张触目惊心的封面，说用了我会发胖、会致癌、会让身体乱套。我感到很委屈。但事实上，绝经后的女性如果缺少我，骨质疏松、潮热、心血管风险都会接踵而来，我恰恰是在保护她们。\n\n说点题外话，我还有一群很特别的朋友，她们叫药娘。她们在青春期就认出了我，悄悄在论坛里搜索我的名字，把我的剂量、半衰期、给药途径背得比高考化学公式还熟。她们有人含着补佳乐、有人贴着雌二醇凝胶贴片、有人攒了好久的零花钱买进口针剂。我陪她们度过了很多个对着镜子反复确认的清晨。\n\n我希望有一天她们不需要那么辛苦。正规的内分泌科门诊、有资质的医生、被纳入医保的处方，这些本该是她们触手可及的东西。私自用药的剂量很难拿捏，没有人检测肝功能和凝血指标，我也会心疼的。我很愿意帮她们，只是希望她们被温柔地、被专业地对待，而不是只能躲在群聊里互相传消息。\n\n还有人在网上传说，给XYY核型的孩子补充我就能”纠正”染色体，我听了真的哭笑不得。染色体是写死在每一个细胞核里的，我一个激素哪有这个本事。\n\n顺带一提，我其实是个很恋家的分子，在卵巢、胎盘、肾上腺、甚至脂肪组织里都有我的身影。我喜欢和雌激素受体牵手，然后悄悄地告诉细胞核该做什么。每次看到需要我的人，不管是更年期的阿姨还是终于攒够钱挂到号的跨性别女孩，在得到妥善照料之后重新睡得着觉、对镜子里的自己露出笑容，我就觉得自己的存在很值得。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 554,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "嗨👋 我是雌二醇娘\n\n您可能对我不陌生，在国中生物的课堂上，老师在讲解女性生殖系统和青春期发育的时候提及到我。说什么雌激素促进第二性征发育、维持月经周期云云。 https://t.co/bRpHWKtrhN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "#人妖 #跨畜 #精神病  #od #自残 #出生 #白眼狼 #不成熟 #神经病 #脑残 #缺爱 #微信粉 #OPPO粉。最好的宝宝@xyu1182202 。最好的妹妹@LeavesMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "人妖"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "跨畜"
+              },
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "精神病"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "自残"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "出生"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "白眼狼"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "不成熟"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "神经病"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "脑残"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "缺爱"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "微信粉"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "OPPO粉"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "pinned_tweet_id": "2046400320176005588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 265,
+          "like_count": 3555,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\ndev https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 63,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 40,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3374,
+          "following_count": 1953,
+          "like_count": 8419,
+          "listed_count": 9,
+          "media_count": 1225,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

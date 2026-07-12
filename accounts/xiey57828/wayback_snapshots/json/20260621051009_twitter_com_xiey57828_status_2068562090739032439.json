@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068562083566723073"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068562090739032439",
+    "created_at": "2026-06-21T05:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068562090739032439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rvB1t9xlm",
+          "end": 61,
+          "expanded_url": "https://x.com/xiey57828/status/2068562090739032439/photo/1",
+          "media_key": "3_2068562083566723073",
+          "start": 38,
+          "url": "https://t.co/5rvB1t9xlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068562090739032439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的，不要为我的死去而悲伤，我去找你了，我们以后再也不用隔着玻璃说话了。 https://t.co/5rvB1t9xlm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2068562083566723073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUCQVrWIAEAzt3.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068562083566723073"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068562090739032439",
+        "created_at": "2026-06-21T05:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068562090739032439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rvB1t9xlm",
+              "end": 61,
+              "expanded_url": "https://x.com/xiey57828/status/2068562090739032439/photo/1",
+              "media_key": "3_2068562083566723073",
+              "start": 38,
+              "url": "https://t.co/5rvB1t9xlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068562090739032439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的，不要为我的死去而悲伤，我去找你了，我们以后再也不用隔着玻璃说话了。 https://t.co/5rvB1t9xlm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…\n❤️五好良跨不🚬不🍺不💊不🔪不🔞",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 464,
+          "like_count": 9123,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 3474
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2070733046563893256",
+    "created_at": "2026-06-27T04:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070733277011345550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486225700793495552",
+          "start": 0,
+          "username": "ABC13067637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070733277011345550",
+    "in_reply_to_user_id": "1486225700793495552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070733046563893256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC13067637 3我也想知道😡😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070732171627925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy38FrbEAAeTPq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070732175910297600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy38Voa4AALM4x.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070732180293292032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy38l9aEAAMtK4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2070733046563893256",
+        "created_at": "2026-06-27T04:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070733277011345550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070733277011345550",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070733046563893256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 3我也想知道😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070732171627925504",
+            "3_2070732175910297600",
+            "3_2070732180293292032"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "conversation_id": "2070733046563893256",
+        "created_at": "2026-06-27T04:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070733046563893256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1887391023976038400",
+              "start": 21,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apLFL5nY8Y",
+              "end": 64,
+              "expanded_url": "https://x.com/ABC13067637/status/2070733046563893256/photo/1",
+              "media_key": "3_2070732171627925504",
+              "start": 41,
+              "url": "https://t.co/apLFL5nY8Y"
+            },
+            {
+              "display_url": "pic.x.com/apLFL5nY8Y",
+              "end": 64,
+              "expanded_url": "https://x.com/ABC13067637/status/2070733046563893256/photo/1",
+              "media_key": "3_2070732175910297600",
+              "start": 41,
+              "url": "https://t.co/apLFL5nY8Y"
+            },
+            {
+              "display_url": "pic.x.com/apLFL5nY8Y",
+              "end": 64,
+              "expanded_url": "https://x.com/ABC13067637/status/2070733046563893256/photo/1",
+              "media_key": "3_2070732180293292032",
+              "start": 41,
+              "url": "https://t.co/apLFL5nY8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070733046563893256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.谢谢你的祝福，嘻嘻😚\n2.有对象了🥺，@xiey57828\n3.想知道🤤🤤🤤 https://t.co/apLFL5nY8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004年的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ \n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 491,
+          "like_count": 9460,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 3702
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "pinned_tweet_id": "2070438545823826325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 575,
+          "like_count": 3458,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2043893001660051563",
+    "created_at": "2026-04-14T07:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043948580671787396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        },
+        {
+          "end": 32,
+          "id": "1501388168200744965",
+          "start": 16,
+          "username": "mooimoo27008858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043948580671787396",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043914037856178245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 @mooimoo27008858 ？？？出了新款就算老旗舰吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2043893001660051563",
+        "created_at": "2026-04-14T07:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043948580671787396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            },
+            {
+              "end": 32,
+              "id": "1501388168200744965",
+              "start": 16,
+              "username": "mooimoo27008858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043948580671787396",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043914037856178245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 @mooimoo27008858 ？？？出了新款就算老旗舰吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2043893001660051563",
+        "created_at": "2026-04-14T04:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043914037856178245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1501388168200744965",
+              "start": 0,
+              "username": "mooimoo27008858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043914037856178245",
+        "in_reply_to_user_id": "1501388168200744965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043905790466240863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mooimoo27008858 超过5年的才算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦🥵。精神状态取决于我的父亲🥺，o！😣。碎碎念😇....自我介绍在@520xiey57828。好宝宝@ST_Bed0721可以私信或者tg找我聊天喵😋https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "520xiey57828"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "ST_Bed0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 114,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 91,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2043615386068029455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 506,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9509,
+          "following_count": 920,
+          "like_count": 75253,
+          "listed_count": 19,
+          "media_count": 1500,
+          "tweet_count": 10686
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-09T02:43:50.000Z",
+        "description": "看！",
+        "id": "1501388168200744965",
+        "location": "在你眼前",
+        "name": "mooi",
+        "pinned_tweet_id": "2017953322226061315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911789715117789184/L7W2gkOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 316,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 241
+        },
+        "username": "mooimoo27008858",
+        "verified": false
+      }
+    ]
+  }
+}

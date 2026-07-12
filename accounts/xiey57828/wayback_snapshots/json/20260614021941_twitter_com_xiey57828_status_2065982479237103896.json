@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065975518235599292",
+    "created_at": "2026-06-14T02:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065982479237103896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036071254873276416",
+          "start": 0,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065982479237103896",
+    "in_reply_to_user_id": "2036071254873276416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065982017628438690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renyue105 精神分裂就精神分裂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065975518235599292",
+        "created_at": "2026-06-14T02:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065982479237103896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065982479237103896",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065982017628438690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 精神分裂就精神分裂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2065975518235599292",
+        "created_at": "2026-06-14T02:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065982017628438690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065982017628438690",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065979304572543355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 感觉这几天性别焦虑是消退了好多好多😢和白月聊了很久呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥MtF大证含糖，手术无望\n🍰出生08.02.16\n🤤喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！🤤\n🏥精神状态超好！？😉\n😇双相，视力残疾😱\n🥺缺爱b，渴望被爱…\n所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 432,
+          "like_count": 8659,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3230
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "pinned_tweet_id": "2065932985958859027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065072908758667265/kAAtCjsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 67,
+          "like_count": 3609,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 3148
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2061036842619977948",
+    "created_at": "2026-06-01T08:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061358660300018113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061358660300018113",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061036842619977948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 我开我自己的发现用QQ和小号，手机和小号都没对上…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2061036838723416064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpGFcEacAAEe0d.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2172,
+        "media_key": "3_2061036840107585536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpGFhObMAAYEKI.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2061036842619977948",
+        "created_at": "2026-06-01T08:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061358660300018113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061358660300018113",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061036842619977948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 我开我自己的发现用QQ和小号，手机和小号都没对上…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061036838723416064",
+            "3_2061036840107585536"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061036842619977948",
+        "created_at": "2026-05-31T10:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061036842619977948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYRhMZsSuf",
+              "end": 96,
+              "expanded_url": "https://x.com/aaarjkk/status/2061036842619977948/photo/1",
+              "media_key": "3_2061036838723416064",
+              "start": 73,
+              "url": "https://t.co/DYRhMZsSuf"
+            },
+            {
+              "display_url": "pic.x.com/DYRhMZsSuf",
+              "end": 96,
+              "expanded_url": "https://x.com/aaarjkk/status/2061036842619977948/photo/1",
+              "media_key": "3_2061036840107585536",
+              "start": 73,
+              "url": "https://t.co/DYRhMZsSuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061036842619977948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 158085,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个社工机器人，然后我就把父母都开了（反正免费开来玩），结果住址都对上了，身份证都开出来了，就是QQ没对上，应该是换过QQ号吧，真恐怖😱😱😱 https://t.co/DYRhMZsSuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑有证含糖，半家长党。喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。看不惯我的就滚😅视力四级残疾，大概30岁之前会瞎然后死掉。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 379,
+          "like_count": 6944,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 2560
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯友顺友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯172cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2061028182279794825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059234381898956800/PiQ1dVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 792,
+          "like_count": 15586,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 2191
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

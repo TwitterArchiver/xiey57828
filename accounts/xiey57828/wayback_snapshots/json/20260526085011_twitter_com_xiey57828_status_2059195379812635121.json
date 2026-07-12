@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2059195379812635121",
+    "created_at": "2026-05-26T08:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059195379812635121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/renyue105/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/renyue105/status/2059194992028000293",
+          "start": 10,
+          "url": "https://t.co/SAYJRQByxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059195379812635121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059194992028000293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以你交到了朋友？ https://t.co/SAYJRQByxP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2059195379812635121",
+        "created_at": "2026-05-26T08:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059195379812635121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/renyue105/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/renyue105/status/2059194992028000293",
+              "start": 10,
+              "url": "https://t.co/SAYJRQByxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059195379812635121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059194992028000293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以你交到了朋友？ https://t.co/SAYJRQByxP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2059194992028000293",
+        "created_at": "2026-05-26T08:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059194992028000293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059194992028000293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总是这样，我状态好的时候就会去社交，然后尝试交到一些朋友，然后再某个时刻因为某些原因被触发心理创伤...发疯，对他人恶语相向，我不知道，我真的不知道为什么会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨史上最快大证😋26.5.21丨🍥hrt24.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨易性症 双相情感障碍 先天性黄斑变性丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 352,
+          "like_count": 6421,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 2382
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "pinned_tweet_id": "2059193595857416502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059178950795075584/d5sIw3J1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 59,
+          "like_count": 3337,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 2946
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

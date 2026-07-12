@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2056712544740622691",
+    "created_at": "2026-05-20T10:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057047960459080136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980483857863655424",
+          "start": 0,
+          "username": "KamisatoSeele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057047960459080136",
+    "in_reply_to_user_id": "1980483857863655424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057047570619547844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamisatoSeele 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2056712544740622691",
+        "created_at": "2026-05-20T10:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057047960459080136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980483857863655424",
+              "start": 0,
+              "username": "KamisatoSeele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057047960459080136",
+        "in_reply_to_user_id": "1980483857863655424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057047570619547844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamisatoSeele 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980483857863655424",
+        "conversation_id": "2056712544740622691",
+        "created_at": "2026-05-20T10:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057047570619547844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057047570619547844",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056712544740622691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 好可爱啊喵\n呜呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑希望能见到太阳升起的那天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 317,
+          "like_count": 5775,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:58:50.000Z",
+        "description": "无证 | MtF | \n早已出柜喵 | 猫娘",
+        "id": "1980483857863655424",
+        "name": "Shizuku Kamisato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056301748499935232/KGuyqf8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 85,
+          "like_count": 436,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 300
+        },
+        "username": "KamisatoSeele",
+        "verified": false
+      }
+    ]
+  }
+}

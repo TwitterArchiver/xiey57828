@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2040389727468327241",
+    "created_at": "2026-04-04T12:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040405916718432679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Neko_nya2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040405916718432679",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040389727468327241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko_nya2026 解决办法就是别打开推特了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2040389727468327241",
+        "created_at": "2026-04-04T12:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040405916718432679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Neko_nya2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040405916718432679",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040389727468327241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko_nya2026 解决办法就是别打开推特了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2040389727468327241",
+        "created_at": "2026-04-04T11:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040389727468327241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040389727468327241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草了怎么我一打开x就看到有人自杀  你们别死了好不好😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "叫我沐桃就好丨读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机丨淡推学习",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "Peach.Mist🍥",
+        "pinned_tweet_id": "2040246688078831627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 346,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 189
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "mtx/mt？",
+        "id": "1960198897827282944",
+        "location": "猫猫窝",
+        "name": "nya🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372266392477696/TKfpldWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 834,
+          "like_count": 6090,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 766
+        },
+        "username": "Neko_nya2026",
+        "verified": false
+      }
+    ]
+  }
+}

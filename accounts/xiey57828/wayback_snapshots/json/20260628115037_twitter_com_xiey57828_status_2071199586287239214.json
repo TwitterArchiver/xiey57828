@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2071037475951452175",
+    "created_at": "2026-06-28T11:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071199586287239214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067083791060082688",
+          "start": 0,
+          "username": "IkVJgfTe7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071199586287239214",
+    "in_reply_to_user_id": "2067083791060082688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071037475951452175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IkVJgfTe7N 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2071037475951452175",
+        "created_at": "2026-06-28T11:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071199586287239214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067083791060082688",
+              "start": 0,
+              "username": "IkVJgfTe7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071199586287239214",
+        "in_reply_to_user_id": "2067083791060082688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071037475951452175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IkVJgfTe7N 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067083791060082688",
+        "conversation_id": "2071037475951452175",
+        "created_at": "2026-06-28T01:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071037475951452175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071037475951452175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1901,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了😱，主治医生看到我搜补佳乐了😭😭😭\n(印象分-1)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004年的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ \n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2071060255400718346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 496,
+          "like_count": 9617,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 3784
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T03:16:40.000Z",
+        "description": "三代目@unkmtx 打赢复活赛了🥳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "unkmtx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/d2PK0HnPOm"
+              }
+            ]
+          }
+        },
+        "id": "2067083791060082688",
+        "name": "Unk4.0🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070833834791419904/y4_gvOLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 250,
+          "like_count": 97,
+          "listed_count": 8,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/d2PK0HnPOm",
+        "username": "IkVJgfTe7N",
+        "verified": false
+      }
+    ]
+  }
+}

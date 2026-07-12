@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070022509425233920"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2070022518560432372",
+    "created_at": "2026-06-25T05:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070022518560432372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hwo0YJjr30",
+          "end": 44,
+          "expanded_url": "https://x.com/xiey57828/status/2070022518560432372/photo/1",
+          "media_key": "3_2070022509425233920",
+          "start": 21,
+          "url": "https://t.co/hwo0YJjr30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070022518560432372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "愚人节给我开了个玩笑，其实我早就已经死了 https://t.co/hwo0YJjr30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2070022509425233920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoygT9akAAV4Iy.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070022509425233920"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2070022518560432372",
+        "created_at": "2026-06-25T05:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070022518560432372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwo0YJjr30",
+              "end": 44,
+              "expanded_url": "https://x.com/xiey57828/status/2070022518560432372/photo/1",
+              "media_key": "3_2070022509425233920",
+              "start": 21,
+              "url": "https://t.co/hwo0YJjr30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070022518560432372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愚人节给我开了个玩笑，其实我早就已经死了 https://t.co/hwo0YJjr30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃（黄瓜仙人）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 487,
+          "like_count": 9368,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 3653
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2040449787640893471",
+    "created_at": "2026-04-05T06:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040672929198039077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862650099614326786",
+          "start": 0,
+          "username": "qqqqqq223355"
+        },
+        {
+          "end": 25,
+          "id": "1840055457756610560",
+          "start": 14,
+          "username": "hood438371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040672929198039077",
+    "in_reply_to_user_id": "1862650099614326786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040612644831572317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqq223355 @hood438371 玩了原神就不会想完别的二游了捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2040449787640893471",
+        "created_at": "2026-04-05T06:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040672929198039077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862650099614326786",
+              "start": 0,
+              "username": "qqqqqq223355"
+            },
+            {
+              "end": 25,
+              "id": "1840055457756610560",
+              "start": 14,
+              "username": "hood438371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040672929198039077",
+        "in_reply_to_user_id": "1862650099614326786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040612644831572317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqq223355 @hood438371 玩了原神就不会想完别的二游了捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862650099614326786",
+        "conversation_id": "2040449787640893471",
+        "created_at": "2026-04-05T02:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040612644831572317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood438371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040612644831572317",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040449787640893471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood438371 怎么都在玩洛克王国，我错过了二游新时代"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF＆友跨🏳️‍⚧️丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机丨淡推学习",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2040246688078831627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 366,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 226
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T00:09:36.000Z",
+        "description": "mtf/药娘/od/地雷系/福瑞控/飞机场/精神分裂/爱玩抽象的梗小鬼/25岁家里蹲/尼特/小学文凭/原生家庭受害者/共产主义接班人/喜爱福手游大王/gay/四爱/百合豚/鉴政达人/子平八字/爱党爱国/台湾统一/川普让美国伟大/字母/猫女的一生不受束缚/成分复杂#以上内容只有一项是真的",
+        "id": "1862650099614326786",
+        "name": "芙宁娜（爆仓下海版）🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034266871441285120/qHbel1ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 23,
+          "like_count": 62,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 988
+        },
+        "username": "qqqqqq223355",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "可能是138亿年前就出发的不断远离的光",
+        "id": "1840055457756610560",
+        "name": "红、东",
+        "pinned_tweet_id": "2038288818663833802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035240277934579712/Iqjy8Xv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 1855,
+          "like_count": 81662,
+          "listed_count": 6,
+          "media_count": 1073,
+          "tweet_count": 20546
+        },
+        "username": "hood438371",
+        "verified": false
+      }
+    ]
+  }
+}

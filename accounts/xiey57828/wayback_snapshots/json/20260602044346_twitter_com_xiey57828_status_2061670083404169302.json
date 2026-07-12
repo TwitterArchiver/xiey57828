@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2061663862106292675",
+    "created_at": "2026-06-02T04:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061670083404169302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1406393254099124224",
+          "start": 0,
+          "username": "Astrid_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061670083404169302",
+    "in_reply_to_user_id": "1406393254099124224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061669541869232457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astrid_ovo 盯～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2061663862106292675",
+        "created_at": "2026-06-02T04:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061670083404169302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1406393254099124224",
+              "start": 0,
+              "username": "Astrid_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061670083404169302",
+        "in_reply_to_user_id": "1406393254099124224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061669541869232457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astrid_ovo 盯～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406393254099124224",
+        "conversation_id": "2061663862106292675",
+        "created_at": "2026-06-02T04:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061669541869232457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061669541869232457",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061663862106292675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 盯——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑有证含糖，半家长党。喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。看不惯我的就滚😅视力四级残疾，大概30岁之前会瞎然后死掉。\n高兴时想拯救世界，伤心时想毁灭世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 381,
+          "like_count": 7011,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 2586
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T23:27:48.000Z",
+        "description": "🍙",
+        "id": "1406393254099124224",
+        "location": "阴暗潮湿的下水道",
+        "name": "Alc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794702435812048896/OTS1dNbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 943,
+          "like_count": 7717,
+          "listed_count": 3,
+          "media_count": 1398,
+          "tweet_count": 2845
+        },
+        "username": "Astrid_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

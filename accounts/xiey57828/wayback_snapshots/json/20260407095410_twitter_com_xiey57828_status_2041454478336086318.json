@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2041451778299089360",
+    "created_at": "2026-04-07T09:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041454478336086318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041454478336086318",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041451778299089360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 抽不到🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041451761802833920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj7BacAAEeLl.jpg",
+        "width": 1104
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2041451760548761600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj2Wa0AARM4r.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041451761735770112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj6xbIAA79-U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041451761714810880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSxj6sbUAA8-5R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2041451778299089360",
+        "created_at": "2026-04-07T09:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041454478336086318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041454478336086318",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041451778299089360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 抽不到🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041451761802833920",
+            "3_2041451760548761600",
+            "3_2041451761735770112",
+            "3_2041451761714810880"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041451778299089360",
+        "created_at": "2026-04-07T09:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041451778299089360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1368897611672018953",
+              "start": 82,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451761802833920",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            },
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451760548761600",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            },
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451761735770112",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            },
+            {
+              "display_url": "pic.x.com/RDpaWvR8tH",
+              "end": 166,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041451778299089360/photo/1",
+              "media_key": "3_2041451761714810880",
+              "start": 143,
+              "url": "https://t.co/RDpaWvR8tH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041451778299089360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第六弹！\n揪3个小可爱送一份礼物\n奖品：定制周边小礼物一份\n总计将抽出不少于30份奖品\n开奖时间为：2026年4月8日（UTC+8）22:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与\n目前抽奖都放到亮点里边了，都可以去看一下 https://t.co/RDpaWvR8tH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四马上毕业丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨精神状态不好正常吃药不o。https://t.co/dlkZFZjfgW我是人机",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 139,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 116,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2041441998335603126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 400,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 349
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6739,
+          "following_count": 2030,
+          "like_count": 24300,
+          "listed_count": 27,
+          "media_count": 564,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

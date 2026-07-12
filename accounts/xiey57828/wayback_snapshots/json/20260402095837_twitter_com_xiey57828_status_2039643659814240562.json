@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2039512642294104362",
+    "created_at": "2026-04-02T09:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039643659814240562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432650239836442624",
+          "start": 0,
+          "username": "mxs52084025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039643659814240562",
+    "in_reply_to_user_id": "1432650239836442624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039643256619938282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxs52084025 你确定是爆痘，不是没消毒到位？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2039512642294104362",
+        "created_at": "2026-04-02T09:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039643659814240562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432650239836442624",
+              "start": 0,
+              "username": "mxs52084025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039643659814240562",
+        "in_reply_to_user_id": "1432650239836442624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039643256619938282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxs52084025 你确定是爆痘，不是没消毒到位？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432650239836442624",
+        "conversation_id": "2039512642294104362",
+        "created_at": "2026-04-02T09:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039643256619938282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039643256619938282",
+        "in_reply_to_user_id": "1432650239836442624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039643172482187773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 扎的位置附近会爆痘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "叫我沐桃就好丨读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 285,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 124
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-31T10:23:48.000Z",
+        "description": "脑袋混乱之人",
+        "id": "1432650239836442624",
+        "name": "可靠的时叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942779837862518784/0er0THjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "mxs52084025",
+        "verified": false
+      }
+    ]
+  }
+}

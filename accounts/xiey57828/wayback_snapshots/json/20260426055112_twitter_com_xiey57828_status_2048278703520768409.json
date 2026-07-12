@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048278697988481024"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2048278703520768409",
+    "created_at": "2026-04-26T05:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048278703520768409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n6lv9yzuYj",
+          "end": 61,
+          "expanded_url": "https://x.com/xiey57828/status/2048278703520768409/photo/1",
+          "media_key": "3_2048278697988481024",
+          "start": 38,
+          "url": "https://t.co/n6lv9yzuYj"
+        },
+        {
+          "display_url": "x.com/Maimai_Offical…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/Maimai_Offical/status/2048274051639255527",
+          "start": 62,
+          "url": "https://t.co/4lNXMKeIGQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048278703520768409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048274051639255527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并不是所有的跨性别者都能受到正规的治疗，包括很多原因，尤其是父母家庭方面。 https://t.co/n6lv9yzuYj https://t.co/4lNXMKeIGQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2048278697988481024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzyn6KaYAARW-a.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048278697988481024"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2048278703520768409",
+        "created_at": "2026-04-26T05:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048278703520768409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6lv9yzuYj",
+              "end": 61,
+              "expanded_url": "https://x.com/xiey57828/status/2048278703520768409/photo/1",
+              "media_key": "3_2048278697988481024",
+              "start": 38,
+              "url": "https://t.co/n6lv9yzuYj"
+            },
+            {
+              "display_url": "x.com/Maimai_Offical…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Maimai_Offical/status/2048274051639255527",
+              "start": 62,
+              "url": "https://t.co/4lNXMKeIGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048278703520768409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048274051639255527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并不是所有的跨性别者都能受到正规的治疗，包括很多原因，尤其是父母家庭方面。 https://t.co/n6lv9yzuYj https://t.co/4lNXMKeIGQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951570866581745664",
+        "conversation_id": "2048208166211784773",
+        "created_at": "2026-04-26T05:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048274051639255527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048274051639255527",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048208166211784773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 要是想正经跨性别就应该正常接受治疗，而不是偷偷私下吃激素药吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "讨厌讨厌讨厌！ヽ(≧Д≦)ノ\n宝宝？@xyu1182202 ？乖宝宝@StarryNocts。最最最最好的妹妹@LeavesMao猫猫是爵士豪猫！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 275,
+          "like_count": 4285,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T09:09:01.000Z",
+        "description": "期望两岸友好，中日美关系正常，适当见证，看见无脑黑和不顺眼的东西会骂 个人想说的: 音游 可尊重可支持LGBTQ等文化 无论是在见证区或是音游区看见我喜欢可以扩列 润人润出去了搞支黑也是你口中的支那贱畜😋 没润出去的更是贱畜😋另外图支先把自己浮木图了才叫真图支哦😋开地图炮同理😋最近有点烦开启大规模ban人时代",
+        "id": "1951570866581745664",
+        "location": "巴克什 绝密",
+        "name": "🍥乌鲁鲁酱ウルル🍥❤️🏳️‍⚧",
+        "pinned_tweet_id": "2019801317795832210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983360140406620160/elRy_3CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 88,
+          "like_count": 1970,
+          "listed_count": 4,
+          "media_count": 975,
+          "tweet_count": 5293
+        },
+        "username": "Maimai_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

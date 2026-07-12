@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2061815359511080995",
+    "created_at": "2026-06-02T14:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061815359511080995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440268407249649668",
+          "start": 3,
+          "username": "sjshb57"
+        },
+        {
+          "end": 23,
+          "id": "1887391023976038400",
+          "start": 13,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061815359511080995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061813515015639355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjshb57: @xiey57828 权利是需要主张和认可的。你所谓的“生命权”是绝对主观的，这是一种意志而非需要外部承认才存在的事实。\n\n我不提倡自杀但也不会去阻止一个已经决定自杀的人的决定。因为痛苦是一种绝对的主观感受，所以我们不应该去批判。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2061815359511080995",
+        "created_at": "2026-06-02T14:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061815359511080995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440268407249649668",
+              "start": 3,
+              "username": "sjshb57"
+            },
+            {
+              "end": 23,
+              "id": "1887391023976038400",
+              "start": 13,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061815359511080995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061813515015639355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjshb57: @xiey57828 权利是需要主张和认可的。你所谓的“生命权”是绝对主观的，这是一种意志而非需要外部承认才存在的事实。\n\n我不提倡自杀但也不会去阻止一个已经决定自杀的人的决定。因为痛苦是一种绝对的主观感受，所以我们不应该去批判。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2061672821387071707",
+        "created_at": "2026-06-02T14:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061813515015639355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061813515015639355",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "权利是需要主张和认可的。你所谓的“生命权”是绝对主观的，这是一种意志而非需要外部承认才存在的事实。\n\n我不提倡自杀但也不会去阻止一个已经决定自杀的人的决定。因为痛苦是一种绝对的主观感受，所以我们不应该去批判。\n\n如果我们不能提供她所需要的帮助，如果不能解决她所面临的痛苦，我们就不该去指责，不该去做边界外的事情。\n我们应当保持沉默，这是一种面临死亡的敬畏。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061672821387071707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 权利是需要主张和认可的。你所谓的“生命权”是绝对主观的，这是一种意志而非需要外部承认才存在的事实。\n\n我不提倡自杀但也不会去阻止一个已经决定自杀的人的决定。因为痛苦是一种绝对的主观感受，所以我们不应该去批判。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑大证含糖，半家长党。喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。看不惯我的就滚😅视力四级残疾，大概30岁之前会瞎然后死掉。\n高兴时想拯救世界，伤心时想毁灭世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 386,
+          "like_count": 7313,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 2711
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 另一个我 @她",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2060661685862736139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 439,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

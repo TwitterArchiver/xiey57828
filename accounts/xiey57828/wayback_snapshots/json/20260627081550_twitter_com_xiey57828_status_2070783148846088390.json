@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070783139740573698"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2070783148846088390",
+    "created_at": "2026-06-27T08:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070783148846088390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/trujuxK1Co",
+          "end": 46,
+          "expanded_url": "https://x.com/xiey57828/status/2070783148846088390/photo/1",
+          "media_key": "3_2070783139740573698",
+          "start": 23,
+          "url": "https://t.co/trujuxK1Co"
+        },
+        {
+          "display_url": "x.com/ABC13067637/st…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/ABC13067637/status/2042896300966899821",
+          "start": 47,
+          "url": "https://t.co/lSc4yu72QE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070783148846088390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042896300966899821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大学生毕业要写论文的陋习什么时候能取消😭😭😭 https://t.co/trujuxK1Co https://t.co/lSc4yu72QE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2070783139740573698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzmS0sa4AIqEAV.jpg",
+        "width": 138
+      },
+      {
+        "height": 1310,
+        "media_key": "3_2042896291861270536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnTWo1akAg7JTp.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070783139740573698"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2070783148846088390",
+        "created_at": "2026-06-27T08:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070783148846088390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/trujuxK1Co",
+              "end": 46,
+              "expanded_url": "https://x.com/xiey57828/status/2070783148846088390/photo/1",
+              "media_key": "3_2070783139740573698",
+              "start": 23,
+              "url": "https://t.co/trujuxK1Co"
+            },
+            {
+              "display_url": "x.com/ABC13067637/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/ABC13067637/status/2042896300966899821",
+              "start": 47,
+              "url": "https://t.co/lSc4yu72QE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070783148846088390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042896300966899821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学生毕业要写论文的陋习什么时候能取消😭😭😭 https://t.co/trujuxK1Co https://t.co/lSc4yu72QE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042896291861270536"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "conversation_id": "2042896300966899821",
+        "created_at": "2026-04-11T09:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042896300966899821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tCvPzrUQU",
+              "end": 46,
+              "expanded_url": "https://x.com/ABC13067637/status/2042896300966899821/photo/1",
+              "media_key": "3_2042896291861270536",
+              "start": 23,
+              "url": "https://t.co/0tCvPzrUQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042896300966899821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1799,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学生毕业要写论文的陋习什么时候能取消😭😭😭 https://t.co/0tCvPzrUQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004年的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ \n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 491,
+          "like_count": 9471,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 3708
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "pinned_tweet_id": "2070438545823826325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 576,
+          "like_count": 3468,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1534
+        },
+        "url": "",
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

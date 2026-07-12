@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2060696198605156660",
+    "created_at": "2026-05-30T12:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060696198605156660"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060696198605156660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好怀念吃完普瑞巴林之后睡一觉所有烦恼都消失的日子…\n而现在只能吃嗜睡发胖人机的喹硫平了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2060696198605156660",
+        "created_at": "2026-05-30T12:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060696198605156660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060696198605156660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好怀念吃完普瑞巴林之后睡一觉所有烦恼都消失的日子…\n而现在只能吃嗜睡发胖人机的喹硫平了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑有证含糖，喜欢@StarryNocts。猫猫叶@DontLeaveMao一定要好好的呀。看不惯我的就滚😅30岁之前会死。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 370,
+          "like_count": 6809,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2505
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2066318477116506121",
+    "created_at": "2026-06-15T01:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066326093637062709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850017112087199744",
+          "start": 0,
+          "username": "HatsuneMafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066326093637062709",
+    "in_reply_to_user_id": "1850017112087199744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066318477116506121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HatsuneMafuyu 你还是欠抽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2066318477116506121",
+        "created_at": "2026-06-15T01:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066326093637062709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850017112087199744",
+              "start": 0,
+              "username": "HatsuneMafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066326093637062709",
+        "in_reply_to_user_id": "1850017112087199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066318477116506121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HatsuneMafuyu 你还是欠抽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850017112087199744",
+        "conversation_id": "2066318477116506121",
+        "created_at": "2026-06-15T00:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066318477116506121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066318477116506121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我装糖阴他一手\n弄假成真外显内漏\n面包烤焦糖化ohno\n\n糖吃多了\n糖完了。\n糖，完了\n糖完，了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🍰出生2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 438,
+          "like_count": 8707,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 3255
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T03:31:05.000Z",
+        "description": "我认识很多控场大师，客观理性只出现在主页简介，精准把控推文与客观理性的距离。\n想死却想救人的救世主心态，挂个自杀干预却连基本怎么说话都懒得学，有个同病相怜就自以为万事大吉，跟父母一样是自我感动付出的普信，傻逼共振的小逼登。",
+        "id": "1850017112087199744",
+        "name": "仙台葉月(我还是欠抽了",
+        "pinned_tweet_id": "2059574584551288865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047435201387896832/jxdysNdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 409,
+          "like_count": 2449,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1097
+        },
+        "username": "HatsuneMafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

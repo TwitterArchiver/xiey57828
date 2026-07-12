@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056712542635118592"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2056712544740622691",
+    "created_at": "2026-05-19T12:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056712544740622691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/71tzLVGuS6",
+          "end": 155,
+          "expanded_url": "https://x.com/xiey57828/status/2056712544740622691/photo/1",
+          "media_key": "3_2056712542635118592",
+          "start": 132,
+          "url": "https://t.co/71tzLVGuS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056712544740622691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出柜后第一次女装\n我：偷偷把快递拿过来拆我妈看见我在拆，没说什么\n妈：这是女装吗，怎么两件套\n我：…，不是两件套\n妈：这边还有一条裙子啊\n我：躲鲨鲨后面小声：嗯嗯\n妈：要穿的话要先去洗一下啊\n我：太厚了……会热死\n我靠我靠我靠，这到底算什么啊啊啊啊啊啊啊啊啊啊啊 https://t.co/71tzLVGuS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2056712542635118592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrpKRzbUAAmoSC.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056712542635118592"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2056712544740622691",
+        "created_at": "2026-05-19T12:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056712544740622691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71tzLVGuS6",
+              "end": 155,
+              "expanded_url": "https://x.com/xiey57828/status/2056712544740622691/photo/1",
+              "media_key": "3_2056712542635118592",
+              "start": 132,
+              "url": "https://t.co/71tzLVGuS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712544740622691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出柜后第一次女装\n我：偷偷把快递拿过来拆我妈看见我在拆，没说什么\n妈：这是女装吗，怎么两件套\n我：…，不是两件套\n妈：这边还有一条裙子啊\n我：躲鲨鲨后面小声：嗯嗯\n妈：要穿的话要先去洗一下啊\n我：太厚了……会热死\n我靠我靠我靠，这到底算什么啊啊啊啊啊啊啊啊啊啊啊 https://t.co/71tzLVGuS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "希望能见到太阳升起的那天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 315,
+          "like_count": 5670,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

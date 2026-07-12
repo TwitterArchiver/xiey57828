@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065863703392829659",
+    "created_at": "2026-06-13T22:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065931623850479871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2065581668682060234",
+          "start": 21,
+          "url": "https://t.co/R931fCKsP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065931623850479871",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065581668682060234",
+        "type": "quoted"
+      },
+      {
+        "id": "2065863703392829659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 就是发的这个链接 https://t.co/R931fCKsP0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2065581668682060234].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065581668682060234",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065581668682060234"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065863703392829659",
+        "created_at": "2026-06-13T22:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065931623850479871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2065581668682060234",
+              "start": 21,
+              "url": "https://t.co/R931fCKsP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065931623850479871",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065581668682060234",
+            "type": "quoted"
+          },
+          {
+            "id": "2065863703392829659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 就是发的这个链接 https://t.co/R931fCKsP0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2065863703392829659",
+        "created_at": "2026-06-13T18:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065863703392829659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065863703392829659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沐桃🍑到底怎么了，昨晚上给阿零发了一条帖子就没说话了，现在还睡不着两点半了，有谁看到那条帖子，现在看不见了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥MtF大证含糖\n🍰出生08.02.16\n🤤喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！🤤\n🏥精神状态超好！？😉\n😇双相，视力残疾😱\n🥺缺爱b，渴望被爱…\n所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 429,
+          "like_count": 8626,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3215
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3—重抑—有认知障碍—体弱多病—MTF🏳️‍⚧️纯跨出—💊🈹—只想做好自己\n                                        我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065233585410580797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "2020520Rei",
+        "verified": false
+      }
+    ]
+  }
+}

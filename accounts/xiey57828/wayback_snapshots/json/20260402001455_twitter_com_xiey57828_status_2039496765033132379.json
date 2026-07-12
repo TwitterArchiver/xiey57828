@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2039496765033132379",
+    "created_at": "2026-04-02T00:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T01:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039496765033132379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiey57828/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/xiey57828/status/2039201180828778995",
+          "start": 43,
+          "url": "https://t.co/2b4yoR4qL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039496765033132379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039201180828778995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别去冲他们，虽然不知道跨性别，但是两个医生都很温柔，都属于友跨范畴，请不要去冲他们🥰 https://t.co/2b4yoR4qL8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2039496765033132379",
+        "created_at": "2026-04-02T00:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039496765033132379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/xiey57828/status/2039201180828778995",
+              "start": 43,
+              "url": "https://t.co/2b4yoR4qL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039496765033132379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039201180828778995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别去冲他们，虽然不知道跨性别，但是两个医生都很温柔，都属于友跨范畴，请不要去冲他们🥰 https://t.co/2b4yoR4qL8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2039201180828778995",
+        "created_at": "2026-04-01T04:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039201180828778995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039201180828778995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7855,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "南昌的医生居然不知道有性别焦虑这种症状，易性症更是没听过，他和我说全中国都不能开这种证🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "读研赚大钱钱喵丨我叫沐桃丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨貌似有精神问题过段时间有空去查查",
+        "id": "1887391023976038400",
+        "location": "豫章",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 264,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 98
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

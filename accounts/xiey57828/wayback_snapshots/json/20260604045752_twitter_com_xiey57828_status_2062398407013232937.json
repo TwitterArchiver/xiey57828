@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062398407013232937",
+    "created_at": "2026-06-04T04:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062398407013232937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huihui_mikumi/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/huihui_mikumi/status/2062386151709872393",
+          "start": 18,
+          "url": "https://t.co/iUskz4Lm3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062398407013232937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062386151709872393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要当跨畜！（我是不是已经是了😱） https://t.co/iUskz4Lm3H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062398407013232937",
+        "created_at": "2026-06-04T04:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062398407013232937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2062386151709872393",
+              "start": 18,
+              "url": "https://t.co/iUskz4Lm3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062398407013232937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062386151709872393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要当跨畜！（我是不是已经是了😱） https://t.co/iUskz4Lm3H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062386151709872393",
+        "created_at": "2026-06-04T04:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062386151709872393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062386151709872393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要当跨畜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑大证含糖,半家长党\n丨视力四级残疾，大概30岁之前会瞎然后死掉\n丨或许在这个世界上会有人喜欢我，只是我还未从遇见。我想再等等\n丨看不惯我的人能不能屏蔽我,你们看到我烦,我看到你们也烦😅",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 400,
+          "like_count": 7486,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 2773
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 658,
+          "like_count": 642,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1463
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

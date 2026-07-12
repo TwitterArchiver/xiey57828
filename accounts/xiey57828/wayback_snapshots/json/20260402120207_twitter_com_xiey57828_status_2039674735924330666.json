@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2039578483068956921",
+    "created_at": "2026-04-02T12:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039674735924330666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627197826332778496",
+          "start": 0,
+          "username": "Ochette_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039674735924330666",
+    "in_reply_to_user_id": "1627197826332778496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039578483068956921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ochette_ 多久能腌出体香"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039578483068956921].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039578483068956921",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039578483068956921"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2039578483068956921",
+        "created_at": "2026-04-02T12:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039674735924330666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627197826332778496",
+              "start": 0,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039674735924330666",
+        "in_reply_to_user_id": "1627197826332778496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039578483068956921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ochette_ 多久能腌出体香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "叫我沐桃就好丨读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 291,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 131
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T06:46:24.000Z",
+        "description": "mtf🍥/hrt2025.3.4/08/173cm/55kg/od割手碎碎念/普瑞巴林戒断中/负能警告⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ochette_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ochette_",
+                "start": 0,
+                "url": "https://t.co/jnELqBhkhT"
+              }
+            ]
+          }
+        },
+        "id": "1627197826332778496",
+        "name": "永雏云☁️🍥",
+        "pinned_tweet_id": "2031019485206057296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033478951478444032/LGRq8oP__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 514,
+          "like_count": 6901,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/jnELqBhkhT",
+        "username": "Ochette_",
+        "verified": false
+      }
+    ]
+  }
+}

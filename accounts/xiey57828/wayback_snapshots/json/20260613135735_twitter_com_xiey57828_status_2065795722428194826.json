@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065790765016756413",
+    "created_at": "2026-06-13T13:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065795722428194826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486225700793495552",
+          "start": 0,
+          "username": "ABC13067637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065795722428194826",
+    "in_reply_to_user_id": "1486225700793495552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065790765016756413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC13067637 你也要串？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065790765016756413",
+        "created_at": "2026-06-13T13:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065795722428194826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065795722428194826",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065790765016756413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 你也要串？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486225700793495552",
+        "conversation_id": "2065790765016756413",
+        "created_at": "2026-06-13T13:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065790765016756413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/xiey57828/status/2065772710115045431",
+              "start": 143,
+              "url": "https://t.co/ICCviYC2SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065790765016756413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065772710115045431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱顺男，重回心理性别。\n回望之前的性别焦虑、身份认同挣扎，是漫长且痛苦的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非顺性别，只是阶段性的自我认知偏差\n\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以认同性别好好生活，祝我们都能用自己的方式生活 https://t.co/ICCviYC2SA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥MtF大证含糖\n🍰出生08.02.16\n🤤喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！🤤\n🏥精神状态超好！？😉\n😇双相，视力残疾😱\n🥺缺爱b，渴望被爱…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 426,
+          "like_count": 8599,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3206
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 523,
+          "like_count": 2892,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1172
+        },
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

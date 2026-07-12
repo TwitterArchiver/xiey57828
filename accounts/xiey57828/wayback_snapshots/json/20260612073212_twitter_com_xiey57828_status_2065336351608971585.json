@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065334783077654578",
+    "created_at": "2026-06-12T07:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065336351608971585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880569563781500929",
+          "start": 0,
+          "username": "DontLeaveMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065336351608971585",
+    "in_reply_to_user_id": "1880569563781500929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065334783077654578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DontLeaveMao 你不是不玩推了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065334780586229761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmLClMaAAEk901.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065334783077654578",
+        "created_at": "2026-06-12T07:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065336351608971585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880569563781500929",
+              "start": 0,
+              "username": "DontLeaveMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065336351608971585",
+        "in_reply_to_user_id": "1880569563781500929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065334783077654578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DontLeaveMao 你不是不玩推了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065334780586229761"
+          ]
+        },
+        "author_id": "1880569563781500929",
+        "conversation_id": "2065334783077654578",
+        "created_at": "2026-06-12T07:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065334783077654578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4kwLKTnH1",
+              "end": 40,
+              "expanded_url": "https://x.com/DontLeaveMao/status/2065334783077654578/photo/1",
+              "media_key": "3_2065334780586229761",
+              "start": 17,
+              "url": "https://t.co/h4kwLKTnH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065334783077654578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好厉害... 小号100fo达成 https://t.co/h4kwLKTnH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑大证含糖反跨顺男神人\n出生08.02.16缺爱b，臭郭楠\n喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！\n精神状态超好！？😉\n双相，视力残疾\n谁要人喜欢了？\n登神之路总是孤独的！\n语言逻辑混乱",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 423,
+          "like_count": 8510,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 3155
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T10:55:18.000Z",
+        "description": "@LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1880569563781500929",
+        "location": "找不到猫窝…",
+        "name": "🍼猫猫猫叶TheCat🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051610151854252033/MqlZuouJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 64,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 51
+        },
+        "username": "DontLeaveMao",
+        "verified": false
+      }
+    ]
+  }
+}

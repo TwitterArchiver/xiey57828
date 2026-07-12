@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075862276721311744"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2075862300008047039",
+    "created_at": "2026-07-11T08:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075862300008047039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6JaS18Gywv",
+          "end": 35,
+          "expanded_url": "https://x.com/xiey57828/status/2075862300008047039/photo/1",
+          "media_key": "3_2075862276721311744",
+          "start": 12,
+          "url": "https://t.co/6JaS18Gywv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075862300008047039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "种田的药娘还是头一次见 https://t.co/6JaS18Gywv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2075862276721311744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7xvgabgAAm13n.jpg",
+        "width": 2457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075862276721311744"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2075862300008047039",
+        "created_at": "2026-07-11T08:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075862300008047039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JaS18Gywv",
+              "end": 35,
+              "expanded_url": "https://x.com/xiey57828/status/2075862300008047039/photo/1",
+              "media_key": "3_2075862276721311744",
+              "start": 12,
+              "url": "https://t.co/6JaS18Gywv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075862300008047039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "种田的药娘还是头一次见 https://t.co/6JaS18Gywv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 524,
+          "like_count": 10789,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4262
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      }
+    ]
+  }
+}

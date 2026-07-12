@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2042836814847971329"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2042902521778442411",
+    "created_at": "2026-04-11T09:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042902521778442411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042902521778442411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042836816005599653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: 这次回家常住，大家帮我做个主意，最好先看一下我的置顶帖子"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-04-12T05:27:05.000Z",
+        "id": "2042836814847971329",
+        "options": [
+          {
+            "label": "出柜",
+            "position": 1,
+            "votes": 10
+          },
+          {
+            "label": "不出柜",
+            "position": 2,
+            "votes": 14
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2042836814847971329"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042902521778442411",
+        "created_at": "2026-04-11T09:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042902521778442411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042902521778442411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042836816005599653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: 这次回家常住，大家帮我做个主意，最好先看一下我的置顶帖子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2042836814847971329"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042836816005599653",
+        "created_at": "2026-04-11T05:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042836816005599653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042836816005599653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这次回家常住，大家帮我做个主意，最好先看一下我的置顶帖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，完全不懂日语https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 134,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 111,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2042381887642222758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 446,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

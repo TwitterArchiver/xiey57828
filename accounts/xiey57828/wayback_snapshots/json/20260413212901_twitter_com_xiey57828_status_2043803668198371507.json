@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2043652867651932626",
+    "created_at": "2026-04-13T21:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T22:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043803668198371507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1760113409167949824",
+          "start": 0,
+          "username": "RainEngine2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043803668198371507",
+    "in_reply_to_user_id": "1760113409167949824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043652867651932626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2026 其实pass和家长党都很少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2043652867651932626",
+        "created_at": "2026-04-13T21:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043803668198371507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1760113409167949824",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043803668198371507",
+        "in_reply_to_user_id": "1760113409167949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043652867651932626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 其实pass和家长党都很少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2043652867651932626",
+        "created_at": "2026-04-13T11:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043652867651932626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043652867651932626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…负能致歉\n\n我发现我好没用啊…\n大家都好厉害…\n而我天天活的和那些做题区有什么区别呢…\n而且…hrt对我来说是对的吗…\n看到大家都这么pass/家长党，感觉自己完全没有希望了呢…\n我不知道啊…\n也许有一天我会永远进入void data sea吧…\n但是在那之前…可以求求大家陪陪我好嘛…\n我爱你们…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦丨MtF＆友跨🏳️‍⚧️丨休学ing丨hrt2024.02.17丨深柜丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态取决于我的父亲，o！。碎碎念...。我想学Python。https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 137,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 114,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "家",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2043615386068029455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 495,
+          "like_count": 2168,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/cuteMtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW\nCN/EN ok\nPM/CS beginner\nGoal :=Coq/?\nGame:我能玩吗\nLover:Exist\n欢迎聊有趣/专业话题\n---\n我们害怕死亡，害怕被扼杀，害怕被唾弃，我们不相信上帝，但我们是相信光明的",
+        "id": "1760113409167949824",
+        "location": "void data sea",
+        "name": "v01d",
+        "pinned_tweet_id": "2042615937325764621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 251,
+          "like_count": 2705,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 182
+        },
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

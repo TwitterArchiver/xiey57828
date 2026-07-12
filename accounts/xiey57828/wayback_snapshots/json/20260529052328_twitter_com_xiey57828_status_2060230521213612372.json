@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060213876784865280"
+      ],
+      "media_source_tweet_id": [
+        "2060213896607043830"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2060230521213612372",
+    "created_at": "2026-05-29T05:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060230521213612372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036071254873276416",
+          "start": 3,
+          "username": "renyue105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8sbgez8EE",
+          "end": 79,
+          "expanded_url": "https://x.com/renyue105/status/2060213896607043830/photo/1",
+          "media_key": "3_2060213876784865280",
+          "start": 56,
+          "url": "https://t.co/T8sbgez8EE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060230521213612372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060213896607043830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renyue105: 自由搏击群聊，主要是互相展现恶意互骂发泄的，想互骂的来，不玩权限，不禁言，不踢人 https://t.co/T8sbgez8EE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060213876784865280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdZmv8XoAA3Fef.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060213876784865280"
+          ],
+          "media_source_tweet_id": [
+            "2060213896607043830"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2060230521213612372",
+        "created_at": "2026-05-29T05:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060230521213612372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036071254873276416",
+              "start": 3,
+              "username": "renyue105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8sbgez8EE",
+              "end": 79,
+              "expanded_url": "https://x.com/renyue105/status/2060213896607043830/photo/1",
+              "media_key": "3_2060213876784865280",
+              "start": 56,
+              "url": "https://t.co/T8sbgez8EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060230521213612372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060213896607043830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renyue105: 自由搏击群聊，主要是互相展现恶意互骂发泄的，想互骂的来，不玩权限，不禁言，不踢人 https://t.co/T8sbgez8EE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060213876784865280"
+          ]
+        },
+        "author_id": "2036071254873276416",
+        "conversation_id": "2060213896607043830",
+        "created_at": "2026-05-29T04:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060213896607043830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8sbgez8EE",
+              "end": 64,
+              "expanded_url": "https://x.com/renyue105/status/2060213896607043830/photo/1",
+              "media_key": "3_2060213876784865280",
+              "start": 41,
+              "url": "https://t.co/T8sbgez8EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060213896607043830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自由搏击群聊，主要是互相展现恶意互骂发泄的，想互骂的来，不玩权限，不禁言，不踢人 https://t.co/T8sbgez8EE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨大证🍥hrt24.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨#易性症 #双相情感障碍 #视力四级残疾 丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "双相情感障碍"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "视力四级残疾"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 366,
+          "like_count": 6771,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2480
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.\n自律中..淡推",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "pinned_tweet_id": "2060213896607043830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059457055639879686/3fa8Ch4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 65,
+          "like_count": 3471,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 3084
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

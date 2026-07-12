@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2060555690742280484",
+    "created_at": "2026-05-30T02:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060555690742280484"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060555690742280484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "：我的毕业论文由我和gemini共同完成"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2060555690742280484",
+        "created_at": "2026-05-30T02:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060555690742280484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060555690742280484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "：我的毕业论文由我和gemini共同完成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑有证含糖，喜欢@StarryNocts。猫猫叶@dontLeaveMao一定要好好的呀。看不惯我的就滚😅30岁之前会死。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "dontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 368,
+          "like_count": 6787,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2489
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

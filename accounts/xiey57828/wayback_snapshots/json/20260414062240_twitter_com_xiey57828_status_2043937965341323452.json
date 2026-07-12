@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043901114802941953"
+      ],
+      "media_source_tweet_id": [
+        "2043901123036323896"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2043937965341323452",
+    "created_at": "2026-04-14T06:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043937965341323452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888562153004929024",
+          "start": 3,
+          "username": "ST_Bed0721"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wMVkSuablg",
+          "end": 61,
+          "expanded_url": "https://x.com/ST_Bed0721/status/2043901123036323896/photo/1",
+          "media_key": "3_2043901114802941953",
+          "start": 38,
+          "url": "https://t.co/wMVkSuablg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043937965341323452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043901123036323896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ST_Bed0721: 橙子开通了秘密基地！大家可以来和橙子交流！ https://t.co/wMVkSuablg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043901114802941953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1lPB_asAEeqIb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043901114802941953"
+          ],
+          "media_source_tweet_id": [
+            "2043901123036323896"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2043937965341323452",
+        "created_at": "2026-04-14T06:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043937965341323452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888562153004929024",
+              "start": 3,
+              "username": "ST_Bed0721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMVkSuablg",
+              "end": 61,
+              "expanded_url": "https://x.com/ST_Bed0721/status/2043901123036323896/photo/1",
+              "media_key": "3_2043901114802941953",
+              "start": 38,
+              "url": "https://t.co/wMVkSuablg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043937965341323452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043901123036323896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ST_Bed0721: 橙子开通了秘密基地！大家可以来和橙子交流！ https://t.co/wMVkSuablg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043901114802941953"
+          ]
+        },
+        "author_id": "1888562153004929024",
+        "conversation_id": "2043901123036323896",
+        "created_at": "2026-04-14T03:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043901123036323896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMVkSuablg",
+              "end": 45,
+              "expanded_url": "https://x.com/ST_Bed0721/status/2043901123036323896/photo/1",
+              "media_key": "3_2043901114802941953",
+              "start": 22,
+              "url": "https://t.co/wMVkSuablg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043901123036323896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 306,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "橙子开通了秘密基地！大家可以来和橙子交流！ https://t.co/wMVkSuablg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦🥵。精神状态取决于我的父亲🥺，o！😣。碎碎念😇....自我介绍在@520xiey57828。好宝宝@ST_Bed0721可以私信或者tg找我聊天喵😋https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "520xiey57828"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "ST_Bed0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 114,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 91,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2043615386068029455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 506,
+          "like_count": 2350,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 962
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T12:14:47.000Z",
+        "description": "可以叫我ST或者橙子酱🍊~｜渴望交朋友的小男娘｜无糖｜06年 175cm 50kg｜快来找我聊天！｜不开心可以和我倾诉哦｜好宝宝: @Shionaowo @Evenin_eko @xiey57828｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "Shionaowo"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Evenin_eko"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/st_bed0721",
+                "end": 23,
+                "expanded_url": "https://ngl.link/st_bed0721",
+                "start": 0,
+                "url": "https://t.co/fyfckL9h5q"
+              }
+            ]
+          }
+        },
+        "id": "1888562153004929024",
+        "name": "ST_Bed🏳️‍⚧️",
+        "pinned_tweet_id": "2041998228351283704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 104,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/fyfckL9h5q",
+        "username": "ST_Bed0721",
+        "verified": true
+      }
+    ]
+  }
+}

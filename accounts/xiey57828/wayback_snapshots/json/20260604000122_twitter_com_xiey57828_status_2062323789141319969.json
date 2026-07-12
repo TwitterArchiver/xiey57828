@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062073380116083078",
+    "created_at": "2026-06-04T00:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062323789141319969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1257822205905219584",
+          "start": 0,
+          "username": "dzcwys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062323789141319969",
+    "in_reply_to_user_id": "1257822205905219584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062232149303218223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzcwys 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062073380116083078",
+        "created_at": "2026-06-04T00:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062323789141319969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1257822205905219584",
+              "start": 0,
+              "username": "dzcwys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062323789141319969",
+        "in_reply_to_user_id": "1257822205905219584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062232149303218223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzcwys 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257822205905219584",
+        "conversation_id": "2062073380116083078",
+        "created_at": "2026-06-03T17:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062232149303218223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062232149303218223",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062073380116083078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 小时候只是喜欢穿裙子，加上我初中的时候看到过一个十岁就1米8的女生（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑大证含糖，半家长党。喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。看不惯我的就滚😅视力四级残疾，大概30岁之前会瞎然后死掉。\n或许在这个世界上会有人喜欢我，只是我还未从遇见。我想再等等。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 392,
+          "like_count": 7415,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2747
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T23:59:22.000Z",
+        "description": "爱读轻小说，喜欢可爱的事物，是🍥xyn～，世界的观察者🍥（hrt→2023/02/03）\n想要认识更多的人，经历更多的事，欢迎大家私信，人与人的相遇也是一种幸运。",
+        "id": "1257822205905219584",
+        "location": "梦幻中的伊甸园",
+        "name": "樱下 琉璃🏳️‍⚧️",
+        "pinned_tweet_id": "1610804435109974017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002104162159636483/8n4PwQqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 626,
+          "like_count": 4227,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 1408
+        },
+        "username": "dzcwys",
+        "verified": false
+      }
+    ]
+  }
+}

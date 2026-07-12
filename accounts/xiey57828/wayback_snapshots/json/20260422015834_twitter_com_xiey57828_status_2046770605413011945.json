@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2046491851549814787",
+    "created_at": "2026-04-22T01:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046770605413011945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046770605413011945",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046491851549814787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@maoxian1527 熟在哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046491841814827008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaZfMMbkAA05ax.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2046491851549814787",
+        "created_at": "2026-04-22T01:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046770605413011945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046770605413011945",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046491851549814787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxian1527 熟在哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046491841814827008"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "conversation_id": "2046491851549814787",
+        "created_at": "2026-04-21T07:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046491851549814787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFHHnoZDxo",
+              "end": 39,
+              "expanded_url": "https://x.com/maoxian1527/status/2046491851549814787/photo/1",
+              "media_key": "3_2046491841814827008",
+              "start": 16,
+              "url": "https://t.co/DFHHnoZDxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046491851549814787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2803,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "广州禁毒评论区一圈下来全是熟人 https://t.co/DFHHnoZDxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "#人妖 #跨畜 #精神病  #od #自残 #出生 #白眼狼 #不成熟 #神经病 #脑残 #缺爱 #微信粉 #OPPO粉。最好的宝宝@xyu1182202 。最好的妹妹@LeavesMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "人妖"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "跨畜"
+              },
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "精神病"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "自残"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "出生"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "白眼狼"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "不成熟"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "神经病"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "脑残"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "缺爱"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "微信粉"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "OPPO粉"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "pinned_tweet_id": "2046400320176005588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 265,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 诡秘@zqtlovekris99 | 白虚@Acmduemsks | 姐姐@OuO_QwQg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Acmduemsks"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "OuO_QwQg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "距离你5.2km",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2041434241335230626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 267,
+          "like_count": 3782,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 2044
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2072297517472166345",
+    "created_at": "2026-07-02T22:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072812885525573928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2072280011487494144",
+          "start": 0,
+          "username": "i8zfl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072812885525573928",
+    "in_reply_to_user_id": "2072280011487494144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072297517472166345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i8zfl7 低智"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072297505119985664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJHmfWa4AAN8kH.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072297505132531712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJHmfZaUAAgfhm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2072297517472166345",
+        "created_at": "2026-07-02T22:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072812885525573928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2072280011487494144",
+              "start": 0,
+              "username": "i8zfl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072812885525573928",
+        "in_reply_to_user_id": "2072280011487494144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072297517472166345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i8zfl7 低智"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072297505119985664",
+            "3_2072297505132531712"
+          ]
+        },
+        "author_id": "2072280011487494144",
+        "conversation_id": "2072297517472166345",
+        "created_at": "2026-07-01T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072297517472166345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTA0toWppE",
+              "end": 162,
+              "expanded_url": "https://x.com/i8zfl7/status/2072297517472166345/photo/1",
+              "media_key": "3_2072297505119985664",
+              "start": 139,
+              "url": "https://t.co/bTA0toWppE"
+            },
+            {
+              "display_url": "pic.x.com/bTA0toWppE",
+              "end": 162,
+              "expanded_url": "https://x.com/i8zfl7/status/2072297517472166345/photo/1",
+              "media_key": "3_2072297505132531712",
+              "start": 139,
+              "url": "https://t.co/bTA0toWppE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072297517472166345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我去了，刚注册这个号，第一天想认识个不一样的世界来着，结果看到一堆人头像不知道什么东西，背后面有一个不知道什么国家的旗，什么国家旗有粉色。然后这些人又说什么补什么盐，精神状态堪忧。这都是些什么东西啊，还有几个发一大堆药片说再见的，吓人的很。看来是发现了个什么不得了的圈子。 https://t.co/bTA0toWppE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2072488261315149858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 506,
+          "like_count": 10028,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 3971
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-01T11:24:31.000Z",
+        "description": "",
+        "id": "2072280011487494144",
+        "name": "宋优莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072280344594980864/oMjL0YXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "i8zfl7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067750445595140096"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2067750456869503053",
+    "created_at": "2026-06-18T23:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T00:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067750456869503053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4O3QmrcRXr",
+          "end": 31,
+          "expanded_url": "https://x.com/xiey57828/status/2067750456869503053/photo/1",
+          "media_key": "3_2067750445595140096",
+          "start": 8,
+          "url": "https://t.co/4O3QmrcRXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067750456869503053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我准备好艾草了 https://t.co/4O3QmrcRXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067750445595140096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIgEynaoAAHlK-.jpg",
+        "width": 1515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067750445595140096"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2067750456869503053",
+        "created_at": "2026-06-18T23:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067750456869503053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4O3QmrcRXr",
+              "end": 31,
+              "expanded_url": "https://x.com/xiey57828/status/2067750456869503053/photo/1",
+              "media_key": "3_2067750445595140096",
+              "start": 8,
+              "url": "https://t.co/4O3QmrcRXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067750456869503053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我准备好艾草了 https://t.co/4O3QmrcRXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 449,
+          "like_count": 8926,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 3381
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

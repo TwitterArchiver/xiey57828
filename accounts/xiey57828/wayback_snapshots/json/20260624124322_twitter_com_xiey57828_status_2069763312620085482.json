@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069763302805127169"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2069763312620085482",
+    "created_at": "2026-06-24T12:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069763312620085482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9MzBzV5za",
+          "end": 35,
+          "expanded_url": "https://x.com/xiey57828/status/2069763312620085482/photo/1",
+          "media_key": "3_2069763302805127169",
+          "start": 12,
+          "url": "https://t.co/D9MzBzV5za"
+        },
+        {
+          "display_url": "x.com/xiey57828/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/xiey57828/status/2059180195643551774",
+          "start": 36,
+          "url": "https://t.co/9fQ7X8u4Gh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069763312620085482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059180195643551774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁把我聊天记录放网上了 https://t.co/D9MzBzV5za https://t.co/9fQ7X8u4Gh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2069763302805127169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlGwgDWwAE47Dv.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2059180189591232512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOtePEbYAAh_st.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069763302805127169"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2069763312620085482",
+        "created_at": "2026-06-24T12:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069763312620085482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9MzBzV5za",
+              "end": 35,
+              "expanded_url": "https://x.com/xiey57828/status/2069763312620085482/photo/1",
+              "media_key": "3_2069763302805127169",
+              "start": 12,
+              "url": "https://t.co/D9MzBzV5za"
+            },
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xiey57828/status/2059180195643551774",
+              "start": 36,
+              "url": "https://t.co/9fQ7X8u4Gh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069763312620085482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180195643551774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁把我聊天记录放网上了 https://t.co/D9MzBzV5za https://t.co/9fQ7X8u4Gh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059180189591232512"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2059180195643551774",
+        "created_at": "2026-05-26T07:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059180195643551774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PAcaI92WH",
+              "end": 43,
+              "expanded_url": "https://x.com/xiey57828/status/2059180195643551774/photo/1",
+              "media_key": "3_2059180189591232512",
+              "start": 20,
+              "url": "https://t.co/5PAcaI92WH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059180195643551774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8243,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "任成轩发表重要讲话：“今日方知我是我” https://t.co/5PAcaI92WH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 487,
+          "like_count": 9349,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 3646
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

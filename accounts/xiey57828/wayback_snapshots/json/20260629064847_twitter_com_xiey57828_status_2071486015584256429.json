@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2071481755652227529",
+    "created_at": "2026-06-29T06:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071486015584256429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713057998372020224",
+          "start": 0,
+          "username": "36127z11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071486015584256429",
+    "in_reply_to_user_id": "1713057998372020224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071482086301782145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@36127z11 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2071481755652227529",
+        "created_at": "2026-06-29T06:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071486015584256429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713057998372020224",
+              "start": 0,
+              "username": "36127z11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071486015584256429",
+        "in_reply_to_user_id": "1713057998372020224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071482086301782145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@36127z11 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713057998372020224",
+        "conversation_id": "2071481755652227529",
+        "created_at": "2026-06-29T06:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071482086301782145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071482086301782145",
+        "in_reply_to_user_id": "1713057998372020224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071481755652227529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草 点进主页发现是被子弹打死的笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2008刚高考完\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2071060255400718346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 497,
+          "like_count": 9702,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 3824
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T05:04:00.000Z",
+        "description": "【Trigger warrning】彻底匿名化的抑郁情绪分享垢/药手帐、死日志、怪文书和生放送/诚实和敞开/全部内容直接进入公共领域（CC0）/AI training allowed",
+        "id": "1713057998372020224",
+        "name": "明天上课带紫砂泥",
+        "pinned_tweet_id": "1855134017903116370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713058636493414400/Ba9H8N52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 27,
+          "like_count": 2658,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1879
+        },
+        "url": "",
+        "username": "36127z11",
+        "verified": false
+      }
+    ]
+  }
+}

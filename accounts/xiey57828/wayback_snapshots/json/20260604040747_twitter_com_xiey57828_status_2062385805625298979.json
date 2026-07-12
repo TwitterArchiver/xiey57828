@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062371987931210004",
+    "created_at": "2026-06-04T04:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062385805625298979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385796067116027905",
+          "start": 0,
+          "username": "poemcloud8000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062385805625298979",
+    "in_reply_to_user_id": "1385796067116027905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062383555821646060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poemcloud8000 他已经串的神志不清了，我们是朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062371987931210004",
+        "created_at": "2026-06-04T04:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062385805625298979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385796067116027905",
+              "start": 0,
+              "username": "poemcloud8000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062385805625298979",
+        "in_reply_to_user_id": "1385796067116027905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062383555821646060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poemcloud8000 他已经串的神志不清了，我们是朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385796067116027905",
+        "conversation_id": "2062371987931210004",
+        "created_at": "2026-06-04T03:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062383555821646060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062383555821646060",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062371987931210004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 纯路人，先后刷到你和那个任成轩，他真的是串吗？你们什么关系啊😦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑大证含糖，半家长党。喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。视力四级残疾，大概30岁之前会瞎然后死掉。\n或许在这个世界上会有人喜欢我，只是我还未从遇见。我想再等等。\n看不惯我的人能不能屏蔽我？你们看到我烦我看到你们也烦😅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 399,
+          "like_count": 7470,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2765
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T03:21:51.000Z",
+        "description": "Hallo world",
+        "id": "1385796067116027905",
+        "location": "Rhode Island",
+        "name": "詩雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550188704341168128/v3PRGnEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 56
+        },
+        "username": "poemcloud8000",
+        "verified": false
+      }
+    ]
+  }
+}

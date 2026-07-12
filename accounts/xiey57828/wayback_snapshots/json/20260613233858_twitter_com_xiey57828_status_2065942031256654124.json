@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065769320538632368",
+    "created_at": "2026-06-13T23:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T00:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065942031256654124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537858604724015104",
+          "start": 0,
+          "username": "tonghua245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065942031256654124",
+    "in_reply_to_user_id": "1537858604724015104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065769320538632368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua245 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2065769318252752896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsWQAJbMAAdeFd.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065769320538632368",
+        "created_at": "2026-06-13T23:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065942031256654124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537858604724015104",
+              "start": 0,
+              "username": "tonghua245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065942031256654124",
+        "in_reply_to_user_id": "1537858604724015104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065769320538632368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua245 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065769318252752896"
+          ]
+        },
+        "author_id": "1537858604724015104",
+        "conversation_id": "2065769320538632368",
+        "created_at": "2026-06-13T12:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065769320538632368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UlXWnwk0md",
+              "end": 48,
+              "expanded_url": "https://x.com/tonghua245/status/2065769320538632368/photo/1",
+              "media_key": "3_2065769318252752896",
+              "start": 25,
+              "url": "https://t.co/UlXWnwk0md"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065769320538632368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2823,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "虽然没回学校拍毕业照，gpt也是让我穿上学士服了 https://t.co/UlXWnwk0md"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥MtF大证含糖\n🍰出生08.02.16\n🤤喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！🤤\n🏥精神状态超好！？😉\n😇双相，视力残疾😱\n🥺缺爱b，渴望被爱…\n所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 429,
+          "like_count": 8636,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3217
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "一只江浔喵！是条鱼🍥04mtf ｜All to be nice！｜强烈安利一位可爱宝宝@QqianF 。\n永远的水刀寒\n\n名字是遗物，\n思念是余生。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "QqianF"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "水刀寒浔🍥",
+        "pinned_tweet_id": "2065213457532846214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065224082657067008/eKhDv0ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 1258,
+          "like_count": 5164,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 646
+        },
+        "username": "tonghua245",
+        "verified": true
+      }
+    ]
+  }
+}

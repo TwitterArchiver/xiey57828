@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2075839005036552237",
+    "created_at": "2026-07-11T10:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075885267119137210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067447448549949440",
+          "start": 0,
+          "username": "Unk_Snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075885267119137210",
+    "in_reply_to_user_id": "2067447448549949440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075839005036552237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unk_Snow 你男的肯定啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2075839005036552237",
+        "created_at": "2026-07-11T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075885267119137210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067447448549949440",
+              "start": 0,
+              "username": "Unk_Snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075885267119137210",
+        "in_reply_to_user_id": "2067447448549949440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075839005036552237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unk_Snow 你男的肯定啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067447448549949440",
+        "conversation_id": "2075839005036552237",
+        "created_at": "2026-07-11T07:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075839005036552237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2026…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/RainEngine2026/status/2075832272075506006",
+              "start": 10,
+              "url": "https://t.co/bJaj5GPJdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075839005036552237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075832272075506006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我为什么天天晨勃😭 https://t.co/bJaj5GPJdQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 524,
+          "like_count": 10819,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4276
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "被关精卫中，不发帖就是被晶抓走了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|年龄党|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|163cm53kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/0ewSOP9bxV"
+              }
+            ]
+          }
+        },
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "pinned_tweet_id": "2074414371103793364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222728484851712/z8pUDHz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 474,
+          "like_count": 298,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/0ewSOP9bxV",
+        "username": "Unk_Snow",
+        "verified": false
+      }
+    ]
+  }
+}

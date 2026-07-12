@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2075883527930061093",
+    "created_at": "2026-07-11T10:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075891035109269761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942218528100134912",
+          "start": 0,
+          "username": "youling_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075891035109269761",
+    "in_reply_to_user_id": "1942218528100134912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075883527930061093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youling_qaq 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2075883498930647040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8FCzTbMAAF8BP.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2075883527930061093",
+        "created_at": "2026-07-11T10:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075891035109269761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942218528100134912",
+              "start": 0,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075891035109269761",
+        "in_reply_to_user_id": "1942218528100134912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075883527930061093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youling_qaq 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075883498930647040"
+          ]
+        },
+        "author_id": "1942218528100134912",
+        "conversation_id": "2075883527930061093",
+        "created_at": "2026-07-11T10:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075883527930061093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ztaIoXFVP7",
+              "end": 31,
+              "expanded_url": "https://x.com/youling_qaq/status/2075883527930061093/photo/1",
+              "media_key": "3_2075883498930647040",
+              "start": 8,
+              "url": "https://t.co/ztaIoXFVP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075883527930061093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷霆一般的配置 https://t.co/ztaIoXFVP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 524,
+          "like_count": 10823,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4278
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "bye~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youling37229",
+                "end": 23,
+                "expanded_url": "https://ngl.link/youling37229",
+                "start": 0,
+                "url": "https://t.co/a1gaP6KfFm"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "name": "basibatuo",
+        "pinned_tweet_id": "2069844573581721780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 1034,
+          "like_count": 5988,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/a1gaP6KfFm",
+        "username": "youling_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

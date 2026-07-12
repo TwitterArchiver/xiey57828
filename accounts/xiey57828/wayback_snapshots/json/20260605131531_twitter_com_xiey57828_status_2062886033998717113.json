@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062886031083585536"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062886033998717113",
+    "created_at": "2026-06-05T13:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062886033998717113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHlGizofdE",
+          "end": 113,
+          "expanded_url": "https://x.com/xiey57828/status/2062886033998717113/photo/1",
+          "media_key": "3_2062886031083585536",
+          "start": 90,
+          "url": "https://t.co/SHlGizofdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062886033998717113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当事人已经得到了很严厉的惩罚了，这b还把人家挂网上刻意引导网暴，断章取义。贴吧已经一千多万浏览，b站贴吧原帖都已经删除了，但还是想挂这个b，有没有大佬帮我转一下，我也要引导网暴🤓 https://t.co/SHlGizofdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1734,
+        "media_key": "3_2062886031083585536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDX6mbaQAAejfr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062886031083585536"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062886033998717113",
+        "created_at": "2026-06-05T13:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062886033998717113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHlGizofdE",
+              "end": 113,
+              "expanded_url": "https://x.com/xiey57828/status/2062886033998717113/photo/1",
+              "media_key": "3_2062886031083585536",
+              "start": 90,
+              "url": "https://t.co/SHlGizofdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062886033998717113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当事人已经得到了很严厉的惩罚了，这b还把人家挂网上刻意引导网暴，断章取义。贴吧已经一千多万浏览，b站贴吧原帖都已经删除了，但还是想挂这个b，有没有大佬帮我转一下，我也要引导网暴🤓 https://t.co/SHlGizofdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "所有和我接触密切的人都会倒霉",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 410,
+          "like_count": 7712,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 2882
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

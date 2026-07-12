@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042938638150066176"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2042916908874502268",
+    "created_at": "2026-04-11T12:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042938641081929788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550453153828864000",
+          "start": 0,
+          "username": "ARiA_45_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xzS9XxuYrt",
+          "end": 39,
+          "expanded_url": "https://x.com/xiey57828/status/2042938641081929788/photo/1",
+          "media_key": "3_2042938638150066176",
+          "start": 16,
+          "url": "https://t.co/xzS9XxuYrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042938641081929788",
+    "in_reply_to_user_id": "1550453153828864000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042937606510645600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARiA_45_ 闲鱼上淘的 https://t.co/xzS9XxuYrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042938638150066176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFn53hDa4AAAU2f.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042938638150066176"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042916908874502268",
+        "created_at": "2026-04-11T12:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042938641081929788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550453153828864000",
+              "start": 0,
+              "username": "ARiA_45_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzS9XxuYrt",
+              "end": 39,
+              "expanded_url": "https://x.com/xiey57828/status/2042938641081929788/photo/1",
+              "media_key": "3_2042938638150066176",
+              "start": 16,
+              "url": "https://t.co/xzS9XxuYrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042938641081929788",
+        "in_reply_to_user_id": "1550453153828864000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042937606510645600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARiA_45_ 闲鱼上淘的 https://t.co/xzS9XxuYrt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550453153828864000",
+        "conversation_id": "2042916908874502268",
+        "created_at": "2026-04-11T12:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042937606510645600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042937606510645600",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042916908874502268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 有链接吗uwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，完全不懂日语https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 134,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 111,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2042381887642222758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 450,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T12:11:19.000Z",
+        "description": "おわり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ARiA1045",
+                "end": 23,
+                "expanded_url": "https://t.me/ARiA1045",
+                "start": 0,
+                "url": "https://t.co/hqkf0doa51"
+              }
+            ]
+          }
+        },
+        "id": "1550453153828864000",
+        "location": "世界の片隅",
+        "name": "アリア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794439768421666816/bYchkutY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 784,
+          "like_count": 39311,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 7422
+        },
+        "url": "https://t.co/hqkf0doa51",
+        "username": "ARiA_45_",
+        "verified": false
+      }
+    ]
+  }
+}

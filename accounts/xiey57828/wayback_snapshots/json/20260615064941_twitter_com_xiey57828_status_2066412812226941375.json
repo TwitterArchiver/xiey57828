@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066412803897057280"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066412812226941375",
+    "created_at": "2026-06-15T06:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066412812226941375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OMNngTiEHa",
+          "end": 46,
+          "expanded_url": "https://x.com/xiey57828/status/2066412812226941375/photo/1",
+          "media_key": "3_2066412803897057280",
+          "start": 23,
+          "url": "https://t.co/OMNngTiEHa"
+        },
+        {
+          "display_url": "x.com/kkblm_/status/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/kkblm_/status/2062975597035552933",
+          "start": 47,
+          "url": "https://t.co/b8qO25puax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066412812226941375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062975597035552933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来是一时兴起啊，我平平无奇，怎么会被爱呢？ https://t.co/OMNngTiEHa https://t.co/b8qO25puax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2066412803897057280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1ffy-aYAATFlb.jpg",
+        "width": 630
+      },
+      {
+        "height": 2055,
+        "media_key": "3_2062975588844146688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEpXjFbkAAbe91.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066412803897057280"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066412812226941375",
+        "created_at": "2026-06-15T06:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066412812226941375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OMNngTiEHa",
+              "end": 46,
+              "expanded_url": "https://x.com/xiey57828/status/2066412812226941375/photo/1",
+              "media_key": "3_2066412803897057280",
+              "start": 23,
+              "url": "https://t.co/OMNngTiEHa"
+            },
+            {
+              "display_url": "x.com/kkblm_/status/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/kkblm_/status/2062975597035552933",
+              "start": 47,
+              "url": "https://t.co/b8qO25puax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066412812226941375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062975597035552933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是一时兴起啊，我平平无奇，怎么会被爱呢？ https://t.co/OMNngTiEHa https://t.co/b8qO25puax"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062975588844146688"
+          ]
+        },
+        "author_id": "1554488846620016641",
+        "conversation_id": "2062975597035552933",
+        "created_at": "2026-06-05T19:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062975597035552933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ul8UDDRI2o",
+              "end": 46,
+              "expanded_url": "https://x.com/kkblm_/status/2062975597035552933/photo/1",
+              "media_key": "3_2062975588844146688",
+              "start": 23,
+              "url": "https://t.co/Ul8UDDRI2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062975597035552933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来是一时兴起啊，我平平无奇，怎么会被爱呢？ https://t.co/Ul8UDDRI2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🍰出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 439,
+          "like_count": 8724,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 3265
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:27:12.000Z",
+        "description": "无证被迫断糖mtf……（2003-2025即将）/infp-t/百合/原神/鸣潮/星穹铁道/不键政  / 欢迎各位骚扰孤独的喵喵(◍•ᴗ•◍)/励志作为安慰大家的猫猫树洞，随叫随到喵，工作是全力倾听大家的负面情绪喵~/梦想是什么~？希望大家健康幸福吧，实现自己的梦想…/🚪30/可爱的妹妹@qqnjjwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 144,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1554488846620016641",
+        "name": "乌米🏳‍⚧🍥🍬✨",
+        "pinned_tweet_id": "1942328538981622269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882726775182303232/c-zE53Ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 906,
+          "like_count": 18066,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 3993
+        },
+        "username": "kkblm_",
+        "verified": false
+      }
+    ]
+  }
+}

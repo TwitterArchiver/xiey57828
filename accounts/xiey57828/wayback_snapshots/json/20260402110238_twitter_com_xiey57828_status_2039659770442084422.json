@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2039637354399584486",
+    "created_at": "2026-04-02T11:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039659770442084422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 24,
+          "id": "1960198897827282944",
+          "start": 11,
+          "username": "Neko_nya2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039659770442084422",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039637354399584486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @Neko_nya2026 瞅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2039637338620649473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_Wl8bYAEC5tC.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039637183687213056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_NkxawAAlvqz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039637184127610881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_NmaasAEWdpW.jpg",
+        "width": 908
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2039637185083969536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4_Np-bkAA6Owa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2039637354399584486",
+        "created_at": "2026-04-02T11:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039659770442084422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 24,
+              "id": "1960198897827282944",
+              "start": 11,
+              "username": "Neko_nya2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039659770442084422",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039637354399584486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @Neko_nya2026 瞅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039637338620649473",
+            "3_2039637183687213056",
+            "3_2039637184127610881",
+            "3_2039637185083969536"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2039637354399584486",
+        "created_at": "2026-04-02T09:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:32:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039637200703549596",
+          "2039637354399584486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1368897611672018953",
+              "start": 111,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637338620649473",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            },
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637183687213056",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            },
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637184127610881",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            },
+            {
+              "display_url": "pic.x.com/iwgWTTNZav",
+              "end": 195,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2039637354399584486/photo/1",
+              "media_key": "3_2039637185083969536",
+              "start": 172,
+              "url": "https://t.co/iwgWTTNZav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039637354399584486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 581,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第四弹！\n揪6个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/显卡模型钥匙扣/投资铀条/定制卡 随机发\n总计将抽出不少于30份奖品\n开奖时间为：2026年4月4日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与\n目前抽奖都放到亮点里边了，都可以去看一下 https://t.co/iwgWTTNZav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "叫我沐桃就好丨读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 288,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 129
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6656,
+          "following_count": 2025,
+          "like_count": 23635,
+          "listed_count": 27,
+          "media_count": 524,
+          "tweet_count": 2830
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "性別探索中/hrt20260126-20260331断糖中/生产日期2008/欢迎同类互fo/天残党（我好丑的QAQ/喜欢画画w/ODer（应该算吧qwq/自切准备中ww/超高校级の负能/音理 星野厨/日本語を勉強中/立志关注所有同类(≧∇≦)/高二休学",
+        "id": "1960198897827282944",
+        "location": "猫猫窝",
+        "name": "nya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372266392477696/TKfpldWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 785,
+          "like_count": 5404,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 620
+        },
+        "username": "Neko_nya2026",
+        "verified": false
+      }
+    ]
+  }
+}

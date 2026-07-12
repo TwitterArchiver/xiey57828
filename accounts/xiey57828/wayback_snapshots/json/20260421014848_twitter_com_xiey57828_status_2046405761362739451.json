@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046405749560238080"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046400320176005588",
+    "created_at": "2026-04-21T01:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046405761362739451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eGk3LeqFTa",
+          "end": 28,
+          "expanded_url": "https://x.com/xiey57828/status/2046405761362739451/photo/1",
+          "media_key": "3_2046405749560238080",
+          "start": 5,
+          "url": "https://t.co/eGk3LeqFTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046405761362739451",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046400320176005588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全部家当 https://t.co/eGk3LeqFTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046405749560238080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZLL9ja4AAT7k6.jpg",
+        "width": 943
+      },
+      {
+        "height": 1114,
+        "media_key": "3_2046400310328127488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZGPW1bcAAObSG.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046405749560238080"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046400320176005588",
+        "created_at": "2026-04-21T01:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046405761362739451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGk3LeqFTa",
+              "end": 28,
+              "expanded_url": "https://x.com/xiey57828/status/2046405761362739451/photo/1",
+              "media_key": "3_2046405749560238080",
+              "start": 5,
+              "url": "https://t.co/eGk3LeqFTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046405761362739451",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046400320176005588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全部家当 https://t.co/eGk3LeqFTa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046400310328127488"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2046400320176005588",
+        "created_at": "2026-04-21T01:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046400320176005588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt4Joabesd",
+              "end": 32,
+              "expanded_url": "https://x.com/xiey57828/status/2046400320176005588/photo/1",
+              "media_key": "3_2046400310328127488",
+              "start": 9,
+              "url": "https://t.co/Tt4Joabesd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046400320176005588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想骂我的可以留言 https://t.co/Tt4Joabesd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "#人妖 #跨畜 #精神病  #od #自残 #出生 #白眼狼 #不成熟 #神经病 #脑残 #微信粉 #OPPO全家桶。傻逼健全人，只对健全人刻薄\n最好的宝宝@xyu1182202 。最好的妹妹@LeavesMao跨畜闺闺前辈@renyue105",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "人妖"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "跨畜"
+              },
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "精神病"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "自残"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "出生"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "白眼狼"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "不成熟"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "神经病"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "脑残"
+              },
+              {
+                "end": 49,
+                "start": 45,
+                "tag": "微信粉"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "OPPO全家桶"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "renyue105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "pinned_tweet_id": "2046400320176005588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 264,
+          "like_count": 3433,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2064361847659155479",
+    "created_at": "2026-06-09T14:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064361847659155479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1972970846194180096",
+          "start": 3,
+          "username": "xuelingqiansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064361847659155479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063627747080212588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuelingqiansha: 我爱你,因为你爱我;但你爱我是假的,那我给你的爱也只能由真变假"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2064361847659155479",
+        "created_at": "2026-06-09T14:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064361847659155479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1972970846194180096",
+              "start": 3,
+              "username": "xuelingqiansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361847659155479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063627747080212588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuelingqiansha: 我爱你,因为你爱我;但你爱我是假的,那我给你的爱也只能由真变假"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972970846194180096",
+        "conversation_id": "2063627747080212588",
+        "created_at": "2026-06-07T14:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063627747080212588"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "56ac89b367a68a34"
+        },
+        "id": "2063627747080212588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你,因为你爱我;但你爱我是假的,那我给你的爱也只能由真变假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "含糖反跨顺男🍑出生08.02.16缺爱b，臭郭楠丨喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！精神状态超好！？😉丨双相，视力残疾丨谁要人喜欢了？真男人就该独自前行！丨语言逻辑混乱",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 423,
+          "like_count": 8253,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 3059
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T10:24:49.000Z",
+        "description": "05.2.20/hrt:24.5.16(已经是大龄药娘哩)/家长管不了党/长的一般/不会伪音(好难)/大学生一枚/学校:新疆 家:辽宁/不打算srs,就这样过一辈子,mtx/180大只(嘻嘻)/抖m,sub/讨厌被骗(超级超级讨厌)/同类互fo,随时欢迎找我玩捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuelingqiansha",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuelingqiansha",
+                "start": 0,
+                "url": "https://t.co/SKiotz39DX"
+              }
+            ]
+          }
+        },
+        "id": "1972970846194180096",
+        "location": "就在你的心里呀,笨蛋～",
+        "name": "雪澪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062878865501155328/bqTiL-ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 110,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/SKiotz39DX",
+        "username": "xuelingqiansha",
+        "verified": true
+      }
+    ]
+  }
+}

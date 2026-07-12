@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041387479111176192"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2041135974256988191",
+    "created_at": "2026-04-07T05:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041387487168536873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ue3qAuh5pR",
+          "end": 48,
+          "expanded_url": "https://x.com/xiey57828/status/2041387487168536873/photo/1",
+          "media_key": "3_2041387479111176192",
+          "start": 25,
+          "url": "https://t.co/ue3qAuh5pR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041387487168536873",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041135974256988191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 所以到底好不好吃 https://t.co/ue3qAuh5pR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041387479111176192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFR3GLVaEAAGz_v.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2041135972168138752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOSWi9agAA-BHO.jpg",
+        "width": 1325
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041387479111176192"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2041135974256988191",
+        "created_at": "2026-04-07T05:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041387487168536873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ue3qAuh5pR",
+              "end": 48,
+              "expanded_url": "https://x.com/xiey57828/status/2041387487168536873/photo/1",
+              "media_key": "3_2041387479111176192",
+              "start": 25,
+              "url": "https://t.co/ue3qAuh5pR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041387487168536873",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041135974256988191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 所以到底好不好吃 https://t.co/ue3qAuh5pR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041135972168138752"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041135974256988191",
+        "created_at": "2026-04-06T12:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041135974256988191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcLskhBlZd",
+              "end": 30,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2041135974256988191/photo/1",
+              "media_key": "3_2041135972168138752",
+              "start": 7,
+              "url": "https://t.co/YcLskhBlZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041135974256988191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4243,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr好吃吗？ https://t.co/YcLskhBlZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四马上毕业丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨精神状态不好。https://t.co/dlkZFZjfgW我是人机",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 133,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 110,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2040430005826797922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 400,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 342
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9437,
+          "following_count": 893,
+          "like_count": 71316,
+          "listed_count": 17,
+          "media_count": 1450,
+          "tweet_count": 10227
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

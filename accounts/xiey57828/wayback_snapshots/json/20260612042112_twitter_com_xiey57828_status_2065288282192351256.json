@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065288274114154496"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065288282192351256",
+    "created_at": "2026-06-12T04:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065288282192351256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8AbMYI3zXO",
+          "end": 23,
+          "expanded_url": "https://x.com/xiey57828/status/2065288282192351256/photo/1",
+          "media_key": "3_2065288274114154496",
+          "start": 0,
+          "url": "https://t.co/8AbMYI3zXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065288282192351256",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/8AbMYI3zXO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2065288274114154496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlgvjFakAAPkvx.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065288274114154496"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065288282192351256",
+        "created_at": "2026-06-12T04:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065288282192351256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AbMYI3zXO",
+              "end": 23,
+              "expanded_url": "https://x.com/xiey57828/status/2065288282192351256/photo/1",
+              "media_key": "3_2065288274114154496",
+              "start": 0,
+              "url": "https://t.co/8AbMYI3zXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065288282192351256",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8AbMYI3zXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑大证含糖反跨顺男神人\n出生08.02.16缺爱b，臭郭楠\n喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！\n精神状态超好！？😉\n双相，视力残疾\n谁要人喜欢了？\n登神之路总是孤独的！\n语言逻辑混乱",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 424,
+          "like_count": 8498,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 3150
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

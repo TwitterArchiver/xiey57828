@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056294360522887168"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2056294362947195218",
+    "created_at": "2026-05-18T08:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056294362947195218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iz0kM5BVVP",
+          "end": 30,
+          "expanded_url": "https://x.com/xiey57828/status/2056294362947195218/photo/1",
+          "media_key": "3_2056294360522887168",
+          "start": 7,
+          "url": "https://t.co/iz0kM5BVVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056294362947195218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实是顺男 https://t.co/iz0kM5BVVP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2056294360522887168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIls04CbEAA39D_.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056294360522887168"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2056294362947195218",
+        "created_at": "2026-05-18T08:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056294362947195218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iz0kM5BVVP",
+              "end": 30,
+              "expanded_url": "https://x.com/xiey57828/status/2056294362947195218/photo/1",
+              "media_key": "3_2056294360522887168",
+              "start": 7,
+              "url": "https://t.co/iz0kM5BVVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056294362947195218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实是顺男 https://t.co/iz0kM5BVVP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "顺男版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃",
+        "pinned_tweet_id": "2055853934460522952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 307,
+          "like_count": 5584,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

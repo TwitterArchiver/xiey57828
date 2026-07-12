@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2057453531230277914",
+    "created_at": "2026-05-22T02:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057653099679121747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889400790927941632",
+          "start": 0,
+          "username": "Linchen14725836"
+        },
+        {
+          "end": 25,
+          "id": "1457291192756957184",
+          "start": 17,
+          "username": "gucvigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057653099679121747",
+    "in_reply_to_user_id": "1889400790927941632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057650421582442792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linchen14725836 @gucvigy 我不知道啊，反正我带了家长也带了病历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2057453531230277914",
+        "created_at": "2026-05-22T02:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057653099679121747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889400790927941632",
+              "start": 0,
+              "username": "Linchen14725836"
+            },
+            {
+              "end": 25,
+              "id": "1457291192756957184",
+              "start": 17,
+              "username": "gucvigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057653099679121747",
+        "in_reply_to_user_id": "1889400790927941632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057650421582442792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linchen14725836 @gucvigy 我不知道啊，反正我带了家长也带了病历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889400790927941632",
+        "conversation_id": "2057453531230277914",
+        "created_at": "2026-05-22T02:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057650421582442792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457291192756957184",
+              "start": 0,
+              "username": "gucvigy"
+            },
+            {
+              "end": 19,
+              "id": "1887391023976038400",
+              "start": 9,
+              "username": "xiey57828"
+            },
+            {
+              "end": 45,
+              "id": "1887391023976038400",
+              "start": 35,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057650421582442792",
+        "in_reply_to_user_id": "1457291192756957184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057552596328661068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gucvigy @xiey57828 去张毅那里只需要带病例就可以吗@xiey57828"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF。大证2026.5.21丨永远18岁！丨喜欢男生、mc和猫猫叶@LeavesMao丨无精神病？丨家长党？158cm丨我怎么这么丑啊😭😭😭丨2026年5月16日第二次生命。希望大家珍惜生命，活着才可能会有见到太阳的那天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "乌托邦",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 321,
+          "like_count": 5949,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 2188
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T19:47:19.000Z",
+        "description": "日本語の名前は橙野花鈴で、英語はBrooke,Orangeです。\n中国の福建省から。外国のマナーがわかんないから、もし犯すことがあったら、ご容赦願います。\n日本語を勉強してるから、日本の友達があってほしいです！！！\n中国語を教えられる。\nよろしくお願い！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/FdigLbBRKI"
+              }
+            ]
+          }
+        },
+        "id": "1889400790927941632",
+        "location": "Hong Kong",
+        "name": "霖橙子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003047964596666369/SpGm2vHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 45,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/FdigLbBRKI",
+        "username": "Linchen14725836",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T10:18:17.000Z",
+        "description": "00大龄yn,无证含🍬，intp-A，hrt：2025.06.11，小证：2026.01.19  大证：2026.04.13天残党，不od,不割手，情绪稳定。",
+        "id": "1457291192756957184",
+        "name": "🏹💖箭魂柔射",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978583178295267329/I4-wLvyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 670,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 659
+        },
+        "username": "gucvigy",
+        "verified": false
+      }
+    ]
+  }
+}

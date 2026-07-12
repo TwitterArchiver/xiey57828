@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062416279341002900",
+    "created_at": "2026-06-04T06:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062418116362322120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062418116362322120",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062416279341002900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 我草你这么漂亮啊原来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2062416082779230208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8sgAkb0AAdONI.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 7833,
+        "height": 1908,
+        "media_key": "13_2062416100625956865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062416100625956865/img/tCwvknil7Tc7ABbr.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062416100625956865/vid/avc1/320x564/iqQgm08snvPZryW-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062416100625956865/vid/avc1/480x848/DSI62NzGuweO7wmz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062416100625956865/vid/avc1/720x1272/ineJ52d7fqyOe-W3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062416100625956865/pl/cMVwirglDudZupBd.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062416279341002900",
+        "created_at": "2026-06-04T06:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062418116362322120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062418116362322120",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062416279341002900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 我草你这么漂亮啊原来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062416082779230208",
+            "13_2062416100625956865"
+          ]
+        },
+        "author_id": "1838866598427549696",
+        "conversation_id": "2062416279341002900",
+        "created_at": "2026-06-04T06:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062416279341002900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W45uTquYEx",
+              "end": 60,
+              "expanded_url": "https://x.com/Yunmengyue/status/2062416279341002900/video/1",
+              "media_key": "3_2062416082779230208",
+              "start": 37,
+              "url": "https://t.co/W45uTquYEx"
+            },
+            {
+              "display_url": "pic.x.com/W45uTquYEx",
+              "end": 60,
+              "expanded_url": "https://x.com/Yunmengyue/status/2062416279341002900/video/1",
+              "media_key": "13_2062416100625956865",
+              "start": 37,
+              "url": "https://t.co/W45uTquYEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062416279341002900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然阴天，抓紧采购。或许我真该做个发型？28岁天天这样傻不拉叽的正常吗🙃 https://t.co/W45uTquYEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑大证含糖,半家长党\n丨视力四级残疾，大概30岁之前会瞎然后死掉\n丨或许在这个世界上会有人喜欢我，只是我还未从遇见。我想再等等\n丨看不惯我的人能不能屏蔽我,你们看到我烦,我看到你们也烦😅丨乐子人统治世界！",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 401,
+          "like_count": 7516,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 2786
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2026.5开启hrt/持证含糖MtF/持续羡慕年轻小药娘/1997年老登",
+        "id": "1838866598427549696",
+        "name": "云梦玥🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 211,
+          "like_count": 765,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 520
+        },
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

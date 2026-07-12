@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2073546666909794674",
+    "created_at": "2026-07-04T23:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073546666909794674"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073546666909794674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）\n\n哈哈哈哈哈🤣🤣🤣，一起玩原神↗（云☁️原神！）\n\n好、好、好想🤩——想玩玩玩原神😋～\n\n网页云端，低功耗不失真😌！\n\nWIFI网线🥰，都可以60帧😍～\n\n来来来来👏，来进入云☁️原神～"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2073546666909794674",
+        "created_at": "2026-07-04T23:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073546666909794674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073546666909794674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）\n\n哈哈哈哈哈🤣🤣🤣，一起玩原神↗（云☁️原神！）\n\n好、好、好想🤩——想玩玩玩原神😋～\n\n网页云端，低功耗不失真😌！\n\nWIFI网线🥰，都可以60帧😍～\n\n来来来来👏，来进入云☁️原神～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 523,
+          "like_count": 10273,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 4062
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2068286590619926777",
+    "created_at": "2026-06-21T03:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068534483268346240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 18,
+          "id": "2063266311254552576",
+          "start": 11,
+          "username": "17nuun"
+        },
+        {
+          "end": 27,
+          "id": "1512976991976402949",
+          "start": 19,
+          "username": "bghtnya"
+        },
+        {
+          "end": 40,
+          "id": "1860552199585300482",
+          "start": 28,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068534483268346240",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068286590619926777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo @17nuun @bghtnya @Seven_Eraya 唐毓文什么时候锐评我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 185898,
+        "height": 1440,
+        "media_key": "13_2068286048313200640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068286048313200640/img/ZrRpWOUCLK4Kuj4w.jpg",
+        "public_metrics": {
+          "view_count": 390
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/1280x720/kLbAju-yo5nRAz7K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/pl/92V0KeuOJiBYNMff.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/2560x1440/XgHPE2DdIPkK9cEv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/640x360/6vdkuTwKOoXaIbMX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/480x270/IH138nakomvPpavi.mp4"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2068286590619926777",
+        "created_at": "2026-06-21T03:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068534483268346240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 18,
+              "id": "2063266311254552576",
+              "start": 11,
+              "username": "17nuun"
+            },
+            {
+              "end": 27,
+              "id": "1512976991976402949",
+              "start": 19,
+              "username": "bghtnya"
+            },
+            {
+              "end": 40,
+              "id": "1860552199585300482",
+              "start": 28,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068534483268346240",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068286590619926777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo @17nuun @bghtnya @Seven_Eraya 唐毓文什么时候锐评我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068286048313200640"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2068286590619926777",
+        "created_at": "2026-06-20T10:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068286590619926777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "2063266311254552576",
+              "start": 41,
+              "username": "17nuun"
+            },
+            {
+              "end": 57,
+              "id": "1512976991976402949",
+              "start": 49,
+              "username": "bghtnya"
+            },
+            {
+              "end": 70,
+              "id": "1860552199585300482",
+              "start": 58,
+              "username": "Seven_Eraya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "b23.tv/G8TdY9W",
+              "end": 35,
+              "expanded_url": "https://b23.tv/G8TdY9W",
+              "start": 12,
+              "unwound_url": "https://www.bilibili.com/video/BV115jn63E5v/?buvid=XX0E5DA0B60054176EA439B380F5A59DE2C5C&from_spmid=default-value&is_story_h5=false&mid=ync4LKCY%2Btciro2Rc%2Bpjqg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=37eeb526-a397-44f1-9c27-6366e1882c09&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1781941208&unique_k=G8TdY9W&up_id=630015974",
+              "url": "https://t.co/3fKacEdR45"
+            },
+            {
+              "display_url": "pic.x.com/XC7fjnftna",
+              "end": 94,
+              "expanded_url": "https://x.com/YuwenMewo/status/2068286590619926777/video/1",
+              "media_key": "13_2068286048313200640",
+              "start": 71,
+              "url": "https://t.co/XC7fjnftna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068286590619926777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1198,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈大周报（3）\nb站：https://t.co/3fKacEdR45\n本期嘉宾：@17nuun，@bghtnya，@Seven_Eraya https://t.co/XC7fjnftna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 464,
+          "like_count": 9118,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 3473
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2068286590619926777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 35,
+          "like_count": 108,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 810,
+          "like_count": 388,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10050,
+          "following_count": 2341,
+          "like_count": 181647,
+          "listed_count": 18,
+          "media_count": 4008,
+          "tweet_count": 49060
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "疑似有证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|疑似有证26.5.25|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2065890411256914308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 268,
+          "like_count": 831,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

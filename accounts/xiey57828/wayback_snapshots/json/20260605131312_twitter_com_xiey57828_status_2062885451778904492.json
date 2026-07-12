@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062885451778904492",
+    "created_at": "2026-06-05T13:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062885451778904492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1877473083063201792",
+          "start": 3,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062885451778904492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062856926787256429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dorothy1614926: 呜呜呜……全校都知道难道还不够吗，为什么还要把我挂到网上……我都已经这样了为什么还要这样对我……好难过……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062885451778904492",
+        "created_at": "2026-06-05T13:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062885451778904492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1877473083063201792",
+              "start": 3,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062885451778904492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062856926787256429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dorothy1614926: 呜呜呜……全校都知道难道还不够吗，为什么还要把我挂到网上……我都已经这样了为什么还要这样对我……好难过……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2062856926787256429",
+        "created_at": "2026-06-05T11:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062856926787256429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062856926787256429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜……全校都知道难道还不够吗，为什么还要把我挂到网上……我都已经这样了为什么还要这样对我……好难过……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "所有和我接触密切的人都会倒霉",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 410,
+          "like_count": 7712,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 2881
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛のこいし、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue｜可爱的小鲨鲨@TixItem4527｜可爱猫猫叶～@LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "wenhuamengyue"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "TixItem4527"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dorothy16149261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dorothy16149261",
+                "start": 0,
+                "url": "https://t.co/apd2CBfCuO"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058475297205604352/Ezx8PWCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 666,
+          "like_count": 7254,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/apd2CBfCuO",
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

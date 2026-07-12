@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2042564592581382509",
+    "created_at": "2026-04-10T12:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042583804536328549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042583804536328549",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042564592581382509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 确实贵在坚持，我在宿舍有室友不敢打，基本就打打腋下，所以腋下基本绝毛了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_2042564580078202880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFilqeJbMAASbWR.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042564592581382509",
+        "created_at": "2026-04-10T12:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042583804536328549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042583804536328549",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042564592581382509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 确实贵在坚持，我在宿舍有室友不敢打，基本就打打腋下，所以腋下基本绝毛了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042564580078202880"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2042564592581382509",
+        "created_at": "2026-04-10T11:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042564592581382509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrchjrGKov",
+              "end": 127,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2042564592581382509/photo/1",
+              "media_key": "3_2042564580078202880",
+              "start": 104,
+              "url": "https://t.co/zrchjrGKov"
+            },
+            {
+              "display_url": "x.com/moonlight_ruri…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/moonlight_ruri/status/2042070580615377088",
+              "start": 128,
+              "url": "https://t.co/0HwHtPC3IH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042564592581382509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042070580615377088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "统一回复大家，因为没有任何厂家给我支付广告费，所以我不推荐任何品牌或商品链接。其实激光脱毛仪的原理都是一样的，贵在坚持。在你们的购物平台上搜索激光脱毛仪就好，还有一种叫做拉杆箱脱毛仪比较贵。看自己的预算哦。 https://t.co/zrchjrGKov https://t.co/0HwHtPC3IH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，完全不懂日语https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 134,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 111,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2042381887642222758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 433,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘，谢谢喜欢。好きになってくれてありがとうございます",
+        "id": "1763034943599607808",
+        "location": "🉑🌙🚪48",
+        "name": "月光的琉璃梦🏳️‍⚧️🍥🌸4代目",
+        "pinned_tweet_id": "2041532208981430542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 53,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 993
+        },
+        "username": "moonlight_ruri",
+        "verified": false
+      }
+    ]
+  }
+}

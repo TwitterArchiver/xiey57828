@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061822609327833088"
+      ],
+      "media_source_tweet_id": [
+        "2061822611705974967"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2061982633169707161",
+    "created_at": "2026-06-03T01:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061982633169707161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IUn4HU2JCD",
+          "end": 124,
+          "expanded_url": "https://x.com/KiraMyao/status/2061822611705974967/photo/1",
+          "media_key": "3_2061822609327833088",
+          "start": 101,
+          "url": "https://t.co/IUn4HU2JCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061982633169707161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061822611705974967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: 2026年，中国跨性别者过得怎么样？\n没有人知道…\n发起《2026中国跨性别者处境调查》\n这个六月，\n我们希望留下更多❤️\n——🏳️‍⚧️ Pride Month 2026 https://t.co/IUn4HU2JCD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_2061822609327833088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0QvTrawAAY8JF.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061822609327833088"
+          ],
+          "media_source_tweet_id": [
+            "2061822611705974967"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2061982633169707161",
+        "created_at": "2026-06-03T01:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061982633169707161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUn4HU2JCD",
+              "end": 124,
+              "expanded_url": "https://x.com/KiraMyao/status/2061822611705974967/photo/1",
+              "media_key": "3_2061822609327833088",
+              "start": 101,
+              "url": "https://t.co/IUn4HU2JCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061982633169707161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822611705974967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: 2026年，中国跨性别者过得怎么样？\n没有人知道…\n发起《2026中国跨性别者处境调查》\n这个六月，\n我们希望留下更多❤️\n——🏳️‍⚧️ Pride Month 2026 https://t.co/IUn4HU2JCD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061822609327833088"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2061822611705974967",
+        "created_at": "2026-06-02T14:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061822611705974967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUn4HU2JCD",
+              "end": 110,
+              "expanded_url": "https://x.com/KiraMyao/status/2061822611705974967/photo/1",
+              "media_key": "3_2061822609327833088",
+              "start": 87,
+              "url": "https://t.co/IUn4HU2JCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822611705974967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 9641,
+          "like_count": 172,
+          "quote_count": 9,
+          "reply_count": 84,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "2026年，中国跨性别者过得怎么样？\n没有人知道…\n发起《2026中国跨性别者处境调查》\n这个六月，\n我们希望留下更多❤️\n——🏳️‍⚧️ Pride Month 2026 https://t.co/IUn4HU2JCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑大证含糖，半家长党。喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。看不惯我的就滚😅视力四级残疾，大概30岁之前会瞎然后死掉。\n高兴时想拯救世界，伤心时想毁灭世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 388,
+          "like_count": 7321,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 2714
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 363,
+          "like_count": 9904,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 1751
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

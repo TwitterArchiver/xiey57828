@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2063910483602833693",
+    "created_at": "2026-06-08T09:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063910483602833693"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063910483602833693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草我是顺男啊，为什么看完一部片还没立起来？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2063910483602833693",
+        "created_at": "2026-06-08T09:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063910483602833693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063910483602833693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草我是顺男啊，为什么看完一部片还没立起来？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "含糖反跨顺男🍑出生08.02.16缺爱b，臭郭楠丨喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！精神状态超好！？😉丨双相，视力残疾丨谁要人喜欢了？真男人就该独自前行！丨语言逻辑混乱",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 423,
+          "like_count": 8064,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 2987
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

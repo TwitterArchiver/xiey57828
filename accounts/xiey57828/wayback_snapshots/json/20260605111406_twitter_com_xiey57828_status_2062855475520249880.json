@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062709002677731721",
+    "created_at": "2026-06-05T11:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062855475520249880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978410898852130816",
+          "start": 0,
+          "username": "gousegailoutse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062855475520249880",
+    "in_reply_to_user_id": "1978410898852130816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062855060032303532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gousegailoutse 恐怖😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062709002677731721",
+        "created_at": "2026-06-05T11:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062855475520249880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978410898852130816",
+              "start": 0,
+              "username": "gousegailoutse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062855475520249880",
+        "in_reply_to_user_id": "1978410898852130816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062855060032303532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gousegailoutse 恐怖😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978410898852130816",
+        "conversation_id": "2062709002677731721",
+        "created_at": "2026-06-05T11:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062855060032303532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062855060032303532",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062709002677731721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我今天也是这样 给我赶出来之后给我妈叫进去了😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "所有和我接触密切的人都会倒霉",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 410,
+          "like_count": 7706,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 2877
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T10:41:39.000Z",
+        "description": "13岁mtf #最爱听xxxtentacion和juice word 叫我小槿就好",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 7,
+                "tag": "最爱听xxxtentacion和juice"
+              }
+            ]
+          }
+        },
+        "id": "1978410898852130816",
+        "name": "jinnan🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055957864447889408/BjCAho2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 58
+        },
+        "username": "gousegailoutse",
+        "verified": false
+      }
+    ]
+  }
+}

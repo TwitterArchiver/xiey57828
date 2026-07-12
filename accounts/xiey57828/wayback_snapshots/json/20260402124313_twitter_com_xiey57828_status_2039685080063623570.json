@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2039614776704434642",
+    "created_at": "2026-04-02T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039685080063623570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662474877000118272",
+          "start": 0,
+          "username": "ruiximtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039685080063623570",
+    "in_reply_to_user_id": "1662474877000118272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039614776704434642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiximtf 会不会变小母狗😳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039614762892607488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4q0gzbQAAmDcU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2039614776704434642",
+        "created_at": "2026-04-02T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039685080063623570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662474877000118272",
+              "start": 0,
+              "username": "ruiximtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039685080063623570",
+        "in_reply_to_user_id": "1662474877000118272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039614776704434642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiximtf 会不会变小母狗😳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039614762892607488"
+          ]
+        },
+        "author_id": "1662474877000118272",
+        "conversation_id": "2039614776704434642",
+        "created_at": "2026-04-02T08:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039614776704434642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRNv7rFoRV",
+              "end": 37,
+              "expanded_url": "https://x.com/ruiximtf/status/2039614776704434642/photo/1",
+              "media_key": "3_2039614762892607488",
+              "start": 14,
+              "url": "https://t.co/bRNv7rFoRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039614776704434642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1393,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "继续注射兽雌请父母死心😋🥺 https://t.co/bRNv7rFoRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "叫我沐桃就好丨读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 294,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 133
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:04:50.000Z",
+        "description": "一个宅在家里的线虫/09休学中/好孤独呀欢迎来聊天互fo/日语学习ing！/看番和玩二游（原神/崩铁/啤酒烧烤/光遇…）来个人和喔说说话吧太无聊咯逃生舱@xi_ruiaha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "xi_ruiaha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ahamisaka",
+                "end": 23,
+                "expanded_url": "https://t.me/ahamisaka",
+                "start": 0,
+                "url": "https://t.co/SJMiqGcex1"
+              }
+            ]
+          }
+        },
+        "id": "1662474877000118272",
+        "location": "pigsea",
+        "name": "荠aha🍥",
+        "pinned_tweet_id": "1908938007543169070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975566499948732416/BV2Fq-Qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 1018,
+          "like_count": 2175,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/SJMiqGcex1",
+        "username": "ruiximtf",
+        "verified": true
+      }
+    ]
+  }
+}

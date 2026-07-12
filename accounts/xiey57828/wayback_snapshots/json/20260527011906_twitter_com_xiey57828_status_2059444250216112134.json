@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2059361702127509781",
+    "created_at": "2026-05-27T01:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059444250216112134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942905765976748032",
+          "start": 0,
+          "username": "zishu2696544661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059444250216112134",
+    "in_reply_to_user_id": "1942905765976748032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059442567775699292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zishu2696544661 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2059361702127509781",
+        "created_at": "2026-05-27T01:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059444250216112134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942905765976748032",
+              "start": 0,
+              "username": "zishu2696544661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059444250216112134",
+        "in_reply_to_user_id": "1942905765976748032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059442567775699292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zishu2696544661 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942905765976748032",
+        "conversation_id": "2059361702127509781",
+        "created_at": "2026-05-27T01:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059442567775699292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059442567775699292",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059422125782663356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我也有碳酸锂，但是手不抖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨史上最快大证😋26.5.21丨🍥hrt24.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨#易性症 #双相情感障碍 视力四级残疾 丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "双相情感障碍"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059267949769408817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 355,
+          "like_count": 6531,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2421
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T11:17:00.000Z",
+        "description": "19岁/无证含糖/有对象咯/会od自残/有抑郁症/躁狂症/天天想着怎么死/受虐狂/喜欢有人找我玩",
+        "id": "1942905765976748032",
+        "name": "崽崽🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1959450145067802944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053851745839722496/cmRIn3wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 252,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 61
+        },
+        "username": "zishu2696544661",
+        "verified": false
+      }
+    ]
+  }
+}

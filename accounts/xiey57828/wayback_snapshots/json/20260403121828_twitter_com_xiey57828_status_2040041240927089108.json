@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2040028776441204886",
+    "created_at": "2026-04-03T12:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040041240927089108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040041240927089108",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040028776441204886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 大义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040028767125643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-jWuwaIAAXGuj.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2040028776441204886",
+        "created_at": "2026-04-03T12:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040041240927089108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040041240927089108",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040028776441204886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 大义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040028767125643264"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2040028776441204886",
+        "created_at": "2026-04-03T11:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040028776441204886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMoY7r2pr9",
+              "end": 43,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2040028776441204886/photo/1",
+              "media_key": "3_2040028767125643264",
+              "start": 20,
+              "url": "https://t.co/QMoY7r2pr9"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2039201849434378530",
+              "start": 44,
+              "url": "https://t.co/Oe8CE8FB1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040028776441204886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1706,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039201849434378530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人要出来喽…\n可惜太慢了头发还是被剪了 https://t.co/QMoY7r2pr9 https://t.co/Oe8CE8FB1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "叫我沐桃就好丨读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机，和输入法对抗中😡",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 328,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 168
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4018,
+          "following_count": 2338,
+          "like_count": 2393,
+          "listed_count": 14,
+          "media_count": 386,
+          "tweet_count": 2560
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

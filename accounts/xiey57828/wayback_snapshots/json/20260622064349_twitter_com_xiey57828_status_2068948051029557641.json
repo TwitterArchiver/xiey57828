@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2068948051029557641",
+    "created_at": "2026-06-22T06:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068948051029557641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533024617811812352",
+          "start": 3,
+          "username": "Spr1ngW1nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068948051029557641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 301
+    },
+    "referenced_tweets": [
+      {
+        "id": "1612059448746602496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngW1nd: 20:11 剧烈变形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2068948051029557641",
+        "created_at": "2026-06-22T06:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068948051029557641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533024617811812352",
+              "start": 3,
+              "username": "Spr1ngW1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068948051029557641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059448746602496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngW1nd: 20:11 剧烈变形"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533024617811812352",
+        "conversation_id": "1612053907999715328",
+        "created_at": "2023-01-08T12:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-08T12:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1612059448746602496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1612059448746602496",
+        "in_reply_to_user_id": "1533024617811812352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 642998,
+          "like_count": 1364,
+          "quote_count": 126,
+          "reply_count": 304,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059228742782977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20:11 剧烈变形"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…\n❤️五好良跨不🚬不🍺不💊不🔪不🔞",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 475,
+          "like_count": 9261,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 3530
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6981,
+          "following_count": 357,
+          "like_count": 4379,
+          "listed_count": 17,
+          "media_count": 450,
+          "tweet_count": 4947
+        },
+        "url": "",
+        "username": "Spr1ngW1nd",
+        "verified": false
+      }
+    ]
+  }
+}

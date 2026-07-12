@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2055536354730094725",
+    "created_at": "2026-05-16T07:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055555038060437595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045954929609629696",
+          "start": 0,
+          "username": "renchengxu15509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055555038060437595",
+    "in_reply_to_user_id": "2045954929609629696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055536354730094725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renchengxu15509 过几天其实也没有男性功能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2055536354730094725",
+        "created_at": "2026-05-16T07:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055555038060437595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045954929609629696",
+              "start": 0,
+              "username": "renchengxu15509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055555038060437595",
+        "in_reply_to_user_id": "2045954929609629696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055536354730094725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renchengxu15509 过几天其实也没有男性功能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045954929609629696",
+        "conversation_id": "2055536354730094725",
+        "created_at": "2026-05-16T06:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055536354730094725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/xiey57828/status/2055505715020902525",
+              "start": 24,
+              "url": "https://t.co/FDSLpa25SJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055536354730094725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055505715020902525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过几天来看看，gd会教育每个自认为是顺男的跨女 https://t.co/FDSLpa25SJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "现在是友跨顺男版，被扭转过来了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃",
+        "pinned_tweet_id": "2048948188070150603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053082035531739136/h5Zx5o6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 303,
+          "like_count": 5512,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T19:57:40.000Z",
+        "description": "这里是任月月，家暴党小药娘，希望能和大家友好相处",
+        "id": "2045954929609629696",
+        "name": "任月🎀",
+        "pinned_tweet_id": "2054830961834008984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054822116193923072/D3Ca197__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 106,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 116
+        },
+        "username": "renchengxu15509",
+        "verified": false
+      }
+    ]
+  }
+}

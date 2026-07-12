@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2046915492527722800",
+    "created_at": "2026-04-22T15:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046974117237473569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957893364067770368",
+          "start": 0,
+          "username": "eririka_momo"
+        },
+        {
+          "end": 26,
+          "id": "2024195400442531841",
+          "start": 14,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046974117237473569",
+    "in_reply_to_user_id": "1957893364067770368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046973651183190125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eririka_momo @zhngy228309 能不能点进我主页看看🤣👉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2046915492527722800",
+        "created_at": "2026-04-22T15:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046974117237473569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957893364067770368",
+              "start": 0,
+              "username": "eririka_momo"
+            },
+            {
+              "end": 26,
+              "id": "2024195400442531841",
+              "start": 14,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046974117237473569",
+        "in_reply_to_user_id": "1957893364067770368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046973651183190125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eririka_momo @zhngy228309 能不能点进我主页看看🤣👉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957893364067770368",
+        "conversation_id": "2046915492527722800",
+        "created_at": "2026-04-22T15:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046973651183190125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 23,
+              "id": "2024195400442531841",
+              "start": 11,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046973651183190125",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046915492527722800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 @zhngy228309 蹲蹲喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "#人妖 #跨蛆 #精神病  #od #自残 #出生 #白眼狼 #不成熟 #神经病 #脑残 #缺爱 #微信粉 #反复无常 #乐子人 #反串 #炒作 #反喵。宝宝@xyu1182202 。最好的妹妹@LeavesMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "人妖"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "跨蛆"
+              },
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "精神病"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "自残"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "出生"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "白眼狼"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "不成熟"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "神经病"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "脑残"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "缺爱"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "微信粉"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "反复无常"
+              },
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "乐子人"
+              },
+              {
+                "end": 68,
+                "start": 65,
+                "tag": "反串"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "炒作"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "反喵"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "pinned_tweet_id": "2046958526040510735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 268,
+          "like_count": 3657,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1441
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T19:52:19.000Z",
+        "description": "视奸你爹妈大气层漂浮中除了我亲友",
+        "id": "1957893364067770368",
+        "name": "视奸默认找操",
+        "pinned_tweet_id": "2036144245351026791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960053823738949633/F4p03-Tn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 179,
+          "like_count": 1488,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 335
+        },
+        "username": "eririka_momo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我爱发啥发啥\nod｜自残｜抽烟\n10年｜162cm｜40kg 可以叫我小予喵🥺\n互fo我爱你们w 回fo私信 查成分\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位 纯绿",
+        "name": "痂",
+        "pinned_tweet_id": "2042223647331582256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 543,
+          "like_count": 5692,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

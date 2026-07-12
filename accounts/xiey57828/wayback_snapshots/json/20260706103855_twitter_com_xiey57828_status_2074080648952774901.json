@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2074050494285431023",
+    "created_at": "2026-07-06T10:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074080648952774901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804296555354013696",
+          "start": 0,
+          "username": "LoveForever_52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074080648952774901",
+    "in_reply_to_user_id": "1804296555354013696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074050494285431023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveForever_52 怎么领"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2074049819258335232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiBUmNbMAAYqVf.jpg",
+        "width": 1035
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2074050351117025280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiBzjiawAACyxq.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2074050494285431023",
+        "created_at": "2026-07-06T10:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074080648952774901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804296555354013696",
+              "start": 0,
+              "username": "LoveForever_52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074080648952774901",
+        "in_reply_to_user_id": "1804296555354013696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074050494285431023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveForever_52 怎么领"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074049819258335232",
+            "3_2074050351117025280"
+          ]
+        },
+        "author_id": "1804296555354013696",
+        "conversation_id": "2074050494285431023",
+        "created_at": "2026-07-06T08:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074050494285431023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 98,
+              "tag": "xpickr"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1559664112379998210",
+              "start": 41,
+              "username": "xpickr"
+            },
+            {
+              "end": 61,
+              "id": "1887391023976038400",
+              "start": 51,
+              "username": "xiey57828"
+            },
+            {
+              "end": 73,
+              "id": "1796192059495219200",
+              "start": 62,
+              "username": "celadon000"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Congratulations to 沐桃, Celadon🍥 for winning the draw!",
+              "display_url": "xpickr.com/draw/178332691…",
+              "end": 97,
+              "expanded_url": "https://xpickr.com/draw/1783326910332/winners",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074050503567351808/4hZIC1rI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074050503567351808/4hZIC1rI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "The X Picker Winners",
+              "unwound_url": "https://www.xpickr.com/draw/1783326910332/winners",
+              "url": "https://t.co/ZcM7oxyQno"
+            },
+            {
+              "display_url": "pic.x.com/zKP0tlD2F0",
+              "end": 129,
+              "expanded_url": "https://x.com/LoveForever_52/status/2074050494285431023/photo/1",
+              "media_key": "3_2074049819258335232",
+              "start": 106,
+              "url": "https://t.co/zKP0tlD2F0"
+            },
+            {
+              "display_url": "pic.x.com/zKP0tlD2F0",
+              "end": 129,
+              "expanded_url": "https://x.com/LoveForever_52/status/2074050494285431023/photo/1",
+              "media_key": "3_2074050351117025280",
+              "start": 106,
+              "url": "https://t.co/zKP0tlD2F0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050494285431023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇制剂抽中了两位，欢迎领取.1%喷雾2瓶10ml,0.3%凝胶一瓶100ml @xpickr - @xiey57828 @celadon000 https://t.co/ZcM7oxyQno #xpickr https://t.co/zKP0tlD2F0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 526,
+          "like_count": 10340,
+          "listed_count": 4,
+          "media_count": 223,
+          "tweet_count": 4094
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-21T23:33:30.000Z",
+        "description": "生产日08.4.18/保质期18年20年??/👻163cm54kg努力减肥中//同类可+我/临的可找我玩/小单睾一只（字面意思）",
+        "id": "1804296555354013696",
+        "location": "中国",
+        "name": "天依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000435599564779520/7ap8p92y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 206,
+          "like_count": 255,
+          "listed_count": 5,
+          "media_count": 324,
+          "tweet_count": 743
+        },
+        "url": "",
+        "username": "LoveForever_52",
+        "verified": false
+      }
+    ]
+  }
+}

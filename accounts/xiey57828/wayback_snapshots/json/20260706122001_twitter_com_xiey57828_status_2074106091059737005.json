@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2074057714700026078",
+    "created_at": "2026-07-06T12:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074106091059737005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835220118219243523",
+          "start": 0,
+          "username": "sakana520mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074106091059737005",
+    "in_reply_to_user_id": "1835220118219243523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074057714700026078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakana520mtf 神秘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2074057714700026078",
+        "created_at": "2026-07-06T12:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074106091059737005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835220118219243523",
+              "start": 0,
+              "username": "sakana520mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074106091059737005",
+        "in_reply_to_user_id": "1835220118219243523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074057714700026078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakana520mtf 神秘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835220118219243523",
+        "conversation_id": "2074057714700026078",
+        "created_at": "2026-07-06T09:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074057714700026078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074057714700026078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在才发现之前没有办法发表评论是因为主力机解了bl锁root被x的客户端检测到了🥲换备用机所有功能正常了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 526,
+          "like_count": 10356,
+          "listed_count": 4,
+          "media_count": 223,
+          "tweet_count": 4100
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T07:32:38.000Z",
+        "description": "鱼鱼，持证含糖mtf，hrt26.04.07，小证26.04.20，重抑重焦，高敏易应激",
+        "id": "1835220118219243523",
+        "name": "鱼子酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062811927341142016/6GD1sG_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 655,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "sakana520mtf",
+        "verified": false
+      }
+    ]
+  }
+}

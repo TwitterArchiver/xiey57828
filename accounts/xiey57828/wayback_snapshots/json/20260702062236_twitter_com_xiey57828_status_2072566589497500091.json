@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2072258764473033139",
+    "created_at": "2026-07-02T06:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072566589497500091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1842108320611762178",
+          "start": 0,
+          "username": "Knowing_Dreams"
+        },
+        {
+          "end": 25,
+          "id": "2028643922894041088",
+          "start": 16,
+          "username": "Kuyosuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072566589497500091",
+    "in_reply_to_user_id": "1842108320611762178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072565111705968788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knowing_Dreams @Kuyosuki 主页写着呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2072258764473033139",
+        "created_at": "2026-07-02T06:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072566589497500091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1842108320611762178",
+              "start": 0,
+              "username": "Knowing_Dreams"
+            },
+            {
+              "end": 25,
+              "id": "2028643922894041088",
+              "start": 16,
+              "username": "Kuyosuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072566589497500091",
+        "in_reply_to_user_id": "1842108320611762178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072565111705968788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knowing_Dreams @Kuyosuki 主页写着呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842108320611762178",
+        "conversation_id": "2072258764473033139",
+        "created_at": "2026-07-02T06:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072565111705968788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028643922894041088",
+              "start": 0,
+              "username": "Kuyosuki"
+            },
+            {
+              "end": 20,
+              "id": "1887391023976038400",
+              "start": 10,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072565111705968788",
+        "in_reply_to_user_id": "2028643922894041088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072547953752133669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuyosuki @xiey57828 这怎么开的？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2072488261315149858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 505,
+          "like_count": 9965,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 3937
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-04T07:44:08.000Z",
+        "description": "04/190cm/89kg/双 | 浮生若梦，为欢几何？| 生活推 · 碎碎念 · 纯清水 | 疑神疑鬼的深柜大处男 | 欢迎扩列，推止于推",
+        "id": "1842108320611762178",
+        "location": "群山之巅",
+        "name": "晓梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062431741814652928/ohg3kD4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 531,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Knowing_Dreams",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T01:29:44.000Z",
+        "description": "想到什么说什么，你急了我就高兴",
+        "id": "2028643922894041088",
+        "location": "某個不知名的幻想鄉",
+        "name": "酷热米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070397966419136512/kxzV_7Oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 158,
+          "like_count": 1055,
+          "listed_count": 6,
+          "media_count": 105,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "Kuyosuki",
+        "verified": true
+      }
+    ]
+  }
+}

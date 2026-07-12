@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2067235207787544836",
+    "created_at": "2026-06-17T14:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067255121025900777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705499676953497600",
+          "start": 0,
+          "username": "liwanmiaohy"
+        },
+        {
+          "end": 29,
+          "id": "2030261557087854592",
+          "start": 13,
+          "username": "Xianyufanfan215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067255121025900777",
+    "in_reply_to_user_id": "1705499676953497600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067235207787544836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liwanmiaohy @Xianyufanfan215 有的甚至有小腹痉挛特别疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2067235204641730561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBLd0faMAEiZkF.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2067235204692094976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBLd0rasAATtBj.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2067235207787544836",
+        "created_at": "2026-06-17T14:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067255121025900777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 29,
+              "id": "2030261557087854592",
+              "start": 13,
+              "username": "Xianyufanfan215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067255121025900777",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067235207787544836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @Xianyufanfan215 有的甚至有小腹痉挛特别疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067235204641730561",
+            "3_2067235204692094976"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067235207787544836",
+        "created_at": "2026-06-17T13:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067235207787544836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "MtF"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "羽莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mqVG4L2AK",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2067235207787544836/photo/1",
+              "media_key": "3_2067235204641730561",
+              "start": 147,
+              "url": "https://t.co/1mqVG4L2AK"
+            },
+            {
+              "display_url": "pic.x.com/1mqVG4L2AK",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2067235207787544836/photo/1",
+              "media_key": "3_2067235204692094976",
+              "start": 147,
+              "url": "https://t.co/1mqVG4L2AK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067235207787544836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "HRT三个月，有姨妈反应？\n上个月和这个月15~16号发现自己会周期性地怕冷、情绪特别敏感，然后莫名其妙超级想黏着爱人——反应过来，这大概就是姨妈反应？🤔\n挺奇妙的？我跟我爱人都挺开心的，也没有什么很难受的地方。不过不是每个人都会有，强弱也存在个体差异。\n今天特别想你，羽🥰\n#MtF #羽莉 https://t.co/1mqVG4L2AK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 447,
+          "like_count": 8887,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 3354
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 652,
+          "like_count": 3786,
+          "listed_count": 7,
+          "media_count": 162,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T12:38:04.000Z",
+        "description": "甜腻的梦像纱裙般缠绕舌尖，如果许愿足够虔诚，月光会不会把我变成童话里转着裙摆的女孩  恋人@liwanmiaohy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "liwanmiaohy"
+              }
+            ]
+          }
+        },
+        "id": "2030261557087854592",
+        "name": "Xianyufanfan🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031191943724814336/jCOh5CcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 34,
+          "like_count": 20,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 78
+        },
+        "username": "Xianyufanfan215",
+        "verified": false
+      }
+    ]
+  }
+}

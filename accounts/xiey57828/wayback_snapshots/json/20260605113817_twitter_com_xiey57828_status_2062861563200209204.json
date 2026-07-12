@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062856260601688064"
+      ],
+      "media_source_tweet_id": [
+        "2062856269464285599"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2062861563200209204",
+    "created_at": "2026-06-05T11:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062861563200209204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880569563781500929",
+          "start": 3,
+          "username": "DontLeaveMao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "b23.tv/fsWywYa",
+          "end": 73,
+          "expanded_url": "https://b23.tv/fsWywYa",
+          "start": 50,
+          "unwound_url": "https://www.bilibili.com/video/BV1pFVU6yEyg/?buvid=XOEBACFECBF92699EB73E95F21DA190064E8C&from_spmid=main.xcx.0.nKR6TNs.5fpeui4oj0s0&is_story_h5=false&mid=ezgHevFrWw7rLhCU5TkFFg%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c542851e-b799-4a68-9ba5-34811ba3cece&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1780658102&unique_k=fsWywYa&up_id=3706931107596831",
+          "url": "https://t.co/3k4WOLkRfW"
+        },
+        {
+          "display_url": "pic.x.com/ZKbbIBEAH2",
+          "end": 97,
+          "expanded_url": "https://x.com/DontLeaveMao/status/2062856269464285599/photo/1",
+          "media_key": "3_2062856260601688064",
+          "start": 74,
+          "url": "https://t.co/ZKbbIBEAH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062861563200209204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062856269464285599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DontLeaveMao: 断章取义 恶意引战 当事人已休学 不知道怎么办是什么意思呢。？\nhttps://t.co/3k4WOLkRfW https://t.co/ZKbbIBEAH2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062856260601688064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC81uvasAAiz-V.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062856260601688064"
+          ],
+          "media_source_tweet_id": [
+            "2062856269464285599"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2062861563200209204",
+        "created_at": "2026-06-05T11:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062861563200209204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880569563781500929",
+              "start": 3,
+              "username": "DontLeaveMao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "b23.tv/fsWywYa",
+              "end": 73,
+              "expanded_url": "https://b23.tv/fsWywYa",
+              "start": 50,
+              "unwound_url": "https://www.bilibili.com/video/BV1pFVU6yEyg/?buvid=XOEBACFECBF92699EB73E95F21DA190064E8C&from_spmid=main.xcx.0.nKR6TNs.5fpeui4oj0s0&is_story_h5=false&mid=ezgHevFrWw7rLhCU5TkFFg%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c542851e-b799-4a68-9ba5-34811ba3cece&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1780658102&unique_k=fsWywYa&up_id=3706931107596831",
+              "url": "https://t.co/3k4WOLkRfW"
+            },
+            {
+              "display_url": "pic.x.com/ZKbbIBEAH2",
+              "end": 97,
+              "expanded_url": "https://x.com/DontLeaveMao/status/2062856269464285599/photo/1",
+              "media_key": "3_2062856260601688064",
+              "start": 74,
+              "url": "https://t.co/ZKbbIBEAH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062861563200209204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062856269464285599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DontLeaveMao: 断章取义 恶意引战 当事人已休学 不知道怎么办是什么意思呢。？\nhttps://t.co/3k4WOLkRfW https://t.co/ZKbbIBEAH2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062856260601688064"
+          ]
+        },
+        "author_id": "1880569563781500929",
+        "conversation_id": "2062856269464285599",
+        "created_at": "2026-06-05T11:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062856269464285599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b23.tv/fsWywYa",
+              "end": 55,
+              "expanded_url": "https://b23.tv/fsWywYa",
+              "start": 32,
+              "unwound_url": "https://www.bilibili.com/video/BV1pFVU6yEyg/?buvid=XOEBACFECBF92699EB73E95F21DA190064E8C&from_spmid=main.xcx.0.nKR6TNs.5fpeui4oj0s0&is_story_h5=false&mid=ezgHevFrWw7rLhCU5TkFFg%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c542851e-b799-4a68-9ba5-34811ba3cece&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1780658102&unique_k=fsWywYa&up_id=3706931107596831",
+              "url": "https://t.co/3k4WOLkRfW"
+            },
+            {
+              "display_url": "pic.x.com/ZKbbIBEAH2",
+              "end": 79,
+              "expanded_url": "https://x.com/DontLeaveMao/status/2062856269464285599/photo/1",
+              "media_key": "3_2062856260601688064",
+              "start": 56,
+              "url": "https://t.co/ZKbbIBEAH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062856269464285599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "断章取义 恶意引战 当事人已休学 不知道怎么办是什么意思呢。？\nhttps://t.co/3k4WOLkRfW https://t.co/ZKbbIBEAH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "所有和我接触密切的人都会倒霉",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 410,
+          "like_count": 7708,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 2878
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T10:55:18.000Z",
+        "description": "@LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1880569563781500929",
+        "location": "找不到猫窝…",
+        "name": "🍼猫猫猫叶TheCat🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051610151854252033/MqlZuouJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 50,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "DontLeaveMao",
+        "verified": false
+      }
+    ]
+  }
+}

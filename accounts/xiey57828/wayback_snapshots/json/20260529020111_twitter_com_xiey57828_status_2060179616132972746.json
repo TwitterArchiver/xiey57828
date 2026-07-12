@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2060179616132972746",
+    "created_at": "2026-05-29T02:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060179616132972746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/renyue105/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/renyue105/status/2060169764111048844",
+          "start": 29,
+          "url": "https://t.co/fYrp0LTSJU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060179616132972746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060169764111048844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你叫我小姑娘，小姐姐，小萝莉，小妹妹，小杯子，小药娘 https://t.co/fYrp0LTSJU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2060179616132972746",
+        "created_at": "2026-05-29T02:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060179616132972746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/renyue105/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/renyue105/status/2060169764111048844",
+              "start": 29,
+              "url": "https://t.co/fYrp0LTSJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060179616132972746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060169764111048844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你叫我小姑娘，小姐姐，小萝莉，小妹妹，小杯子，小药娘 https://t.co/fYrp0LTSJU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2060169764111048844",
+        "created_at": "2026-05-29T01:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060169764111048844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NeuroSaki987/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/NeuroSaki987/status/2060167329552740431",
+              "start": 33,
+              "url": "https://t.co/6du2a4UmUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060169764111048844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060167329552740431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你叫我小姑娘，小姐姐，小萝莉，小男娘，小妹妹，小杯子，小药娘 https://t.co/6du2a4UmUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨大证🍥hrt24.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨#易性症 #双相情感障碍 #视力四级残疾 丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "双相情感障碍"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "视力四级残疾"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "pinned_tweet_id": "2059267949769408817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 363,
+          "like_count": 6727,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2464
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059457055639879686/3fa8Ch4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 65,
+          "like_count": 3465,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 3068
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053774987316871168"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2053774990563332123",
+    "created_at": "2026-05-11T09:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053774990563332123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BOXbz10uPp",
+          "end": 59,
+          "expanded_url": "https://x.com/xiey57828/status/2053774990563332123/photo/1",
+          "media_key": "3_2053774987316871168",
+          "start": 36,
+          "url": "https://t.co/BOXbz10uPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053774990563332123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃多少能进ICU但是不死啊，规格是0号胶囊\n（我父母在身边，不要报警） https://t.co/BOXbz10uPp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053774987316871168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB5eDeawAAy7lN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053774987316871168"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2053774990563332123",
+        "created_at": "2026-05-11T09:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053774990563332123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOXbz10uPp",
+              "end": 59,
+              "expanded_url": "https://x.com/xiey57828/status/2053774990563332123/photo/1",
+              "media_key": "3_2053774987316871168",
+              "start": 36,
+              "url": "https://t.co/BOXbz10uPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053774990563332123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃多少能进ICU但是不死啊，规格是0号胶囊\n（我父母在身边，不要报警） https://t.co/BOXbz10uPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "柜子外面",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2048948188070150603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053082035531739136/h5Zx5o6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 306,
+          "like_count": 5507,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

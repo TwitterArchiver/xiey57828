@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2065811191805710725",
+    "created_at": "2026-06-14T07:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066060227699753219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1385989599697137670",
+          "start": 0,
+          "username": "PpppeachW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066060227699753219",
+    "in_reply_to_user_id": "1385989599697137670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066053672564298004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PpppeachW 桃子🍑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065811191805710725",
+        "created_at": "2026-06-14T07:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066060227699753219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1385989599697137670",
+              "start": 0,
+              "username": "PpppeachW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066060227699753219",
+        "in_reply_to_user_id": "1385989599697137670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066053672564298004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PpppeachW 桃子🍑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385989599697137670",
+        "conversation_id": "2065811191805710725",
+        "created_at": "2026-06-14T07:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066053672564298004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066053672564298004",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065811191805710725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 摸摸你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍥MtF大证含糖，手术无望\n🍰出生08.02.16\n🤤喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！🤤\n🏥精神状态超好！？😉\n😇双相，视力残疾😱\n🥺缺爱b，渴望被爱…\n所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 434,
+          "like_count": 8678,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3236
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T16:10:57.000Z",
+        "description": "热爱生活的桃子，家庭小厨娘，顺直合法女孩子。偶尔沉迷摄影，看番。基本不怎么输出废料。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ppppeachw",
+                "end": 23,
+                "expanded_url": "https://t.me/Ppppeachw",
+                "start": 0,
+                "url": "https://t.co/FqxbYpYX9c"
+              }
+            ]
+          }
+        },
+        "id": "1385989599697137670",
+        "location": "车车家",
+        "name": "桃子🍑🍋🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061770041989705728/9D5WS87S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 122,
+          "like_count": 5568,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 3110
+        },
+        "url": "https://t.co/FqxbYpYX9c",
+        "username": "PpppeachW",
+        "verified": false
+      }
+    ]
+  }
+}

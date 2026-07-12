@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073017492356943872"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2073017581641015504",
+    "created_at": "2026-07-03T12:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:08:05.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073015921137074345",
+      "2073017581641015504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrCaR61W3Y",
+          "end": 36,
+          "expanded_url": "https://x.com/xiey57828/status/2073017581641015504/video/1",
+          "media_key": "13_2073017492356943872",
+          "start": 13,
+          "url": "https://t.co/xrCaR61W3Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073017581641015504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弟弟：我也要吃普瑞巴林！ https://t.co/xrCaR61W3Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2443,
+        "height": 3840,
+        "media_key": "13_2073017492356943872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073017492356943872/img/ql-80-y0Dj1i5Fv-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073017492356943872/vid/avc1/720x1280/BV00PVn4OuYqqSUC.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073017492356943872/vid/avc1/2160x3840/6Lcraej6fdnvBRow.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073017492356943872/vid/avc1/320x568/OKINFVMTvRhWF-WQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073017492356943872/vid/avc1/1080x1920/q21afTa8KJIXZzPJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073017492356943872/pl/le0OENZ4iY2mV_bD.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073017492356943872/vid/avc1/480x852/VjNfhI6ItHsrtnle.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073015780007120896"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2073015921137074345",
+        "created_at": "2026-07-03T12:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:08:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073015921137074345",
+          "2073017581641015504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cp575ZfhzM",
+              "end": 36,
+              "expanded_url": "https://x.com/xiey57828/status/2073015921137074345/video/1",
+              "media_key": "13_2073015780007120896",
+              "start": 13,
+              "url": "https://t.co/cp575ZfhzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073015921137074345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弟弟：我也要吃普瑞巴林！ https://t.co/cp575ZfhzM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073017492356943872"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2073017581641015504",
+        "created_at": "2026-07-03T12:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:08:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073015921137074345",
+          "2073017581641015504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrCaR61W3Y",
+              "end": 36,
+              "expanded_url": "https://x.com/xiey57828/status/2073017581641015504/video/1",
+              "media_key": "13_2073017492356943872",
+              "start": 13,
+              "url": "https://t.co/xrCaR61W3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073017581641015504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弟弟：我也要吃普瑞巴林！ https://t.co/xrCaR61W3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱所有的一切我都可以释怀，唯独性别…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2072883471714783594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 516,
+          "like_count": 10121,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 4009
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2042816320354553963",
+    "created_at": "2026-04-11T04:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042816320354553963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        },
+        {
+          "end": 23,
+          "id": "3300741805",
+          "start": 15,
+          "username": "Hleaf33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042816320354553963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042555029924811137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: @Hleaf33 把所有xyn都拉去srs😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042816320354553963",
+        "created_at": "2026-04-11T04:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042816320354553963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            },
+            {
+              "end": 23,
+              "id": "3300741805",
+              "start": 15,
+              "username": "Hleaf33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042816320354553963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042555029924811137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: @Hleaf33 把所有xyn都拉去srs😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042521115785072752",
+        "created_at": "2026-04-10T10:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042555029924811137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3300741805",
+              "start": 0,
+              "username": "Hleaf33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042555029924811137",
+        "in_reply_to_user_id": "3300741805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2484,
+          "like_count": 35,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042554518433599968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hleaf33 把所有xyn都拉去srs😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，完全不懂日语https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 134,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 111,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2042381887642222758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 443,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-29T16:23:03.000Z",
+        "description": "偷偷变得可爱的NPC社畜一只|正常人类\n经常玩：IIDX（2P六段）、SDVX（vf18）、DDR（SP六段）\n讨厌：魔怔wmc",
+        "id": "3300741805",
+        "location": "北京",
+        "name": "红茶荷叶泡芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1287712656984424453/xwlHCjiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 59,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 3535
+        },
+        "username": "Hleaf33",
+        "verified": false
+      }
+    ]
+  }
+}

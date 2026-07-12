@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2070091029508968620",
+    "created_at": "2026-06-25T10:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070094572789841968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070094572789841968",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070091029508968620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 所以死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1817,
+        "media_key": "3_2070091024278691840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpw0ZrbIAAeZj2.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2070091029508968620",
+        "created_at": "2026-06-25T10:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070094572789841968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070094572789841968",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070091029508968620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 所以死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070091024278691840"
+          ]
+        },
+        "author_id": "1868438397083410432",
+        "conversation_id": "2070091029508968620",
+        "created_at": "2026-06-25T10:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070091029508968620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWMo3X7mJk",
+              "end": 35,
+              "expanded_url": "https://x.com/2020520Rei/status/2070091029508968620/photo/1",
+              "media_key": "3_2070091024278691840",
+              "start": 12,
+              "url": "https://t.co/vWMo3X7mJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070091029508968620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是阿零并不喜欢阴雨天 https://t.co/vWMo3X7mJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ \n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃（黄瓜重度依赖）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 488,
+          "like_count": 9395,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3667
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3—重抑—有认知障碍—体弱多病—MTF🏳️‍⚧️纯跨出—🔪💊已经慢慢没了心情不错—只想做好自己       人美心善     163cm  45kg              \n*我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065233585410580797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 60,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "2020520Rei",
+        "verified": false
+      }
+    ]
+  }
+}

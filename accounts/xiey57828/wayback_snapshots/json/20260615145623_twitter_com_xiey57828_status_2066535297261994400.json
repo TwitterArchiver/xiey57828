@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2066480190138855541",
+    "created_at": "2026-06-15T14:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066535297261994400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2043582506272747520",
+          "start": 0,
+          "username": "PRGarn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066535297261994400",
+    "in_reply_to_user_id": "2043582506272747520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066519728760516846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRGarn 我也是跨÷吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2066480190138855541",
+        "created_at": "2026-06-15T14:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066535297261994400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2043582506272747520",
+              "start": 0,
+              "username": "PRGarn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066535297261994400",
+        "in_reply_to_user_id": "2043582506272747520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066519728760516846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRGarn 我也是跨÷吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043582506272747520",
+        "conversation_id": "2066480190138855541",
+        "created_at": "2026-06-15T13:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066519728760516846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066519728760516846",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066480190138855541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我是加恩，立志在每只跨÷的评论区捣乱😂🔥🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🍰出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 440,
+          "like_count": 8759,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 3287
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T06:50:35.000Z",
+        "description": "反同反跨，新教徒，法西斯党徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35468860614268…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546886061426833",
+                "start": 0,
+                "url": "https://t.co/dg8eIZSaqO"
+              }
+            ]
+          }
+        },
+        "id": "2043582506272747520",
+        "location": "加恩格勒",
+        "name": "✝︎Garn✝︎",
+        "pinned_tweet_id": "2043961753902690452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043582603211517952/3pP3eBkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 2,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/dg8eIZSaqO",
+        "username": "PRGarn",
+        "verified": false
+      }
+    ]
+  }
+}

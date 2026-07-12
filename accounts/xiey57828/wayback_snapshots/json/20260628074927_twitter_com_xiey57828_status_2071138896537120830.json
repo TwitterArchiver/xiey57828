@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2071060255400718346",
+    "created_at": "2026-06-28T07:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071138896537120830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2951769338",
+          "start": 0,
+          "username": "w604176460xxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071138896537120830",
+    "in_reply_to_user_id": "2951769338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071137339481657442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w604176460xxx 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2071137328933031936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4obWQa0AAyV18.jpg",
+        "width": 2478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2071060255400718346",
+        "created_at": "2026-06-28T07:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071138896537120830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2951769338",
+              "start": 0,
+              "username": "w604176460xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071138896537120830",
+        "in_reply_to_user_id": "2951769338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071137339481657442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w604176460xxx 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071137328933031936"
+          ]
+        },
+        "author_id": "2951769338",
+        "conversation_id": "2071060255400718346",
+        "created_at": "2026-06-28T07:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071137339481657442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITq8whu4UW",
+              "end": 34,
+              "expanded_url": "https://x.com/w604176460xxx/status/2071137339481657442/photo/1",
+              "media_key": "3_2071137328933031936",
+              "start": 11,
+              "url": "https://t.co/ITq8whu4UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071137339481657442",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071060255400718346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 https://t.co/ITq8whu4UW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂出生2004年的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺ISFJ \n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 495,
+          "like_count": 9558,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 3750
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-30T09:24:00.000Z",
+        "description": "孤独是一个人的狂欢",
+        "id": "2951769338",
+        "location": "Zhejiang",
+        "name": "孤独的瞬间",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1132983925159030784/WK0sb7BL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 625,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "w604176460xxx",
+        "verified": true
+      }
+    ]
+  }
+}

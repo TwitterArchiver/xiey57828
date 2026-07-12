@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2067865158433812963",
+    "created_at": "2026-06-19T09:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067904606966014029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594057062803075072",
+          "start": 0,
+          "username": "lrlilolam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067904606966014029",
+    "in_reply_to_user_id": "1594057062803075072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067886443457097928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lrlilolam 角度问题可能是…要是真细我就会拍腿了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2067865158433812963",
+        "created_at": "2026-06-19T09:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067904606966014029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594057062803075072",
+              "start": 0,
+              "username": "lrlilolam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067904606966014029",
+        "in_reply_to_user_id": "1594057062803075072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067886443457097928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrlilolam 角度问题可能是…要是真细我就会拍腿了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594057062803075072",
+        "conversation_id": "2067865158433812963",
+        "created_at": "2026-06-19T08:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067886443457097928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067886443457097928",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067865158433812963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 脚脖子好细，好羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 458,
+          "like_count": 8971,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 3404
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T19:56:44.000Z",
+        "description": "amab non-male non-trans non-enby / 粉蛆滚 / 🌹 / 梦想是一个所有人都有尊严地活着的世界\n如果你不接受互关后被单方面取关，请不要关注",
+        "id": "1594057062803075072",
+        "location": "「悪意」がない場所",
+        "name": "緑皮本子",
+        "pinned_tweet_id": "2052939253525717475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733861187803332608/K2gJDnVx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 144,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "lrlilolam",
+        "verified": false
+      }
+    ]
+  }
+}

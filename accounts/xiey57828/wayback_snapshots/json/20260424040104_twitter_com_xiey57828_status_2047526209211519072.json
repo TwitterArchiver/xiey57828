@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047526200739053568",
+        "3_2047526203343712256"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2047526209211519072",
+    "created_at": "2026-04-24T04:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047526209211519072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m95LEVaJ8X",
+          "end": 35,
+          "expanded_url": "https://x.com/xiey57828/status/2047526209211519072/photo/1",
+          "media_key": "3_2047526200739053568",
+          "start": 12,
+          "url": "https://t.co/m95LEVaJ8X"
+        },
+        {
+          "display_url": "pic.x.com/m95LEVaJ8X",
+          "end": 35,
+          "expanded_url": "https://x.com/xiey57828/status/2047526209211519072/photo/1",
+          "media_key": "3_2047526203343712256",
+          "start": 12,
+          "url": "https://t.co/m95LEVaJ8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047526209211519072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些奇奇怪怪的东西诶… https://t.co/m95LEVaJ8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047526200739053568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpGOzdbQAA-kfD.jpg",
+        "width": 1115
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2047526203343712256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpGO9KbMAAhjcL.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047526200739053568",
+            "3_2047526203343712256"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2047526209211519072",
+        "created_at": "2026-04-24T04:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047526209211519072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m95LEVaJ8X",
+              "end": 35,
+              "expanded_url": "https://x.com/xiey57828/status/2047526209211519072/photo/1",
+              "media_key": "3_2047526200739053568",
+              "start": 12,
+              "url": "https://t.co/m95LEVaJ8X"
+            },
+            {
+              "display_url": "pic.x.com/m95LEVaJ8X",
+              "end": 35,
+              "expanded_url": "https://x.com/xiey57828/status/2047526209211519072/photo/1",
+              "media_key": "3_2047526203343712256",
+              "start": 12,
+              "url": "https://t.co/m95LEVaJ8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047526209211519072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些奇奇怪怪的东西诶… https://t.co/m95LEVaJ8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不知道该怎么办了\n宝宝？@xyu1182202 ？。最好的妹妹@LeavesMao猫猫是爵士豪猫！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 268,
+          "like_count": 3934,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

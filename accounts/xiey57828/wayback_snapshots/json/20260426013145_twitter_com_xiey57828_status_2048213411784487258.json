@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2048213411784487258",
+    "created_at": "2026-04-26T01:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048213411784487258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1887391023976038400",
+          "start": 11,
+          "username": "xiey57828"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/TeamRain_2024/…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/TeamRain_2024/status/2048201986403930202",
+          "start": 139,
+          "url": "https://t.co/M7Nsz2chcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048213411784487258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048201986403930202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么你不应该关注我 @xiey57828\n1.  我不会给你买发钱，因为没人打赏我我也很穷\n2. 我和很多人都不认识，完全融入不了“圈子”\n3. 我的推文对你没用，而且还会攻击你\n4. 我不无聊，天天想着怎么完成手上的事和和朋友玩\n5.我的头像是我的理想型，我不希望你们碰。 https://t.co/M7Nsz2chcB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2048213411784487258",
+        "created_at": "2026-04-26T01:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048213411784487258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1887391023976038400",
+              "start": 11,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TeamRain_2024/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/TeamRain_2024/status/2048201986403930202",
+              "start": 139,
+              "url": "https://t.co/M7Nsz2chcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048213411784487258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048201986403930202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你不应该关注我 @xiey57828\n1.  我不会给你买发钱，因为没人打赏我我也很穷\n2. 我和很多人都不认识，完全融入不了“圈子”\n3. 我的推文对你没用，而且还会攻击你\n4. 我不无聊，天天想着怎么完成手上的事和和朋友玩\n5.我的头像是我的理想型，我不希望你们碰。 https://t.co/M7Nsz2chcB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2048201986403930202",
+        "created_at": "2026-04-26T00:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048201986403930202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1810873766119100416",
+              "start": 10,
+              "username": "TeamRain_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mxyzcdb/status…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/mxyzcdb/status/2048197085573570652",
+              "start": 132,
+              "url": "https://t.co/n229OfzXdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048201986403930202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 817,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048197085573570652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你应该关注我 @TeamRain_2024\n1.  我不靠推文流量赚钱，因为过不了身份认证和没有收款方式\n2. 我和各大厂商都没有合作关系，原因是之前的合作期已经结束\n3. 我的推文对你有用的可能性虽然很少但不为零\n4. 我很无聊，如果你和我互动我会很开心 https://t.co/n229OfzXdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "讨厌讨厌讨厌！ヽ(≧Д≦)ノ\n宝宝？@xyu1182202 ？。最好的妹妹@LeavesMao猫猫是爵士豪猫！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 47,
+                "start": 37,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 273,
+          "like_count": 4239,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1625
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴.",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9728,
+          "following_count": 946,
+          "like_count": 79995,
+          "listed_count": 19,
+          "media_count": 1589,
+          "tweet_count": 11216
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2041063869125419465",
+    "created_at": "2026-04-06T08:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041063869125419465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041063869125419465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041053609320964326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 激素六项阅读指南（MTF）\nby 雪雁\n\n这篇文章想做一件事：\n帮助刚开始接触检查、看不懂化验单的姐妹，认识 HRT 过程中所需的常见化验单术语，方便理解自己的身体状态，并且在出现问题时和医生沟通、及时调整用药方案和剂量。\n\nPart…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_2041053597451038720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNHbtOaMAAnpnj.jpg",
+        "width": 962
+      },
+      {
+        "height": 268,
+        "media_key": "3_2041053597539225600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNHbtjb0AA_gp7.jpg",
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2041063869125419465",
+        "created_at": "2026-04-06T08:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041063869125419465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041063869125419465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041053609320964326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 激素六项阅读指南（MTF）\nby 雪雁\n\n这篇文章想做一件事：\n帮助刚开始接触检查、看不懂化验单的姐妹，认识 HRT 过程中所需的常见化验单术语，方便理解自己的身体状态，并且在出现问题时和医生沟通、及时调整用药方案和剂量。\n\nPart…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041053597451038720",
+            "3_2041053597539225600"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2041053609320964326",
+        "created_at": "2026-04-06T07:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041053609320964326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rbm3fYdRHx",
+              "end": 181,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2041053609320964326/photo/1",
+              "media_key": "3_2041053597451038720",
+              "start": 158,
+              "url": "https://t.co/Rbm3fYdRHx"
+            },
+            {
+              "display_url": "pic.x.com/Rbm3fYdRHx",
+              "end": 181,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2041053609320964326/photo/1",
+              "media_key": "3_2041053597539225600",
+              "start": 158,
+              "url": "https://t.co/Rbm3fYdRHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041053609320964326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "激素六项阅读指南（MTF）\nby 雪雁\n\n这篇文章想做一件事：\n帮助刚开始接触检查、看不懂化验单的姐妹，认识 HRT 过程中所需的常见化验单术语，方便理解自己的身体状态，并且在出现问题时和医生沟通、及时调整用药方案和剂量。\n\nPart 1：激素六项的内容\n“激素六项”的内容：雌二醇 (E2)、睾酮 (T)、泌乳素 (PRL)、孕酮 (P)、促卵泡生成素 (FSH)、促黄体生成素 (LH)。\n需要重点关注的是这 3 项：雌二醇 (E2)、睾酮 (T)、泌乳素 (PRL)，也是HRT 效果的核心指标。\n完整的激素六项价格大概在 200-300 元人民币，如果经济条件有限，可以尝试让医生只开这 3 项检查，能节省一半的经济成本。\n\nPart 2：雌二醇\n对于跨性别女性而言，HRT治疗的首要目标就是将雌二醇维持在一个合理的，能够稳定让身体实现女性化，并不产生过多副作用的区间。\n\n目前临床实践中，跨性别女性HRT通常把血清雌二醇监测目标放在约100-200pg/mL(367-734pmol/L)；部分地区也使用更低一些的目标区间，如250-600pmol/L(68-163pg/mL)。\n这里需要着重考虑的是雌二醇的下限值，也就是说低于250pmol/L（68pg/mL）时，部分人可能会出现女性化效果弱或维持不足的情况。而对于上限值来说，如果采用针剂注射的形式（e.g.富士日雌），那么其峰值必然远高于指南的推荐值。虽然高雌激素水平会导致静脉血栓的风险提高，但仍然需要结合个人风险来评估。\n而根据剂型不同，代谢的曲线也会发生不同。\n戊酸雌二醇口服剂型（补佳乐）的血药浓度峰值时间(Tmax)约为8小时（吞服），消除半衰期约为13-20小时。而含服时，Tmax会缩短为1小时，消除半衰期会缩短为6小时。\n因此，如果吞服，每日一次即可（当然2次也可以），但是含服，必须分成每日2次以上，否则维持不了足够的血药浓度。\n在测量激素六项时，我们需要测的是谷值，也就是说，什么时候血药浓度低，就什么时候测，假如说吞服补佳乐，前一天上午吃，那么第二天上午就是谷值，大概24h，此时如果血药浓度高于了上述的下限值，就是理想的浓度。如果含服补佳乐，那么需要前一天晚上吃药，第二天早晨测试，同理，此时刚好为谷值，根据这个值调整剂量。\n同理，如果使用戊酸雌二醇针剂注射，那么第二天是峰值，而血药浓度下降是缓慢的过程，一般来说，由于周期较长，假设每7天打针1次，那么在第2天和第7天测六项是最合理的。\n然而，如果使用非自制凝胶（爱斯妥），且透皮吸收良好的情况下，凝胶的血药浓度是稳定的，代谢曲线相对平缓，Tmax大概24h，消除半衰期36h。因此，如果每天使用凝胶的话，不必刻意控制抽血时间，只要在稳定用药期间即可。\n\nPart 3：睾酮\n在HRT的过程中，对于跨性别女性，只有将睾酮降得足够低，才能有良好的效果。\n主流的临床指南中，血液中的睾酮浓度应当低于50ng/dL(1.7nmol/L)。\n只要低于这个数，就是OK的。\n额外说明，一般来说，使用1）雌二醇针剂，2）雌二醇+醋酸环丙孕酮，3）高剂量凝胶/凝胶+醋酸环丙孕酮。这种HRT方案是根据HPG轴负反馈调节，因此能把睾酮压得很低。\n但是对于螺内酯和比卡鲁胺抗雄的方案，此指标不完全适用上文的范围，因为螺和比卡是竞争睾酮的受体抗雄，而非通过负反馈调节拮抗。\n\nPart 4：泌乳素\n泌乳素和上文中的雌二醇、睾酮不一样，并不追求某个固定目标值，而是参考非妊娠女性范围，避免出现高泌乳素血症。\n在女性化HRT中，泌乳素升高更需要警惕的因素是醋酸环丙孕酮（CPA），相比来说，雌二醇通常不是高泌乳素血症的主要原因。根据荷兰的一篇文献研究，PRL的参考区间在100-1020mIU/L。然而，需要引起警惕的是出现溢乳、头痛、视野异常等症状，或者远高于参考区间。此时应当考虑停用CPA，改用其他抗雄药物（或单雌抗雄）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 261,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "激素六项阅读指南（MTF）\nby 雪雁\n\n这篇文章想做一件事：\n帮助刚开始接触检查、看不懂化验单的姐妹，认识 HRT 过程中所需的常见化验单术语，方便理解自己的身体状态，并且在出现问题时和医生沟通、及时调整用药方案和剂量。\n\nPart 1：激素六项的内容\n“激素六项”的内容：雌二醇 (E2)、睾酮 (T)、泌乳素 https://t.co/Rbm3fYdRHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四马上毕业丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好。https://t.co/dlkZFZjfgW我是人机",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 146,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 123,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2040430005826797922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 390,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 303
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité/另一个号@PetiteRenarde21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "PetiteRenarde21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3770,
+          "following_count": 2109,
+          "like_count": 28270,
+          "listed_count": 9,
+          "media_count": 148,
+          "tweet_count": 6856
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

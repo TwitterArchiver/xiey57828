@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041320661814317056",
+        "3_2041320662061678592",
+        "3_2041320662489497600"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2041320679883387066",
+    "created_at": "2026-04-07T01:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041320679883387066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/166bg1tgJg",
+          "end": 67,
+          "expanded_url": "https://x.com/xiey57828/status/2041320679883387066/photo/1",
+          "media_key": "3_2041320661814317056",
+          "start": 44,
+          "url": "https://t.co/166bg1tgJg"
+        },
+        {
+          "display_url": "pic.x.com/166bg1tgJg",
+          "end": 67,
+          "expanded_url": "https://x.com/xiey57828/status/2041320679883387066/photo/1",
+          "media_key": "3_2041320662061678592",
+          "start": 44,
+          "url": "https://t.co/166bg1tgJg"
+        },
+        {
+          "display_url": "pic.x.com/166bg1tgJg",
+          "end": 67,
+          "expanded_url": "https://x.com/xiey57828/status/2041320679883387066/photo/1",
+          "media_key": "3_2041320662489497600",
+          "start": 44,
+          "url": "https://t.co/166bg1tgJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041320679883387066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道轨道交通有什么吸引人的地方，给你们看一下我学校里的，不会动\n（感觉身份证掉出来了 https://t.co/166bg1tgJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041320661814317056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ6U5gbkAA5B5X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041320662061678592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ6U6baAAA_QQi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041320662489497600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ6U8BaAAARs8C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041320661814317056",
+            "3_2041320662061678592",
+            "3_2041320662489497600"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2041320679883387066",
+        "created_at": "2026-04-07T01:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041320679883387066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/166bg1tgJg",
+              "end": 67,
+              "expanded_url": "https://x.com/xiey57828/status/2041320679883387066/photo/1",
+              "media_key": "3_2041320661814317056",
+              "start": 44,
+              "url": "https://t.co/166bg1tgJg"
+            },
+            {
+              "display_url": "pic.x.com/166bg1tgJg",
+              "end": 67,
+              "expanded_url": "https://x.com/xiey57828/status/2041320679883387066/photo/1",
+              "media_key": "3_2041320662061678592",
+              "start": 44,
+              "url": "https://t.co/166bg1tgJg"
+            },
+            {
+              "display_url": "pic.x.com/166bg1tgJg",
+              "end": 67,
+              "expanded_url": "https://x.com/xiey57828/status/2041320679883387066/photo/1",
+              "media_key": "3_2041320662489497600",
+              "start": 44,
+              "url": "https://t.co/166bg1tgJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041320679883387066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道轨道交通有什么吸引人的地方，给你们看一下我学校里的，不会动\n（感觉身份证掉出来了 https://t.co/166bg1tgJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四马上毕业丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨精神状态不好。https://t.co/dlkZFZjfgW我是人机",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 133,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 110,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2040430005826797922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 399,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 338
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

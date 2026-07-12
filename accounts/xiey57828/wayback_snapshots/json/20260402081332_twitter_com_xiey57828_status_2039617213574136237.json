@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2039607710896054449",
+    "created_at": "2026-04-02T08:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039617213574136237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Neko_nya2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039617213574136237",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039607710896054449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko_nya2026 切了（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2039607710896054449",
+        "created_at": "2026-04-02T08:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039617213574136237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Neko_nya2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039617213574136237",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039607710896054449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko_nya2026 切了（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2039607710896054449",
+        "created_at": "2026-04-02T07:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039607710896054449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039607710896054449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wc几把起个反应而已我为什么要哭啊\n我tm是男的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "叫我沐桃就好丨读研赚大钱钱喵丨Senior Student丨hrt2024.02.17丨深柜＆期待炸柜？丨citywalk lover＆minecraft丨不pass丨梦想srs丨不od没钱＆不割手手怕痛丨精神状态良好，我是人机",
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "Peach.Mist🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 282,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 114
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "hrt20260126-20260331断糖中/生产日期2008/欢迎同类互fo/天残党（我好丑的QAQ/喜欢画画w/ODer（应该算吧qwq/自切准备中ww/超高校级の负能/音理 星野厨/日本語を勉強中/立志关注所有同类(≧∇≦)/高二休学",
+        "id": "1960198897827282944",
+        "location": "猫猫窝",
+        "name": "nya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372266392477696/TKfpldWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 785,
+          "like_count": 5324,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 607
+        },
+        "username": "Neko_nya2026",
+        "verified": false
+      }
+    ]
+  }
+}

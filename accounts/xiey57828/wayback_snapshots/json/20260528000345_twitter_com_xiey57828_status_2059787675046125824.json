@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2059686144615542907",
+    "created_at": "2026-05-28T00:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059787675046125824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048646811439738880",
+          "start": 0,
+          "username": "maomaojianga_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059787675046125824",
+    "in_reply_to_user_id": "2048646811439738880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059686144615542907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaojianga_ 那个粘的过敏，护士还问为什么身上起这么多疹子😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2059686144615542907",
+        "created_at": "2026-05-28T00:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059787675046125824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048646811439738880",
+              "start": 0,
+              "username": "maomaojianga_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059787675046125824",
+        "in_reply_to_user_id": "2048646811439738880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059686144615542907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaojianga_ 那个粘的过敏，护士还问为什么身上起这么多疹子😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048646811439738880",
+        "conversation_id": "2059686144615542907",
+        "created_at": "2026-05-27T17:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059686144615542907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059686144615542907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ICU打针要沾那个黏胶跟那啥一样沾一天疼的要死，幸好验血通过了不然转普通病房再待几天我要疯了，半夜也睡不着，管子也不让拔，还把我手绑起来了，太痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨史上最快大证😋26.5.21丨🍥hrt24.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨#易性症 #双相情感障碍 #视力四级残疾 丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "双相情感障碍"
+              },
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "视力四级残疾"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "pinned_tweet_id": "2059267949769408817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 363,
+          "like_count": 6668,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2448
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T06:19:52.000Z",
+        "description": "想交朋友，有没有药圈的可以和我交朋友，xyn，xnn之类的我都想交，多来点人和我交朋友，越多越好",
+        "id": "2048646811439738880",
+        "name": "猫猫",
+        "pinned_tweet_id": "2057532274502152563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648306482696192/-EYKrYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 89,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "maomaojianga_",
+        "verified": false
+      }
+    ]
+  }
+}

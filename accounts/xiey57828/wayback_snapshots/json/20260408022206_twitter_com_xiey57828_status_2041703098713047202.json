@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2041519021124935881",
+    "created_at": "2026-04-08T02:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041703098713047202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678421943387664384",
+          "start": 0,
+          "username": "imnotseafish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041703098713047202",
+    "in_reply_to_user_id": "1678421943387664384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041519021124935881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotseafish mtf是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2041519014636396544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTuujWboAAm0C4.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2041519021124935881",
+        "created_at": "2026-04-08T02:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041703098713047202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678421943387664384",
+              "start": 0,
+              "username": "imnotseafish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041703098713047202",
+        "in_reply_to_user_id": "1678421943387664384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041519021124935881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotseafish mtf是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041519014636396544"
+          ]
+        },
+        "author_id": "1678421943387664384",
+        "conversation_id": "2041519021124935881",
+        "created_at": "2026-04-07T14:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041519021124935881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4OZ5aLdZB",
+              "end": 32,
+              "expanded_url": "https://x.com/imnotseafish/status/2041519021124935881/photo/1",
+              "media_key": "3_2041519014636396544",
+              "start": 9,
+              "url": "https://t.co/M4OZ5aLdZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041519021124935881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我操就不该挂🍥 https://t.co/M4OZ5aLdZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四马上毕业丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨citywalk lover＆minecraft丨不pass丨梦想srs丨精神状态不好正常吃药不o。https://t.co/dlkZFZjfgW我是人机",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 139,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 116,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2041441998335603126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 405,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 372
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:12:40.000Z",
+        "description": "无人在意",
+        "id": "1678421943387664384",
+        "location": "海洋馆？",
+        "name": "🐟",
+        "pinned_tweet_id": "1692413384959111319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858100921135415296/crGTHjdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 534,
+          "like_count": 25783,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 1350
+        },
+        "username": "imnotseafish",
+        "verified": false
+      }
+    ]
+  }
+}

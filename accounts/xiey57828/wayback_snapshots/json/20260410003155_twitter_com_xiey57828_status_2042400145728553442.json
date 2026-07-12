@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2042400145728553442",
+    "created_at": "2026-04-10T00:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042400145728553442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Im_Just__Girl/…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/Im_Just__Girl/status/2042278482680717787",
+          "start": 65,
+          "url": "https://t.co/ig5kZHieLj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042400145728553442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042278482680717787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前接触推特只是买药，根本不知道有yn这个圈子，不怎么上推特，前不久才知道这个圈子，我还是发现的太晚了，但是这段时间我都很开心 https://t.co/ig5kZHieLj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042400145728553442",
+        "created_at": "2026-04-10T00:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042400145728553442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2042278482680717787",
+              "start": 65,
+              "url": "https://t.co/ig5kZHieLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042400145728553442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278482680717787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前接触推特只是买药，根本不知道有yn这个圈子，不怎么上推特，前不久才知道这个圈子，我还是发现的太晚了，但是这段时间我都很开心 https://t.co/ig5kZHieLj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2042278482680717787",
+        "created_at": "2026-04-09T16:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042278482680717787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1965chich/stat…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/1965chich/status/2042232155871559788",
+              "start": 149,
+              "url": "https://t.co/UN6OrCjzXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042278482680717787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2019-2023年我也是这样难过。但是从22年开始却在推特上发现了很多跨性别女性，让我终于知道了快20年各种不适和在性别问题上纠结的最终原因。我很有幸遇到了跨性别圈子，虽然我没能在青春期时觉醒，但是还不至于太晚。如果我没有翻墙的话估计要到24、25年才可能从墙内的男娘了解什么是跨性别，那么我会更糟。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1172,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042232155871559788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2019-2023年我也是这样难过。但是从22年开始却在推特上发现了很多跨性别女性，让我终于知道了快20年各种不适和在性别问题上纠结的最终原因。我很有幸遇到了跨性别圈子，虽然我没能在青春期时觉醒，但是还不至于太晚。如果我没有翻墙的话估计要到24、25年才可能从墙内的男娘了解什么是跨性别，那么我会 https://t.co/UN6OrCjzXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，完全不懂日语https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 134,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 111,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2042381887642222758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 418,
+          "like_count": 1336,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 825,
+          "like_count": 12626,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 6383
+        },
+        "username": "Im_Just__Girl",
+        "verified": true
+      }
+    ]
+  }
+}

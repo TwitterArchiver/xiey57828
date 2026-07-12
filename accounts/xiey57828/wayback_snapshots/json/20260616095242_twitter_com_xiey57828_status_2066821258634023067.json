@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2066722091521708406",
+    "created_at": "2026-06-16T09:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066821258634023067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594990912328806400",
+          "start": 0,
+          "username": "gitwayling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066821258634023067",
+    "in_reply_to_user_id": "1594990912328806400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066817532246532335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gitwayling 我也要翻车吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2066722091521708406",
+        "created_at": "2026-06-16T09:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066821258634023067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594990912328806400",
+              "start": 0,
+              "username": "gitwayling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066821258634023067",
+        "in_reply_to_user_id": "1594990912328806400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066817532246532335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gitwayling 我也要翻车吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594990912328806400",
+        "conversation_id": "2066722091521708406",
+        "created_at": "2026-06-16T09:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066817532246532335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066817532246532335",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066722091521708406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我也不知道，我的推上也是。我感觉我快翻车了🤐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF大证含糖\n🍥hrt4年，手术无望，已转跨÷\n🎂出生2004的老东西\n🏥精神状态超好！？\n😇双相，视力残疾\n🥺缺爱b，渴望被爱…\n🐱所有的一切我都可以释怀，唯独性别…",
+        "id": "1887391023976038400",
+        "location": "广东打工",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 440,
+          "like_count": 8820,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 3319
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T09:47:30.000Z",
+        "description": "媚女",
+        "id": "1594990912328806400",
+        "location": "男娘大学",
+        "name": "sislura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961129836514349058/-mSYX7ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 295,
+          "like_count": 3662,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 96
+        },
+        "username": "gitwayling",
+        "verified": false
+      }
+    ]
+  }
+}
