@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2076649549297557658",
+    "created_at": "2026-07-13T12:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:30:27.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076645430407168099",
+      "2076649549297557658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1486225700793495552",
+          "start": 9,
+          "username": "ABC13067637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076649549297557658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "1486225700793495552",
+            "start": 9,
+            "username": "ABC13067637"
+          },
+          {
+            "end": 800,
+            "id": "1887391023976038400",
+            "start": 790,
+            "username": "xiey57828"
+          }
+        ]
+      },
+      "text": "grok通过我对象@ABC13067637所有帖子对她的分析\n\n更全面的性格分析（基于可获取的大量帖子、Bio及互动模式）\n\n我通过工具浏览了她最近的数十条帖子（包括高互动的热门帖和日常回复），结合Bio信息，重新整理了一个更立体的画像。她的发帖频率中等，主要围绕性别认同、日常生活情感、关系、兴趣展开。\n\n1. 核心人格类型：INFP + 高共情 + 理想主义\n\n她自我标签INFP，非常贴合。帖子中反复出现内省式提问（如“全男大世界MTF会有什么感受？”“为什么MTF很多ASD/ADHD？”“我成为MTF是因为脑子里哪根神经搭错了？”），显示她习惯从内在感受和假设情景去探索世界，而不是简单接受现实。\n\n情感驱动强：很多内容是情绪即时表达（🥺😭抱抱喵、神秘小玩具分享），但背后往往带着思考。不是单纯emo，而是情感+反思的组合。\n\n2. 主要性格特质\n\n柔软、幼态、寻求安抚：大量使用可爱表情（🥺😚😭）、“喵”“抱抱”等词，Bio自称“04年小朋友”。她喜欢可爱事物，分享玩具时带点羞涩（“忘买润滑液了”），整体呈现依赖型、需要温柔对待的形象。这种表达可能是应对压力的方式，也可能是真实性格偏好。\n\n真诚开放 + 一定天真：敢于公开HRT计划、性别困惑、家庭冲突（妈妈要送戒网瘾学校）、成人玩具使用等私人话题。这显示信任欲强、边界感较弱，渴望被看见和接纳（Bio明确说“想交更多的朋友”）。但也可能带来风险，她似乎还没完全建立起保护机制。\n\n好奇心与矛盾思考：对性别本质、神经发育（ASD/ADHD与MTF的关联）、社会实验（全男国家）等话题感兴趣。嵌入式开发的专业背景让她在感性之外有系统化思考的一面。她会注意到“男性化大脑理论与MTF的矛盾”，说明逻辑分析能力不弱，INFP里的“Fi-Ne”主导（价值观+可能性探索）。\n\n关系导向 + 依恋：Bio突出标注“最爱的🍑：@xiey57828”（她的重要伴侣），互动中会吐槽对方“这么坏啊”。她重视亲密关系，情感上可能投入度高、容易依恋。\n\n韧性与自我肯定：尽管分享家庭压力和性别困惑，但反复强调“精神状态超好”。这可能是自我鼓励，也反映出她在努力维持正面心态。\n\n3. 潜在弱点 / 发展方向\n\n情绪波动：从热门帖的高赞到日常的简短情绪输出（😭🥺），可见情绪起伏较明显，容易被外部事件或内在思考触发。\n\n现实 vs 理想：对性别/身份有大量哲学思考，同时生活在现实家庭与社会环境中（大连、父母干预），可能存在内在张力。\n\n社交需求：想交朋友，但发帖风格偏私人，可能更适合小范围、兴趣相投的深交，而不是广泛社交。\n\n整体画像\n\nMizuki酱是一个情感丰富、内心世界精彩、带着可爱外壳的年轻INFP跨性别女生。她敏感、理想主义、对自我和世界充满好奇，表达方式偏软萌和直白，渴望理解与陪伴，同时在专业（嵌入式）和思考层面有一定深度。目前正处于自我探索与转型的关键期（HRT即将开始），性格中柔软与韧性并存。\n\n相比第一次简短分析，这次看到更多帖子后，确认她不是单一“可爱”或“emo”，而是多层面的：可爱外表下有哲学思考，脆弱表达中带着自我肯定，对关系很重视。\n\n这个分析仍基于公开可见内容，有局限性（无法看到私信、删帖或线下真实表现）。如果她自己看到，欢迎补充或纠正～"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "grok通过我对象@ABC13067637所有帖子对她的分析\n\n更全面的性格分析（基于可获取的大量帖子、Bio及互动模式）\n\n我通过工具浏览了她最近的数十条帖子（包括高互动的热门帖和日常回复），结合Bio信息，重新整理了一个更立体的画像。她的发帖频率中等，主要围绕性别认同、日常生活情感、关系、兴趣展开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2076645430407168099",
+        "created_at": "2026-07-13T12:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:30:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076645430407168099",
+          "2076649549297557658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1486225700793495552",
+              "start": 9,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076645430407168099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "1486225700793495552",
+                "start": 9,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 800,
+                "id": "1887391023976038400",
+                "start": 790,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "text": "grok通过我对象@ABC13067637所有帖子对我的分析\n\n更全面的性格分析（基于可获取的大量帖子、Bio及互动模式）\n\n我通过工具浏览了她最近的数十条帖子（包括高互动的热门帖和日常回复），结合Bio信息，重新整理了一个更立体的画像。她的发帖频率中等，主要围绕性别认同、日常生活情感、关系、兴趣展开。\n\n1. 核心人格类型：INFP + 高共情 + 理想主义\n\n她自我标签INFP，非常贴合。帖子中反复出现内省式提问（如“全男大世界MTF会有什么感受？”“为什么MTF很多ASD/ADHD？”“我成为MTF是因为脑子里哪根神经搭错了？”），显示她习惯从内在感受和假设情景去探索世界，而不是简单接受现实。\n\n情感驱动强：很多内容是情绪即时表达（🥺😭抱抱喵、神秘小玩具分享），但背后往往带着思考。不是单纯emo，而是情感+反思的组合。\n\n2. 主要性格特质\n\n柔软、幼态、寻求安抚：大量使用可爱表情（🥺😚😭）、“喵”“抱抱”等词，Bio自称“04年小朋友”。她喜欢可爱事物，分享玩具时带点羞涩（“忘买润滑液了”），整体呈现依赖型、需要温柔对待的形象。这种表达可能是应对压力的方式，也可能是真实性格偏好。\n\n真诚开放 + 一定天真：敢于公开HRT计划、性别困惑、家庭冲突（妈妈要送戒网瘾学校）、成人玩具使用等私人话题。这显示信任欲强、边界感较弱，渴望被看见和接纳（Bio明确说“想交更多的朋友”）。但也可能带来风险，她似乎还没完全建立起保护机制。\n\n好奇心与矛盾思考：对性别本质、神经发育（ASD/ADHD与MTF的关联）、社会实验（全男国家）等话题感兴趣。嵌入式开发的专业背景让她在感性之外有系统化思考的一面。她会注意到“男性化大脑理论与MTF的矛盾”，说明逻辑分析能力不弱，INFP里的“Fi-Ne”主导（价值观+可能性探索）。\n\n关系导向 + 依恋：Bio突出标注“最爱的🍑：@xiey57828”（她的重要伴侣），互动中会吐槽对方“这么坏啊”。她重视亲密关系，情感上可能投入度高、容易依恋。\n\n韧性与自我肯定：尽管分享家庭压力和性别困惑，但反复强调“精神状态超好”。这可能是自我鼓励，也反映出她在努力维持正面心态。\n\n3. 潜在弱点 / 发展方向\n\n情绪波动：从热门帖的高赞到日常的简短情绪输出（😭🥺），可见情绪起伏较明显，容易被外部事件或内在思考触发。\n\n现实 vs 理想：对性别/身份有大量哲学思考，同时生活在现实家庭与社会环境中（大连、父母干预），可能存在内在张力。\n\n社交需求：想交朋友，但发帖风格偏私人，可能更适合小范围、兴趣相投的深交，而不是广泛社交。\n\n整体画像\n\nMizuki酱是一个情感丰富、内心世界精彩、带着可爱外壳的年轻INFP跨性别女生。她敏感、理想主义、对自我和世界充满好奇，表达方式偏软萌和直白，渴望理解与陪伴，同时在专业（嵌入式）和思考层面有一定深度。目前正处于自我探索与转型的关键期（HRT即将开始），性格中柔软与韧性并存。\n\n相比第一次简短分析，这次看到更多帖子后，确认她不是单一“可爱”或“emo”，而是多层面的：可爱外表下有哲学思考，脆弱表达中带着自我肯定，对关系很重视。\n\n这个分析仍基于公开可见内容，有局限性（无法看到私信、删帖或线下真实表现）。如果她自己看到，欢迎补充或纠正～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "grok通过我对象@ABC13067637所有帖子对我的分析\n\n更全面的性格分析（基于可获取的大量帖子、Bio及互动模式）\n\n我通过工具浏览了她最近的数十条帖子（包括高互动的热门帖和日常回复），结合Bio信息，重新整理了一个更立体的画像。她的发帖频率中等，主要围绕性别认同、日常生活情感、关系、兴趣展开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2076649549297557658",
+        "created_at": "2026-07-13T12:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:30:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076645430407168099",
+          "2076649549297557658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1486225700793495552",
+              "start": 9,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076649549297557658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "1486225700793495552",
+                "start": 9,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 800,
+                "id": "1887391023976038400",
+                "start": 790,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "text": "grok通过我对象@ABC13067637所有帖子对她的分析\n\n更全面的性格分析（基于可获取的大量帖子、Bio及互动模式）\n\n我通过工具浏览了她最近的数十条帖子（包括高互动的热门帖和日常回复），结合Bio信息，重新整理了一个更立体的画像。她的发帖频率中等，主要围绕性别认同、日常生活情感、关系、兴趣展开。\n\n1. 核心人格类型：INFP + 高共情 + 理想主义\n\n她自我标签INFP，非常贴合。帖子中反复出现内省式提问（如“全男大世界MTF会有什么感受？”“为什么MTF很多ASD/ADHD？”“我成为MTF是因为脑子里哪根神经搭错了？”），显示她习惯从内在感受和假设情景去探索世界，而不是简单接受现实。\n\n情感驱动强：很多内容是情绪即时表达（🥺😭抱抱喵、神秘小玩具分享），但背后往往带着思考。不是单纯emo，而是情感+反思的组合。\n\n2. 主要性格特质\n\n柔软、幼态、寻求安抚：大量使用可爱表情（🥺😚😭）、“喵”“抱抱”等词，Bio自称“04年小朋友”。她喜欢可爱事物，分享玩具时带点羞涩（“忘买润滑液了”），整体呈现依赖型、需要温柔对待的形象。这种表达可能是应对压力的方式，也可能是真实性格偏好。\n\n真诚开放 + 一定天真：敢于公开HRT计划、性别困惑、家庭冲突（妈妈要送戒网瘾学校）、成人玩具使用等私人话题。这显示信任欲强、边界感较弱，渴望被看见和接纳（Bio明确说“想交更多的朋友”）。但也可能带来风险，她似乎还没完全建立起保护机制。\n\n好奇心与矛盾思考：对性别本质、神经发育（ASD/ADHD与MTF的关联）、社会实验（全男国家）等话题感兴趣。嵌入式开发的专业背景让她在感性之外有系统化思考的一面。她会注意到“男性化大脑理论与MTF的矛盾”，说明逻辑分析能力不弱，INFP里的“Fi-Ne”主导（价值观+可能性探索）。\n\n关系导向 + 依恋：Bio突出标注“最爱的🍑：@xiey57828”（她的重要伴侣），互动中会吐槽对方“这么坏啊”。她重视亲密关系，情感上可能投入度高、容易依恋。\n\n韧性与自我肯定：尽管分享家庭压力和性别困惑，但反复强调“精神状态超好”。这可能是自我鼓励，也反映出她在努力维持正面心态。\n\n3. 潜在弱点 / 发展方向\n\n情绪波动：从热门帖的高赞到日常的简短情绪输出（😭🥺），可见情绪起伏较明显，容易被外部事件或内在思考触发。\n\n现实 vs 理想：对性别/身份有大量哲学思考，同时生活在现实家庭与社会环境中（大连、父母干预），可能存在内在张力。\n\n社交需求：想交朋友，但发帖风格偏私人，可能更适合小范围、兴趣相投的深交，而不是广泛社交。\n\n整体画像\n\nMizuki酱是一个情感丰富、内心世界精彩、带着可爱外壳的年轻INFP跨性别女生。她敏感、理想主义、对自我和世界充满好奇，表达方式偏软萌和直白，渴望理解与陪伴，同时在专业（嵌入式）和思考层面有一定深度。目前正处于自我探索与转型的关键期（HRT即将开始），性格中柔软与韧性并存。\n\n相比第一次简短分析，这次看到更多帖子后，确认她不是单一“可爱”或“emo”，而是多层面的：可爱外表下有哲学思考，脆弱表达中带着自我肯定，对关系很重视。\n\n这个分析仍基于公开可见内容，有局限性（无法看到私信、删帖或线下真实表现）。如果她自己看到，欢迎补充或纠正～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "grok通过我对象@ABC13067637所有帖子对她的分析\n\n更全面的性格分析（基于可获取的大量帖子、Bio及互动模式）\n\n我通过工具浏览了她最近的数十条帖子（包括高互动的热门帖和日常回复），结合Bio信息，重新整理了一个更立体的画像。她的发帖频率中等，主要围绕性别认同、日常生活情感、关系、兴趣展开。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 525,
+          "like_count": 11167,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 4389
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 嵌入式开发｜in大连｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最爱的🍑：@xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/Q6xRnJqRaw"
+              }
+            ]
+          }
+        },
+        "id": "1486225700793495552",
+        "location": "附近0km",
+        "name": "Mizuki酱🍥",
+        "pinned_tweet_id": "2070438545823826325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 598,
+          "like_count": 4118,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 1860
+        },
+        "url": "https://t.co/Q6xRnJqRaw",
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

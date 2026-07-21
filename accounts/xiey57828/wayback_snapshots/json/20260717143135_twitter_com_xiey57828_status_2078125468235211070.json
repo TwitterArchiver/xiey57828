@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2078016113141752032",
+    "created_at": "2026-07-17T14:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078125468235211070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078125468235211070",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078016113141752032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia 🤔😨🤤🤤😋😆🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078016113141752032].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078016113141752032",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078016113141752032"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2078016113141752032",
+        "created_at": "2026-07-17T14:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078125468235211070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078125468235211070",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078016113141752032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 🤔😨🤤🤤😋😆🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n恋人@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "ABC13067637"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 520,
+          "like_count": 11868,
+          "listed_count": 4,
+          "media_count": 252,
+          "tweet_count": 4587
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "yxrchina"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 83,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 60,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/PFVuXbAihV"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2077016948404273445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 950,
+          "like_count": 36091,
+          "listed_count": 3,
+          "media_count": 833,
+          "tweet_count": 6925
+        },
+        "url": "https://t.co/PFVuXbAihV",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

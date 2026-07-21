@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2076934139841073266",
+    "created_at": "2026-07-14T09:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076956369614426362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076956369614426362",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076934139841073266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2076934118777167872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLAk7OaIAAIGzz.jpg",
+        "width": 2231
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076934139841073266",
+        "created_at": "2026-07-14T09:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076956369614426362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076956369614426362",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076934139841073266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076934118777167872"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2076934139841073266",
+        "created_at": "2026-07-14T07:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076934139841073266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUSbXjnNtJ",
+              "end": 36,
+              "expanded_url": "https://x.com/huahuojiang_/status/2076934139841073266/photo/1",
+              "media_key": "3_2076934118777167872",
+              "start": 13,
+              "url": "https://t.co/MUSbXjnNtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076934139841073266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 254,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我終於穿進這種大格網襪了 https://t.co/MUSbXjnNtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑理工男，研0\n🤓gay&反跨\n❤️优秀青年不🚬不🍺不💊不🔪不🔞不键政不跨不女装but视力残疾\n🏥理想主义者&自负\n🥺ISFJ /INFJ\n🐱乐观开朗大男孩，好好生活每一天💪\n亲爱的@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "ABC13067637"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2076649005967438161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 525,
+          "like_count": 11382,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 4434
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2074840481842987133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7126,
+          "following_count": 3572,
+          "like_count": 103554,
+          "listed_count": 16,
+          "media_count": 8933,
+          "tweet_count": 100760
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2075970785295135067",
+    "created_at": "2026-07-14T04:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076880765305213054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1495326365465264128",
+          "start": 0,
+          "username": "q53201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076880765305213054",
+    "in_reply_to_user_id": "1495326365465264128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075972135542288640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q53201 群里机器人太傻逼了，一直在那修仙，还有人天天打语音太烦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2075970785295135067",
+        "created_at": "2026-07-14T04:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076880765305213054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1495326365465264128",
+              "start": 0,
+              "username": "q53201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076880765305213054",
+        "in_reply_to_user_id": "1495326365465264128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075972135542288640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q53201 群里机器人太傻逼了，一直在那修仙，还有人天天打语音太烦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495326365465264128",
+        "conversation_id": "2075970785295135067",
+        "created_at": "2026-07-11T15:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075972135542288640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075972135542288640",
+        "in_reply_to_user_id": "1495326365465264128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075970785295135067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群也越来越冷了，“我以为我们永远有话说”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑理工男，研0\n🤓gay&反跨\n❤️优秀青年不🚬不🍺不💊不🔪不🔞不键政不跨不女装but视力残疾\n🏥理想主义者&自负\n🥺ISFJ /INFJ\n🐱乐观开朗大男孩，好好生活每一天💪\n亲爱的@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "ABC13067637"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2076649005967438161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 525,
+          "like_count": 11283,
+          "listed_count": 4,
+          "media_count": 239,
+          "tweet_count": 4418
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T09:16:11.000Z",
+        "description": "2026年3月28日开始HRT🍥",
+        "id": "1495326365465264128",
+        "name": "樱雪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068524898952302592/th1Z-CfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 219,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "q53201",
+        "verified": false
+      }
+    ]
+  }
+}

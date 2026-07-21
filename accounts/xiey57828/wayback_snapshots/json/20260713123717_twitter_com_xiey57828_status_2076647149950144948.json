@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2076645430407168099",
+    "created_at": "2026-07-13T12:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076647149950144948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486225700793495552",
+          "start": 0,
+          "username": "ABC13067637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076647149950144948",
+    "in_reply_to_user_id": "1486225700793495552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076645708619567486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC13067637 蒙眼睛干嘛😡\n请，好好的看着你自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076645430407168099",
+        "created_at": "2026-07-13T12:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076647149950144948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076647149950144948",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076645708619567486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 蒙眼睛干嘛😡\n请，好好的看着你自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486225700793495552",
+        "conversation_id": "2076645430407168099",
+        "created_at": "2026-07-13T12:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076645708619567486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076645708619567486",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076645430407168099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 🫣🫣🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 525,
+          "like_count": 11166,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 4387
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 嵌入式开发｜in大连｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最爱的🍑：@xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/Q6xRnJqRaw"
+              }
+            ]
+          }
+        },
+        "id": "1486225700793495552",
+        "location": "附近0km",
+        "name": "Mizuki酱🍥",
+        "pinned_tweet_id": "2070438545823826325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 598,
+          "like_count": 4117,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 1859
+        },
+        "url": "https://t.co/Q6xRnJqRaw",
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

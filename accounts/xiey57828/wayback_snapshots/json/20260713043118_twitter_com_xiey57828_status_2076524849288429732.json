@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2076524733307527181",
+    "created_at": "2026-07-13T04:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076524849288429732"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076524849288429732",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076524733307527181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不死心我要去测客观视力,可是不知道怎么测……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076524733307527181",
+        "created_at": "2026-07-13T04:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076524849288429732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076524849288429732",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076524733307527181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不死心我要去测客观视力,可是不知道怎么测……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076524733307527181",
+        "created_at": "2026-07-13T04:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076524733307527181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076524733307527181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸眼视力比矫正视力好这一块😭直接不给我办残疾证了，我都不知道那次怎么测出来的0.32，裸眼一直都是0.2，矫正视力一直都是0.1。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 523,
+          "like_count": 11081,
+          "listed_count": 4,
+          "media_count": 237,
+          "tweet_count": 4363
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      }
+    ]
+  }
+}

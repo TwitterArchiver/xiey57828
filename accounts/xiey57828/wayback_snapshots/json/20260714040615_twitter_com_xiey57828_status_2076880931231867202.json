@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2075970785295135067",
+    "created_at": "2026-07-14T04:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076880931231867202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1495326365465264128",
+          "start": 0,
+          "username": "q53201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076880931231867202",
+    "in_reply_to_user_id": "1495326365465264128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075970785295135067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q53201 哪位呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2075970785295135067",
+        "created_at": "2026-07-14T04:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076880931231867202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1495326365465264128",
+              "start": 0,
+              "username": "q53201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076880931231867202",
+        "in_reply_to_user_id": "1495326365465264128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075970785295135067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q53201 哪位呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495326365465264128",
+        "conversation_id": "2075970785295135067",
+        "created_at": "2026-07-11T15:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075970785295135067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075970785295135067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么凭什么，为什么我好不容易交往了那么久的好友，突然就退群拉黑我再也不理我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑理工男，研0\n🤓gay&反跨\n❤️优秀青年不🚬不🍺不💊不🔪不🔞不键政不跨不女装but视力残疾\n🏥理想主义者&自负\n🥺ISFJ /INFJ\n🐱乐观开朗大男孩，好好生活每一天💪\n亲爱的@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "ABC13067637"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2076649005967438161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 525,
+          "like_count": 11285,
+          "listed_count": 4,
+          "media_count": 239,
+          "tweet_count": 4419
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T09:16:11.000Z",
+        "description": "2026年3月28日开始HRT🍥",
+        "id": "1495326365465264128",
+        "name": "樱雪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068524898952302592/th1Z-CfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 219,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "q53201",
+        "verified": false
+      }
+    ]
+  }
+}

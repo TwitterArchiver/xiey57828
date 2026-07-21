@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077229621758861312"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2077229680714031364",
+    "created_at": "2026-07-15T03:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077229680714031364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kqKj54j1Uy",
+          "end": 59,
+          "expanded_url": "https://x.com/xiey57828/status/2077229680714031364/video/1",
+          "media_key": "13_2077229621758861312",
+          "start": 36,
+          "url": "https://t.co/kqKj54j1Uy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077229680714031364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小镇的铁路涵洞守着慢时光，限高杆拦得住货车，拦不住巷子里慢悠悠的烟火。 https://t.co/kqKj54j1Uy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4133,
+        "height": 1920,
+        "media_key": "13_2077229621758861312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077229621758861312/img/XTTs6FkLKbsuOvrI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077229621758861312/vid/avc1/480x852/89DPi3Gxsdgoz2Jn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077229621758861312/pl/p2ePK2M1OD5Oz5F9.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077229621758861312/vid/avc1/1080x1920/MAGj7o1QFMyPETUA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077229621758861312/vid/avc1/720x1280/VV5ib7zHDkz5d3Ts.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077229621758861312/vid/avc1/320x568/GuuA0w_b71WXBFNq.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077229621758861312"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2077229680714031364",
+        "created_at": "2026-07-15T03:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077229680714031364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqKj54j1Uy",
+              "end": 59,
+              "expanded_url": "https://x.com/xiey57828/status/2077229680714031364/video/1",
+              "media_key": "13_2077229621758861312",
+              "start": 36,
+              "url": "https://t.co/kqKj54j1Uy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077229680714031364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小镇的铁路涵洞守着慢时光，限高杆拦得住货车，拦不住巷子里慢悠悠的烟火。 https://t.co/kqKj54j1Uy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏，带刺的毛桃还是头一回见。",
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 525,
+          "like_count": 11461,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 4463
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      }
+    ]
+  }
+}

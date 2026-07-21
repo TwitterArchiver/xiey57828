@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2071682661421355092",
+    "created_at": "2026-07-16T09:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077687863483957332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385796067116027905",
+          "start": 0,
+          "username": "poemcloud8000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077687863483957332",
+    "in_reply_to_user_id": "1385796067116027905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071682661421355092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poemcloud8000 我靠你是坚定维护性少数群体利益的共产主义斗士嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2071682661421355092",
+        "created_at": "2026-07-16T09:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077687863483957332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385796067116027905",
+              "start": 0,
+              "username": "poemcloud8000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077687863483957332",
+        "in_reply_to_user_id": "1385796067116027905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071682661421355092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poemcloud8000 我靠你是坚定维护性少数群体利益的共产主义斗士嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385796067116027905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2071682661421355092",
+        "created_at": "2026-06-29T19:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071682661421355092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheLongMarchAI…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/TheLongMarchAI/status/2071668049196077295",
+              "start": 143,
+              "url": "https://t.co/mSVNkKNJEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071682661421355092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这样的言论在我看来反映出了一些问题与危险的谬误，本质原因我认为是发言者在LGBT问题上受到了保守思想的一定影响，还有一定的固有观念，第二则是马克思主义的学习水平不足，混淆了阶级与群体的概念，泛化了主要矛盾的定义，产生了本就不该存在的人的解放和全面发展的优先级，本质上是上世纪初机械唯物论者走过的老错误，以下是我用马克思主义观点的分析与反对意见。有的朋友可能觉得像大字报，这感觉没错，我是故意写成大字报的。但是我尽可能避免了人身攻击与歧视性用语，无论您持什么观点，我只是对您的观点发表看法，至于对您个人的道德判断，我无意在此讨论。\n\n1. 终极目标的不可分割性——人的解放没有“先后表”\n马克思主义的终极命题是“每个人的自由发展是一切人的自由发展的条件”。这里的“每个人”不是空洞的集合名词，而是指所有具体、有差异的个体。解放如果被切割为“先解决阶级，后解决性别”，就意味着一部分人被要求暂时牺牲自己的完整性，用以换取一个遥远而抽象的承诺。这种操作在逻辑上已经背叛了目标本身——一个需要靠压抑一部分人的自由去追求的“解放”，从一开始就不是社会主义所许诺的解放。\n2. 范畴混淆的错误——“阶级”与“群体”不能用于比较优先级\n阶级是一个生产关系范畴，指人们在物质生产体系中的位置；性少数是一个社会身份群体，由性与性别的社会规范所建构。两者在逻辑上完全不处于同一分析层面，就如同不能用长度去比较重量。强行将二者放入一个优先级排序框架，不仅犯了基本的范畴错误，更把阶级这一分析工具异化成了价值等级制的尺度，用理论概念去压制活生生的人对尊严的诉求。\n3. 方法论的形而上学——线性排队思维违背辩证法\n压迫不是按顺序单列运行的。一个性少数工人面对的，是阶级剥削与异性恋霸权同时施加的、交织在一起的完整压制。辩证法要求认识事物的整体联系，而“先阶级、后性别”的机械阶段论，恰恰是形而上学地切碎了人的现实处境。它假设矛盾可以一个一个依次解决，却无视不同压迫体系之间相互再生产的关系——例如，不撼动规训劳动力再生产的异性恋家庭制度，就不可能彻底撼动经济剥削。\n4. 实践中的危害——优先级论制造新的等级与异化\n在社会主义运动史上，以“路线任务”为名推迟对特定群体压迫的解决，往往导向运动内部新的压迫合法化。如果一个运动要求性少数成员“在阶级解放前先忍一忍”，那它就尚未开始解放任何人，而只是在复制一种推迟版的特权结构。这种内部等级制会腐蚀运动的团结与道德根基，最终使解放事业沦为空洞的修辞，与人的全面发展背道而驰。\n5. 真正的马克思主义立场——把性别解放内化为阶级斗争的题中应有之义\n马克思主义不应是把一切压迫都还原为阶级问题，而是要揭示阶级压迫如何与其他压迫形式交织运作，并以此展开全面的斗争。无产阶级不是一个无性别的抽象主体，它本身就包含着性少数成员。解放无产阶级，就必须同时解放他们身上的每一种被压迫的身份。因此，反对性别压迫不是阶级斗争之外的“特殊议题”，而是阶级斗争本身不可剥离的维度。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1011,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071668049196077295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样的言论在我看来反映出了一些问题与危险的谬误，本质原因我认为是发言者在LGBT问题上受到了保守思想的一定影响，还有一定的固有观念，第二则是马克思主义的学习水平不足，混淆了阶级与群体的概念，泛化了主要矛盾的定义，产生了本就不该存在的人的解放和全面发展的优先级，本质上是上世纪初机械唯物 https://t.co/mSVNkKNJEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。",
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 528,
+          "like_count": 11709,
+          "listed_count": 4,
+          "media_count": 246,
+          "tweet_count": 4531
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T03:21:51.000Z",
+        "description": "Hallo world",
+        "id": "1385796067116027905",
+        "location": "Rhode Island",
+        "name": "詩雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550188704341168128/v3PRGnEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 124,
+          "like_count": 8243,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "poemcloud8000",
+        "verified": true
+      }
+    ]
+  }
+}

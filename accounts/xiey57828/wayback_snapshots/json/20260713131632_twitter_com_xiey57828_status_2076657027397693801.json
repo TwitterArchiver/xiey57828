@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2076464775220076621",
+    "created_at": "2026-07-13T13:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076657027397693801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863319222765428736",
+          "start": 0,
+          "username": "Re_ZaoTon"
+        },
+        {
+          "end": 23,
+          "id": "1880979169297022976",
+          "start": 11,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076657027397693801",
+    "in_reply_to_user_id": "1863319222765428736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076640963100066198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re_ZaoTon @Wesley10032 我是正常人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076464775220076621",
+        "created_at": "2026-07-13T13:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076657027397693801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            },
+            {
+              "end": 23,
+              "id": "1880979169297022976",
+              "start": 11,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076657027397693801",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076640963100066198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon @Wesley10032 我是正常人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2076464775220076621",
+        "created_at": "2026-07-13T12:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076640963100066198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076640963100066198",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076464775220076621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 一群精神病小孩，交朋友会变得很惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 525,
+          "like_count": 11199,
+          "listed_count": 4,
+          "media_count": 238,
+          "tweet_count": 4395
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥/小证含糖🤕/脾气超好🥰/精神不稳定🙃/自恨跨畜🤮/不可能自杀😇/五好纯良☺️/正在享受生活😋/早已释怀一切😌/爱好是观察互联网🧐/和我说话的人都觉得我还不错，如果你觉得无聊，不妨来找我探讨人类进化史？！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "http://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "location": "埃迪卡拉纪",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2073038385770565697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 239,
+          "like_count": 7771,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/6l43xOCIK5",
+        "username": "Re_ZaoTon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 522,
+          "like_count": 3648,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

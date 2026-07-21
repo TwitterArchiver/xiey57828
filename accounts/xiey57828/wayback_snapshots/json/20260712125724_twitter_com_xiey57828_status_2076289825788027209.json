@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2076238319537770946",
+    "created_at": "2026-07-12T12:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076289825788027209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1206913956775751680",
+          "start": 0,
+          "username": "waveringlune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076289825788027209",
+    "in_reply_to_user_id": "1206913956775751680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076284525865574550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waveringlune 这波神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076238319537770946",
+        "created_at": "2026-07-12T12:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076289825788027209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1206913956775751680",
+              "start": 0,
+              "username": "waveringlune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076289825788027209",
+        "in_reply_to_user_id": "1206913956775751680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076284525865574550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waveringlune 这波神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206913956775751680",
+        "conversation_id": "2076238319537770946",
+        "created_at": "2026-07-12T12:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076284525865574550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076284525865574550",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076238319537770946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 结果60的时候去找他，他先死了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 523,
+          "like_count": 11022,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T12:28:17.000Z",
+        "description": "🏳️‍⚧️（大概？没探索出来hh），27，HK，C++苦手，焦虑疑病，没工作，讨厌学习，讨厌工作，讨厌思考，讨厌现实的自己。以及晚睡能手！\n分享一点点日常以及大部分的 抱怨 。。。。",
+        "id": "1206913956775751680",
+        "name": "Waaaave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030622335578058752/HOIVzCJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 883,
+          "like_count": 15302,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "waveringlune",
+        "verified": false
+      }
+    ]
+  }
+}

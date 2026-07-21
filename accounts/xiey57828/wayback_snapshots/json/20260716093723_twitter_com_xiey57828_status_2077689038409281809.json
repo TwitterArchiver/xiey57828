@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2077661191216968185",
+    "created_at": "2026-07-16T09:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077689038409281809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385796067116027905",
+          "start": 0,
+          "username": "poemcloud8000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077689038409281809",
+    "in_reply_to_user_id": "1385796067116027905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077661191216968185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poemcloud8000 湘菜是广东最好吃的菜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2077661181679214592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVV1jmboAAFeLl.jpg",
+        "width": 960
+      },
+      {
+        "height": 935,
+        "media_key": "3_2077661182438326272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVV1mbawAA89E0.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2077661191216968185",
+        "created_at": "2026-07-16T09:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077689038409281809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385796067116027905",
+              "start": 0,
+              "username": "poemcloud8000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077689038409281809",
+        "in_reply_to_user_id": "1385796067116027905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077661191216968185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poemcloud8000 湘菜是广东最好吃的菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077661181679214592",
+            "3_2077661182438326272"
+          ]
+        },
+        "author_id": "1385796067116027905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          }
+        ],
+        "conversation_id": "2077661191216968185",
+        "created_at": "2026-07-16T07:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077661191216968185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTyN3HN42S",
+              "end": 89,
+              "expanded_url": "https://x.com/poemcloud8000/status/2077661191216968185/photo/1",
+              "media_key": "3_2077661181679214592",
+              "start": 66,
+              "url": "https://t.co/LTyN3HN42S"
+            },
+            {
+              "display_url": "pic.x.com/LTyN3HN42S",
+              "end": 89,
+              "expanded_url": "https://x.com/poemcloud8000/status/2077661191216968185/photo/1",
+              "media_key": "3_2077661182438326272",
+              "start": 66,
+              "url": "https://t.co/LTyN3HN42S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077661191216968185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "湖南省の子供としては、まだ完全に雑食動物のように感じます。しかし、内臓と犬の肉は多くの人が食べますが、私はあまり好きではありません https://t.co/LTyN3HN42S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。",
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 528,
+          "like_count": 11713,
+          "listed_count": 4,
+          "media_count": 246,
+          "tweet_count": 4532
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T03:21:51.000Z",
+        "description": "Hallo world",
+        "id": "1385796067116027905",
+        "location": "Rhode Island",
+        "name": "詩雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550188704341168128/v3PRGnEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 124,
+          "like_count": 8243,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "poemcloud8000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2078014586763006040",
+    "created_at": "2026-07-17T09:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078047900396093499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1206913956775751680",
+          "start": 0,
+          "username": "waveringlune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078047900396093499",
+    "in_reply_to_user_id": "1206913956775751680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078041659229839421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waveringlune 胡子是真顽强，还有私密部位也是😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2078014586763006040",
+        "created_at": "2026-07-17T09:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078047900396093499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1206913956775751680",
+              "start": 0,
+              "username": "waveringlune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078047900396093499",
+        "in_reply_to_user_id": "1206913956775751680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078041659229839421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waveringlune 胡子是真顽强，还有私密部位也是😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206913956775751680",
+        "conversation_id": "2078014586763006040",
+        "created_at": "2026-07-17T08:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078041659229839421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078041659229839421",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078014586763006040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 还没吃，天生毛多。激光全脱6次，胡子像是没变化😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。",
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 528,
+          "like_count": 11811,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 4571
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T12:28:17.000Z",
+        "description": "🏳️‍⚧️（大概？没探索出来hh），27，HK，C++苦手，焦虑疑病，没工作，讨厌学习，讨厌工作，讨厌思考，讨厌现实的自己。以及晚睡能手！\n分享一点点日常以及大部分的 抱怨 。。。。",
+        "id": "1206913956775751680",
+        "name": "Waaaave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030622335578058752/HOIVzCJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 905,
+          "like_count": 15707,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "waveringlune",
+        "verified": false
+      }
+    ]
+  }
+}

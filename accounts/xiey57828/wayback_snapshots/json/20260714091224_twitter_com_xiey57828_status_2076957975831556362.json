@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2076957975831556362",
+    "created_at": "2026-07-14T09:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076957975831556362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        },
+        {
+          "end": 25,
+          "id": "1594057062803075072",
+          "start": 15,
+          "username": "lrlilolam"
+        },
+        {
+          "end": 40,
+          "id": "1947564512984567808",
+          "start": 26,
+          "username": "LINKINGMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076957975831556362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076957959092068586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: @lrlilolam @LINKINGMadoka 我不是炒作狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076957975831556362",
+        "created_at": "2026-07-14T09:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076957975831556362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            },
+            {
+              "end": 25,
+              "id": "1594057062803075072",
+              "start": 15,
+              "username": "lrlilolam"
+            },
+            {
+              "end": 40,
+              "id": "1947564512984567808",
+              "start": 26,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076957975831556362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076957959092068586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: @lrlilolam @LINKINGMadoka 我不是炒作狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2076747888164753420",
+        "created_at": "2026-07-14T09:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076957959092068586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594057062803075072",
+              "start": 0,
+              "username": "lrlilolam"
+            },
+            {
+              "end": 25,
+              "id": "1947564512984567808",
+              "start": 11,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076957959092068586",
+        "in_reply_to_user_id": "1594057062803075072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076957743953645628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrlilolam @LINKINGMadoka 我不是炒作狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑理工男，研0\n🤓gay&反跨\n❤️优秀青年不🚬不🍺不💊不🔪不🔞不键政不跨不女装but视力残疾\n🏥理想主义者&自负\n🥺ISFJ /INFJ\n🐱乐观开朗大男孩，好好生活每一天💪\n亲爱的@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "ABC13067637"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2076649005967438161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 525,
+          "like_count": 11384,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 4436
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T19:56:44.000Z",
+        "description": "粉蛆滚 / 🌹 / 梦想是一个所有人都有尊严地活着的世界\n如果你不接受互关后被单方面取关，请不要关注\n裏人格：@SumikyouHideru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "SumikyouHideru"
+              }
+            ]
+          }
+        },
+        "id": "1594057062803075072",
+        "location": "「悪意」がない場所",
+        "name": "緑皮本子",
+        "pinned_tweet_id": "2052939253525717475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733861187803332608/K2gJDnVx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 150,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "lrlilolam",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "02年mtx&泛性恋｜hrt in 2025.6｜od｜家长党｜ADHD｜同类互fo｜坐标江苏泰州｜特长是法人｜亲爱的@ashasw114514｜妹妹@Chiyuyu520｜脑残  患有did和癔症｜厌男 郭蛆退散｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sz6i6N60Epo3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sz6i6N60Epo3NmE1",
+                "start": 0,
+                "url": "https://t.co/WpZdDzPSRA"
+              }
+            ]
+          }
+        },
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "LinKing阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 1358,
+          "like_count": 1665,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/WpZdDzPSRA",
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

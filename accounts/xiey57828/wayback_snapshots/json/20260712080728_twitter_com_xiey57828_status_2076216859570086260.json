@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2075917540547776833",
+    "created_at": "2026-07-12T08:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076216859570086260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837843674283294720",
+          "start": 0,
+          "username": "RainEngine2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076216859570086260",
+    "in_reply_to_user_id": "1837843674283294720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075917540547776833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2026 😰😱摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2075917533597904896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8j_4UbsAArxyO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2075917540547776833",
+        "created_at": "2026-07-12T08:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076216859570086260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837843674283294720",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076216859570086260",
+        "in_reply_to_user_id": "1837843674283294720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075917540547776833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 😰😱摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075917533597904896"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075917540547776833",
+        "created_at": "2026-07-11T12:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075917540547776833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p468eqdiGZ",
+              "end": 63,
+              "expanded_url": "https://x.com/RainEngine2026/status/2075917540547776833/photo/1",
+              "media_key": "3_2075917533597904896",
+              "start": 40,
+              "url": "https://t.co/p468eqdiGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075917540547776833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7378,
+          "like_count": 109,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "今天心态有点爆炸...被她骗了几千块救命钱....她已经把所有媒体账号都注销了 https://t.co/p468eqdiGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF→MtX\n🍥大证含糖hrt4年，\n❤️五好良跨不🚬不🍺不💊不🔪不🔞\n🎂2004老东西\n🏥精神状态超好&自负🐶\n😇双相，视力残疾\n🥺ISFJ /INFJ\n🐱好好生活每一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "佛山市南海区",
+        "name": "沐桃",
+        "pinned_tweet_id": "2073392144115761597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 523,
+          "like_count": 10979,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 4320
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 151,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

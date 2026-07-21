@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2077037874361553375",
+    "created_at": "2026-07-15T04:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077248952047673422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947116786643857408",
+          "start": 0,
+          "username": "luoyike2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077248952047673422",
+    "in_reply_to_user_id": "1947116786643857408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077247120470581522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoyike2003 读研之后我是这样的打算，能进外企最好，进不了就找个轻松的活，别人一万二我一万，别人一万我八千，别人八千我六千🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2077037874361553375",
+        "created_at": "2026-07-15T04:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077248952047673422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947116786643857408",
+              "start": 0,
+              "username": "luoyike2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077248952047673422",
+        "in_reply_to_user_id": "1947116786643857408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077247120470581522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoyike2003 读研之后我是这样的打算，能进外企最好，进不了就找个轻松的活，别人一万二我一万，别人一万我八千，别人八千我六千🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947116786643857408",
+        "conversation_id": "2077037874361553375",
+        "created_at": "2026-07-15T04:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077247120470581522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077247120470581522",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077037874361553375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 读研的宝宝居然会觉得自己没有工作很惨吗，简直身在福中不知福……\n\n听我一句劝，好好珍惜现在这种单纯的穷鬼时光吧，等你毕了业，不但依然是个穷鬼，周末还要随时被资本家拉起来填坑背锅\n\n要是能重来，我宁愿在学校里写一辈子论文，也不想在这破算力中心看老板的脸色了～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏，带刺的毛桃还是头一回见。",
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 525,
+          "like_count": 11466,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 4465
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-21T02:10:18.000Z",
+        "description": "🐱 掌管可爱暴躁法则的小火龙！\n⚖️ 近战小法务 → 偷偷爱上游戏圈的法律人\n165cm / 猫猫奴 / 游戏脑\n偶尔暴走但超爱撒娇，工作认真但下班全是废物模式\n欢迎宝贝们来唠嗑，超甜超有趣哦～\n聊天前先关注，不随便约！\n今天也在努力变得更可爱！₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1947116786643857408",
+        "location": "那维克",
+        "name": "洛一可🍥",
+        "pinned_tweet_id": "2063575828588552276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947591148782166016/RagPmesg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 89,
+          "like_count": 1472,
+          "listed_count": 9,
+          "media_count": 192,
+          "tweet_count": 2403
+        },
+        "url": "",
+        "username": "luoyike2003",
+        "verified": true
+      }
+    ]
+  }
+}
