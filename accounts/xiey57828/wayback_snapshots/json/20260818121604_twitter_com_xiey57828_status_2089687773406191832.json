@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2089653682266886210",
+    "created_at": "2026-08-18T12:16:04.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089687773406191832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089687773406191832",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089653682266886210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 我要写，但是写不出故事😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2089653675606360064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_w8k4bQAABMn5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2089653682266886210",
+        "created_at": "2026-08-18T12:16:04.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089687773406191832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089687773406191832",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089653682266886210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 我要写，但是写不出故事😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089653675606360064"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2089653682266886210",
+        "created_at": "2026-08-18T10:00:36.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:00:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089653599748136967",
+          "2089653682266886210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuO0D81fr5",
+              "end": 167,
+              "expanded_url": "https://x.com/KiraMyao/status/2089653682266886210/photo/1",
+              "media_key": "3_2089653675606360064",
+              "start": 144,
+              "url": "https://t.co/zuO0D81fr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089653682266886210",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089653675606360064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "感谢大家对 KiraEqual 和本账号的支持！\nKira 决定开启第一次抽奖活动🎉 \n抽奖规则如下： \n奖品：1名中奖者，获得 ¥50 CNY。 \n参与方式：点赞并转发评论本帖。\n截止时间：本周星期四 UTC+8\n \n抽奖方式：由人工根据参与条件整理最终参与名单，并使用 Python 程序进行随机抽取。抽取结果不受粉丝数量等主观因素影响。 \n获奖公布：将在最终得奖帖中公布获奖结果。\n奖品领取：中奖后通过 X 私信协商领取方式，可使用赞赏码、口令红包等方式领取。若获奖者明确希望，也可以协商代点 KFC 等实际消费形式。  \n\n感谢每一位愿意留下故事的人。 \n让真实的经历成为社会包容的起点。🏳️‍⚧️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "感谢大家对 KiraEqual 和本账号的支持！\nKira 决定开启第一次抽奖活动🎉 \n抽奖规则如下： \n奖品：1名中奖者，获得 ¥50 CNY。 \n参与方式：点赞并转发评论本帖。\n截止时间：本周星期四 UTC+8\n \n抽奖方式：由人工根据参与条件整理最终参与名单，并使用 Python https://t.co/zuO0D81fr5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2089687783174775193",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 520,
+          "like_count": 14922,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 5488
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2089656243958993332",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 371,
+          "like_count": 10266,
+          "listed_count": 7,
+          "media_count": 424,
+          "tweet_count": 1898
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

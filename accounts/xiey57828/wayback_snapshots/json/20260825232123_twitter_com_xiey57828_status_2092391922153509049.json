@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2092260574742921315",
+    "created_at": "2026-08-25T23:21:23.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T00:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092391922153509049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092391922153509049",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092260574742921315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 把我扔掉了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10080,
+        "height": 1254,
+        "media_key": "13_2092260550093033472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092260550093033472/img/Ykd15O7Jo9WL6fv9.jpg",
+        "public_metrics": {
+          "view_count": 220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092260550093033472/vid/avc1/320x556/3eyySgXXXxMfsoT1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092260550093033472/vid/avc1/480x836/MI6dSGpM2dCQ7oXD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092260550093033472/vid/avc1/720x1254/fowkOM6GhOhDmDn2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092260550093033472/pl/jfS0sj7Yi0yTt4rn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2092260574742921315",
+        "created_at": "2026-08-25T23:21:23.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T00:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092391922153509049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092391922153509049",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092260574742921315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 把我扔掉了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092260550093033472"
+          ]
+        },
+        "author_id": "1868438397083410432",
+        "conversation_id": "2092260574742921315",
+        "created_at": "2026-08-25T14:39:27.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092260574742921315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Fgefam9Fp",
+              "end": 33,
+              "expanded_url": "https://x.com/2020520Rei/status/2092260574742921315/video/1",
+              "media_key": "13_2092260550093033472",
+              "start": 10,
+              "url": "https://t.co/7Fgefam9Fp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092260574742921315",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092260550093033472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 526,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀，把桃落下了😰 https://t.co/7Fgefam9Fp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2092391922153509049",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 532,
+          "like_count": 15843,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 5770
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 😵\n努力转变正常人ing～🥰\n 163cm  45kg（超可爱小小只小女孩）🤤      \n已删除跨籍（即便本质跨）        \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2092372551351857231",
+        "name": "ReiOᴗoಣ零酱🍥",
+        "pinned_tweet_id": "2091831775299572179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090614497706946560/z3GpSn9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 633,
+          "like_count": 5863,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

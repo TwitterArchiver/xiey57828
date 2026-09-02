@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2093325520570356084",
+    "created_at": "2026-08-29T01:37:50.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T02:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093513422495461738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093513422495461738",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093325520570356084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 土色也没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2720,
+        "media_key": "3_2093325488714612736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQz8cOobAAAdsLb.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2093325506695557120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQz8dRnacAAKpf7.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2093325520570356084",
+        "created_at": "2026-08-29T01:37:50.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093513422495461738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093513422495461738",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093325520570356084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 土色也没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093325488714612736",
+            "3_2093325506695557120"
+          ]
+        },
+        "author_id": "1750684739441446912",
+        "conversation_id": "2093325520570356084",
+        "created_at": "2026-08-28T13:11:10.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093325520570356084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iw6Nebr9s6",
+              "end": 42,
+              "expanded_url": "https://x.com/wngy189327/status/2093325520570356084/photo/1",
+              "media_key": "3_2093325488714612736",
+              "start": 19,
+              "url": "https://t.co/iw6Nebr9s6"
+            },
+            {
+              "display_url": "pic.x.com/iw6Nebr9s6",
+              "end": 42,
+              "expanded_url": "https://x.com/wngy189327/status/2093325520570356084/photo/1",
+              "media_key": "3_2093325506695557120",
+              "start": 19,
+              "url": "https://t.co/iw6Nebr9s6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093325520570356084",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093325488714612736"
+          },
+          {
+            "media_key": "3_2093325506695557120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 921,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋回事？日雌真的停产了吗？还是咋了？ https://t.co/iw6Nebr9s6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2093513422495461738",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 534,
+          "like_count": 16260,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 5890
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "mtf\n2010年5月4日生日\n15岁的xyn\n1米8\n141斤\n1000度近视\n陆续含糖",
+        "id": "1750684739441446912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093325661335363771",
+        "name": "核弹 🍥",
+        "pinned_tweet_id": "2088942000418767012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750684739441446912/1758586593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 864,
+          "like_count": 10815,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 1913
+        },
+        "url": "",
+        "username": "wngy189327",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

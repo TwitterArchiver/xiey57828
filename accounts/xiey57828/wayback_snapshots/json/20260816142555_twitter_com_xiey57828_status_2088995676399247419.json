@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088995669730357248"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2088995676399247419",
+    "created_at": "2026-08-16T14:25:55.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088995676399247419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vDaU12kLU7",
+          "end": 67,
+          "expanded_url": "https://x.com/xiey57828/status/2088995676399247419/photo/1",
+          "media_key": "3_2088995669730357248",
+          "start": 44,
+          "url": "https://t.co/vDaU12kLU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088995676399247419",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088995669730357248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "简介翻译：骄傲跨丨青春期过了还gaht没用丨喜欢写小作文丨od自惭鉴证并且有不良嗜好。 https://t.co/vDaU12kLU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2088995669730357248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2afl-bcAA1MNg.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088995669730357248"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2088995676399247419",
+        "created_at": "2026-08-16T14:25:55.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088995676399247419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDaU12kLU7",
+              "end": 67,
+              "expanded_url": "https://x.com/xiey57828/status/2088995676399247419/photo/1",
+              "media_key": "3_2088995669730357248",
+              "start": 44,
+              "url": "https://t.co/vDaU12kLU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088995676399247419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088995669730357248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简介翻译：骄傲跨丨青春期过了还gaht没用丨喜欢写小作文丨od自惭鉴证并且有不良嗜好。 https://t.co/vDaU12kLU7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2088995676399247419",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 516,
+          "like_count": 14560,
+          "listed_count": 4,
+          "media_count": 313,
+          "tweet_count": 5372
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2090990324755972293",
+    "created_at": "2026-08-22T04:53:35.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091025969830068302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        },
+        {
+          "end": 33,
+          "id": "1591959828573757440",
+          "start": 21,
+          "username": "a2517337359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091025969830068302",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090990324755972293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 负分唱歌放几天方便@a2517337359"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2090990294389121025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSwmB3aYAESaj2.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2090990306145800192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSwmtqbEAAx7pl.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2090990315754885120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSwnRdaEAA1ghS.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2090990324755972293",
+        "created_at": "2026-08-22T04:53:35.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091025969830068302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            },
+            {
+              "end": 33,
+              "id": "1591959828573757440",
+              "start": 21,
+              "username": "a2517337359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091025969830068302",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090990324755972293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 负分唱歌放几天方便@a2517337359"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090990294389121025",
+            "3_2090990306145800192",
+            "3_2090990315754885120"
+          ]
+        },
+        "author_id": "1868438397083410432",
+        "conversation_id": "2090990324755972293",
+        "created_at": "2026-08-22T02:31:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090990324755972293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtboxO6QmA",
+              "end": 164,
+              "expanded_url": "https://x.com/2020520Rei/status/2090990324755972293/photo/1",
+              "media_key": "3_2090990294389121025",
+              "start": 141,
+              "url": "https://t.co/CtboxO6QmA"
+            },
+            {
+              "display_url": "pic.x.com/CtboxO6QmA",
+              "end": 164,
+              "expanded_url": "https://x.com/2020520Rei/status/2090990324755972293/photo/1",
+              "media_key": "3_2090990306145800192",
+              "start": 141,
+              "url": "https://t.co/CtboxO6QmA"
+            },
+            {
+              "display_url": "pic.x.com/CtboxO6QmA",
+              "end": 164,
+              "expanded_url": "https://x.com/2020520Rei/status/2090990324755972293/photo/1",
+              "media_key": "3_2090990315754885120",
+              "start": 141,
+              "url": "https://t.co/CtboxO6QmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090990324755972293",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090990294389121025"
+          },
+          {
+            "media_key": "3_2090990306145800192"
+          },
+          {
+            "media_key": "3_2090990315754885120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这真的依菲雅吗，真的是你吗啊哼哼哼😭😭😭，这阿零当时都不知道呜呜呜呜呜😭，阿零……阿零，找你你离开以后，阿零看到你的帖子就很难受，就觉得自己死了不公平，总之经常看见，很难受，很受影响，自己也想死，被刺激到，所以给你取关了，不想看到，这些内容。但是今天，无意间，打开B站，看了看自己的，粉丝，看到了你，天呐，崩溃啊啊啊啊啊啊啊啊啊啊啊啊啊😭😭😭，依菲雅，为什么受圈子影响那么大，就这样死了，阿零甚至想退圈，也把你取关了，不想看见这内容，但是，一切就是这样巧合吧……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 328,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这真的依菲雅吗，真的是你吗啊哼哼哼😭😭😭，这阿零当时都不知道呜呜呜呜呜😭，阿零……阿零，找你你离开以后，阿零看到你的帖子就很难受，就觉得自己死了不公平，总之经常看见，很难受，很受影响，自己也想死，被刺激到，所以给你取关了，不想看到，这些内容。但是今天，无意间，打开B站，看了看自己 https://t.co/CtboxO6QmA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2091025969830068302",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 524,
+          "like_count": 15369,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 5630
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 😵\n努力转变正常人ing～🥰\n 163cm  45kg（超可爱小小只小女孩）🤤              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2091009494209765819",
+        "name": "ReiOᴗoಣ零酱🍥",
+        "pinned_tweet_id": "2090018550975213867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090614497706946560/z3GpSn9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 681,
+          "like_count": 5051,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 2710
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T01:03:22.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 嵌入式开发｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最爱的🍑：@xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/dKXzgYeQRH"
+              }
+            ]
+          }
+        },
+        "id": "1591959828573757440",
+        "is_identity_verified": false,
+        "location": "1.2km",
+        "most_recent_tweet_id": "2091011013911171515",
+        "name": "水希ちゃん🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591959828573757440/1768892982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 294,
+          "like_count": 1101,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/dKXzgYeQRH",
+        "username": "a2517337359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

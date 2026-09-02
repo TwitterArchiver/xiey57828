@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2089329900696260623",
+    "created_at": "2026-08-17T12:34:00.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089329900696260623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 121,
+          "id": "1591959828573757440",
+          "start": 109,
+          "username": "a2517337359"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xinggu233893/s…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/xinggu233893/status/2089242641758302580",
+          "start": 146,
+          "url": "https://t.co/ACCMqxhn6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089329900696260623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089242641758302580",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "名字：沐桃\n性别：男（但都认为我是mtf）\n年龄：22\n生日：2月16日\n兴趣：玩游戏、拍风景、刷抖音\n身高：156 cm\n体重：51 kg （猪）\n惯用手：右 \n握力：大 （轻松拧开老干妈）\n实力：残疾四级 \n恋人：@a2517337359 \n血型：未知 \n告白次数：1 \n被表白次数：1 https://t.co/ACCMqxhn6o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2089329900696260623",
+        "created_at": "2026-08-17T12:34:00.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089329900696260623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1591959828573757440",
+              "start": 109,
+              "username": "a2517337359"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xinggu233893/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/xinggu233893/status/2089242641758302580",
+              "start": 146,
+              "url": "https://t.co/ACCMqxhn6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089329900696260623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089242641758302580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名字：沐桃\n性别：男（但都认为我是mtf）\n年龄：22\n生日：2月16日\n兴趣：玩游戏、拍风景、刷抖音\n身高：156 cm\n体重：51 kg （猪）\n惯用手：右 \n握力：大 （轻松拧开老干妈）\n实力：残疾四级 \n恋人：@a2517337359 \n血型：未知 \n告白次数：1 \n被表白次数：1 https://t.co/ACCMqxhn6o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902691463252852736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2089242641758302580",
+        "created_at": "2026-08-17T06:47:16.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T07:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089242641758302580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shantianliang0…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/shantianliang08/status/2088976317861765471",
+              "start": 93,
+              "url": "https://t.co/URgwgQ4huP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089242641758302580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088976317861765471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名字：叁唔\n性别：MTFTX\n年齡：16\n生日：5月\n興趣：暂无\n身長：165\n體重：40kg\n慣用手：右\n握力：无\n視力：近视\n戀人：（暂无）\n血型：A\n告白次數：0\n受表白次數：0 https://t.co/URgwgQ4huP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2089329900696260623",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 518,
+          "like_count": 14756,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 5429
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T11:59:41.000Z",
+        "description": "高一牲 | MTX🏳️‍⚧️ |  泛性恋🏳️‍🌈  | 互fo请私信 | 165cm 42kg左右 | 无证含糖🍥（暂停） | 负能量警告‼️| 今天社交孤儿中 | 坐标江西 | 长期碎碎念 | 抑郁质人格 |定位偏左 | 原(斯仁s-315) | \n副人格：@s315258043",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "s315258043"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utopia72320",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utopia72320",
+                "start": 0,
+                "url": "https://t.co/1fYFYOuHT2"
+              }
+            ]
+          }
+        },
+        "id": "1902691463252852736",
+        "is_identity_verified": false,
+        "location": "距离你 2.1 km",
+        "most_recent_tweet_id": "2089242641758302580",
+        "name": "参唔-315（叁幺伍） 🏳️‍⚧️",
+        "pinned_tweet_id": "2080044329717080378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902691463252852736/1775240210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088141766457524225/71Nr-3Tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 307,
+          "like_count": 20899,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/1fYFYOuHT2",
+        "username": "xinggu233893",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T01:03:22.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 嵌入式开发｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最爱的🍑：@xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/dKXzgYeQRH"
+              }
+            ]
+          }
+        },
+        "id": "1591959828573757440",
+        "is_identity_verified": false,
+        "location": "1.2km",
+        "most_recent_tweet_id": "2089321154683281783",
+        "name": "水希ちゃん🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591959828573757440/1768892982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 284,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/dKXzgYeQRH",
+        "username": "a2517337359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

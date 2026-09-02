@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2083768603887935727",
+    "created_at": "2026-08-02T06:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083806272810324194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083806272810324194",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083768603887935727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 挂，然后多发好看的图，肯定有钱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2083768603887935727",
+        "created_at": "2026-08-02T06:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083806272810324194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083806272810324194",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083768603887935727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 挂，然后多发好看的图，肯定有钱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2083768603887935727",
+        "created_at": "2026-08-02T04:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083768603887935727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083768603887935727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "阿零一直内心很纠结，到底要不要挂收款码在主页，但是想想这样不太好吧，毕竟其实父母亲还算勉勉强强能给予身体的最低下限（实际上就是这样），然后总感觉在此基础上还收别人的钱，总感觉不好意思，而且，也有挺多可爱的好朋友们来问阿零需不需要，或者请吃饭，但阿零都拒绝了，实在感谢你们，你们很好，阿零很开心，这样的精神食粮，阿零早就吃的饱饱的辣🥰。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿零一直内心很纠结，到底要不要挂收款码在主页，但是想想这样不太好吧，毕竟其实父母亲还算勉勉强强能给予身体的最低下限（实际上就是这样），然后总感觉在此基础上还收别人的钱，总感觉不好意思，而且，也有挺多可爱的好朋友们来问阿零需不需要，或者请吃饭，但阿零都拒绝了，实在感谢你们，你们很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 516,
+          "like_count": 13375,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 4988
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |爱臭美|体弱多病 | MTF🏳️‍⚧️ | 🥰普瑞巴林🥵PR80😋重度依赖😍 |只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \n*我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2083428137782980812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 380,
+          "like_count": 2275,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1096
+        },
+        "url": "",
+        "username": "2020520Rei",
+        "verified": true
+      }
+    ]
+  }
+}

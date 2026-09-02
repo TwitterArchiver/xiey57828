@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2080299861271064840",
+    "created_at": "2026-07-23T14:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080299861271064840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080299861271064840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我总是会有一股爽感从胸腔下面肚脐上面那个位置传向四周，向下大概到大腿根部停了向上大概到胸腔停了，每次持续一两秒，好舒服好爽 。\n\n不是发情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2080299861271064840",
+        "created_at": "2026-07-23T14:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080299861271064840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080299861271064840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总是会有一股爽感从胸腔下面肚脐上面那个位置传向四周，向下大概到大腿根部停了向上大概到胸腔停了，每次持续一两秒，好舒服好爽 。\n\n不是发情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n一般情况不再fo人了，介意就别fo我\n\n恋人@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "ABC13067637"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 522,
+          "like_count": 12540,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 4762
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2093327585694662684",
+    "created_at": "2026-08-28T13:20:25.000Z",
+    "display_text_range": [
+      20,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093327845347196975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057831680308920320",
+          "start": 0,
+          "username": "Wrin520"
+        },
+        {
+          "end": 19,
+          "id": "1280075700851011589",
+          "start": 9,
+          "username": "OvO332233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093327845347196975",
+    "in_reply_to_user_id": "2057831680308920320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093327585694662684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wrin520 @OvO332233 好似喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2093327585694662684",
+        "created_at": "2026-08-28T13:20:25.000Z",
+        "display_text_range": [
+          20,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093327845347196975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057831680308920320",
+              "start": 0,
+              "username": "Wrin520"
+            },
+            {
+              "end": 19,
+              "id": "1280075700851011589",
+              "start": 9,
+              "username": "OvO332233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093327845347196975",
+        "in_reply_to_user_id": "2057831680308920320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093327585694662684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wrin520 @OvO332233 好似喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057831680308920320",
+        "conversation_id": "2093327585694662684",
+        "created_at": "2026-08-28T13:19:23.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093327585694662684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1280075700851011589",
+              "start": 80,
+              "username": "OvO332233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093327585694662684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来我第一次代理小柒账号想看看能不能整点活结果她让我代理使用的原因就是因为她要死😡\n唉，希望她还活着吧\n               ——from 无敌爆爆龙（@OvO332233）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2093327845347196975",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 532,
+          "like_count": 16238,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 5881
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:31:45.000Z",
+        "description": "简介不知道写什么喵\n我是Wrin\n纯日常帖\n希望得到关心谢谢喵",
+        "id": "2057831680308920320",
+        "is_identity_verified": false,
+        "location": "黑塔空间站",
+        "most_recent_tweet_id": "2093327585694662684",
+        "name": "Wrin🍥✝️❤️🔞🚾0️⃣🩸💊💣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057831680308920320/1781621617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074642025744662528/Fk9dt44z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 344,
+          "like_count": 298,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "Wrin520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "我也要当心理委员！\n大号@error332233\n貌似被shadowban了所以玩小号！\n06｜不OD｜mtf但是代称无所谓！｜有证等待含糖 \n碎碎念吗，可能有点负能量希望不要被我影响到\n讲真，现在这个更像是大号了（）\n我要努力！我要帮助每一个人！（但愿吧……）\n最爱的喵喵! @Miaowuke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "error332233"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "Miaowuke"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "is_identity_verified": false,
+        "location": "EveryWhere！",
+        "most_recent_tweet_id": "2093235419735552254",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "2062176813137494375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280075700851011589/1715497532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 258,
+          "like_count": 26709,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2658
+        },
+        "url": "",
+        "username": "OvO332233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

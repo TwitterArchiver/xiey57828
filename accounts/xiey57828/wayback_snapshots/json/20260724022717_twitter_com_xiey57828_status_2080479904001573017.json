@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2080374083988918685",
+    "created_at": "2026-07-24T02:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080479904001573017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "844104170",
+          "start": 0,
+          "username": "cainerb0389"
+        },
+        {
+          "end": 24,
+          "id": "1868438397083410432",
+          "start": 13,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080479904001573017",
+    "in_reply_to_user_id": "844104170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080374211948724242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cainerb0389 @2020520Rei 你也要吃亚硝酸钠吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2080374083988918685",
+        "created_at": "2026-07-24T02:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080479904001573017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "844104170",
+              "start": 0,
+              "username": "cainerb0389"
+            },
+            {
+              "end": 24,
+              "id": "1868438397083410432",
+              "start": 13,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080479904001573017",
+        "in_reply_to_user_id": "844104170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080374211948724242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cainerb0389 @2020520Rei 你也要吃亚硝酸钠吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "844104170",
+        "conversation_id": "2080374083988918685",
+        "created_at": "2026-07-23T19:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080374211948724242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080374211948724242",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080374083988918685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 甜咸都爱，甜里加点盐真的会更上头吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n一般情况不再fo人了，介意就别fo我\n\n恋人@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "ABC13067637"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 521,
+          "like_count": 12554,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 4767
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-24T18:54:54.000Z",
+        "description": "银狐VPN，先下载，后安心。免费2天，邀请再送1天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/6gjIGyZC6L"
+              }
+            ]
+          }
+        },
+        "id": "844104170",
+        "name": "银狐VPN网络加速站",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078209478269267968/mQWz4d2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/6gjIGyZC6L",
+        "username": "cainerb0389",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 🔪💊已经慢慢没了 | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \n*我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079454346442682636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 211,
+          "like_count": 1744,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 785
+        },
+        "url": "",
+        "username": "2020520Rei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2088221553112605019",
+    "created_at": "2026-08-15T02:14:30.000Z",
+    "display_text_range": [
+      14,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T03:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088449220579876866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443444056701370371",
+          "start": 0,
+          "username": "tina63991073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088449220579876866",
+    "in_reply_to_user_id": "1443444056701370371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088221553112605019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tina63991073 其实有照片的，而且我也说了我是丑男，不像你们pass的被叫习惯了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2088221553112605019",
+        "created_at": "2026-08-15T02:14:30.000Z",
+        "display_text_range": [
+          14,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088449220579876866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088449220579876866",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088221553112605019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tina63991073 其实有照片的，而且我也说了我是丑男，不像你们pass的被叫习惯了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443444056701370371",
+        "conversation_id": "2088221553112605019",
+        "created_at": "2026-08-14T11:09:50.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088221553112605019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088221553112605019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17106,
+          "like_count": 134,
+          "quote_count": 2,
+          "reply_count": 66,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "发现个怪谈，我首页上那些长得很好看很pass喜欢发照片的推友没人看。\n然后翻遍主页没一张照片的人，在今天发了句“被店员认成女性了”底下就一堆人回复羡慕姐姐，姐姐pass成啥了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2088449220579876866",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 513,
+          "like_count": 14340,
+          "listed_count": 4,
+          "media_count": 309,
+          "tweet_count": 5302
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 只回口令，上海/男娘",
+        "id": "1443444056701370371",
+        "is_identity_verified": true,
+        "location": "188（好友位  接接接",
+        "most_recent_tweet_id": "2088309947603808291",
+        "name": "富江江",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443444056701370371/1780927147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088305982753366016/9Wd7mZpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89216,
+          "following_count": 603,
+          "like_count": 10600,
+          "listed_count": 271,
+          "media_count": 966,
+          "tweet_count": 8705
+        },
+        "url": "",
+        "username": "tina63991073",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

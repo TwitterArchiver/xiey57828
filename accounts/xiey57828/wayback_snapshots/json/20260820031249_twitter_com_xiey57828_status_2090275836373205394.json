@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090275826550153218"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2090275836373205394",
+    "created_at": "2026-08-20T03:12:49.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T04:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090275836373205394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDqwnapywe",
+          "end": 41,
+          "expanded_url": "https://x.com/xiey57828/status/2090275836373205394/photo/1",
+          "media_key": "3_2090275826550153218",
+          "start": 18,
+          "url": "https://t.co/WDqwnapywe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090275836373205394",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090275826550153218"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏，考上研没有补贴，考上大学才有😭 https://t.co/WDqwnapywe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090275826550153218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQImyhwboAIFdZl.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090275826550153218"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2090275836373205394",
+        "created_at": "2026-08-20T03:12:49.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090275836373205394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDqwnapywe",
+              "end": 41,
+              "expanded_url": "https://x.com/xiey57828/status/2090275836373205394/photo/1",
+              "media_key": "3_2090275826550153218",
+              "start": 18,
+              "url": "https://t.co/WDqwnapywe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090275836373205394",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090275826550153218"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏，考上研没有补贴，考上大学才有😭 https://t.co/WDqwnapywe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2090275836373205394",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 511,
+          "like_count": 15139,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 5558
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

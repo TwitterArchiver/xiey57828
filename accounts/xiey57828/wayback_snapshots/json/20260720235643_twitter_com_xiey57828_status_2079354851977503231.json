@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2079354851977503231",
+    "created_at": "2026-07-20T23:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T00:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079354851977503231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/katieebug55/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/katieebug55/status/2079338389984210957",
+          "start": 9,
+          "url": "https://t.co/PmTiuO9Hch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079354851977503231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079338389984210957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就连机器人都知道 https://t.co/PmTiuO9Hch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2079354851977503231",
+        "created_at": "2026-07-20T23:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079354851977503231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/katieebug55/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/katieebug55/status/2079338389984210957",
+              "start": 9,
+              "url": "https://t.co/PmTiuO9Hch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079354851977503231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079338389984210957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就连机器人都知道 https://t.co/PmTiuO9Hch"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271338561",
+        "conversation_id": "2079338058403762255",
+        "created_at": "2026-07-20T22:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079338389984210957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079338389984210957",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079338058403762255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 先照顾好自己，才有余力面对其他事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n一般情况不再fo人了，介意就别fo我\n\n恋人@ABC13067637",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "ABC13067637"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2078714978450931808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 520,
+          "like_count": 12250,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 4695
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-16T03:40:06.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/fZc0PRMRSm"
+              }
+            ]
+          }
+        },
+        "id": "1271338561",
+        "name": "银狐VPN极速直连",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078809288559017984/lqqxkw7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/fZc0PRMRSm",
+        "username": "katieebug55",
+        "verified": false
+      }
+    ]
+  }
+}

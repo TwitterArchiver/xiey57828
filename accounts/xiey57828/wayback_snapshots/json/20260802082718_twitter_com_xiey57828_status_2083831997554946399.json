@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2083234856943972357",
+    "created_at": "2026-08-02T08:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083831997554946399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1495326365465264128",
+          "start": 0,
+          "username": "q53201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083831997554946399",
+    "in_reply_to_user_id": "1495326365465264128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083830656455643352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q53201 是不是你把我举报封了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2083234856943972357",
+        "created_at": "2026-08-02T08:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083831997554946399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1495326365465264128",
+              "start": 0,
+              "username": "q53201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083831997554946399",
+        "in_reply_to_user_id": "1495326365465264128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083830656455643352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q53201 是不是你把我举报封了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495326365465264128",
+        "conversation_id": "2083234856943972357",
+        "created_at": "2026-08-02T08:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083830656455643352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            },
+            {
+              "end": 29,
+              "id": "1385796067116027905",
+              "start": 15,
+              "username": "poemcloud8000"
+            },
+            {
+              "end": 40,
+              "id": "1887391023976038400",
+              "start": 30,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083830656455643352",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083464374211985807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao @poemcloud8000 @xiey57828 确实是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 516,
+          "like_count": 13385,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 4990
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T09:16:11.000Z",
+        "description": "2026年3月28日开始HRT🍥\n欢迎互fo",
+        "id": "1495326365465264128",
+        "name": "樱雪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082702823721213952/rne9zj2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 273,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "q53201",
+        "verified": true
+      }
+    ]
+  }
+}

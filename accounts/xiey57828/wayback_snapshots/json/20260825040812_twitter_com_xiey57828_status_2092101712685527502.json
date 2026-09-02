@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2092101712685527502",
+    "created_at": "2026-08-25T04:08:12.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T05:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092101712685527502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594297311836143616",
+          "start": 3,
+          "username": "xiwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092101712685527502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091991303617950047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiwu0721: gd越来越严重了，刚才狠狠地锤了几下两坨肿瘤，痛死我了喵😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2092101712685527502",
+        "created_at": "2026-08-25T04:08:12.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092101712685527502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594297311836143616",
+              "start": 3,
+              "username": "xiwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092101712685527502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091991303617950047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiwu0721: gd越来越严重了，刚才狠狠地锤了几下两坨肿瘤，痛死我了喵😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594297311836143616",
+        "conversation_id": "2091991303617950047",
+        "created_at": "2026-08-24T20:49:28.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091991303617950047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091991303617950047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1030,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "gd越来越严重了，刚才狠狠地锤了几下两坨肿瘤，痛死我了喵😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2092101712685527502",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 533,
+          "like_count": 15763,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 5753
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-20T11:51:36.000Z",
+        "description": "小证含糖🍥MtF🏳️‍⚧️/HRT Since 2026.3.12🍬/SRS倒计时两年攒钱ing/SJTU🏫休学中/同类互fo（没看到请私信我） 贴贴喵🥺/家长反对党😭已被赶出门😇（离家出走）/喜欢可爱的事物🥰想要很多朋友/永远活在16岁✨",
+        "id": "1594297311836143616",
+        "is_identity_verified": false,
+        "location": "风信子号",
+        "most_recent_tweet_id": "2092001916616401264",
+        "name": "夕雾🏳️‍⚧🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040815765197316096/KCGQMePy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 476,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "xiwu0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

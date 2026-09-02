@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2087686912408699147",
+    "created_at": "2026-08-12T23:45:21.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T00:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087686912408699147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Re_ZaoTon/stat…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Re_ZaoTon/status/2087557524866417072",
+          "start": 41,
+          "url": "https://t.co/fOkQpf2tXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087686912408699147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087557524866417072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有什么话咱直白一点说不好吗，还在那释放虚假的善意，我们讨厌都是直接说或者直接骂的 https://t.co/fOkQpf2tXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2087557511352385536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh-fwhbgAAesCb.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1052,
+        "media_key": "3_2087557519048843264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh-gNMaIAAVk6_.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2087686912408699147",
+        "created_at": "2026-08-12T23:45:21.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087686912408699147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Re_ZaoTon/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Re_ZaoTon/status/2087557524866417072",
+              "start": 41,
+              "url": "https://t.co/fOkQpf2tXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087686912408699147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087557524866417072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有什么话咱直白一点说不好吗，还在那释放虚假的善意，我们讨厌都是直接说或者直接骂的 https://t.co/fOkQpf2tXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087557511352385536",
+            "3_2087557519048843264"
+          ]
+        },
+        "author_id": "1863319222765428736",
+        "conversation_id": "2087557524866417072",
+        "created_at": "2026-08-12T15:11:13.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087557524866417072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMTIepHjNY",
+              "end": 41,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2087557524866417072/photo/1",
+              "media_key": "3_2087557511352385536",
+              "start": 18,
+              "url": "https://t.co/MMTIepHjNY"
+            },
+            {
+              "display_url": "pic.x.com/MMTIepHjNY",
+              "end": 41,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2087557524866417072/photo/1",
+              "media_key": "3_2087557519048843264",
+              "start": 18,
+              "url": "https://t.co/MMTIepHjNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087557524866417072",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087557511352385536"
+          },
+          {
+            "media_key": "3_2087557519048843264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1611,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈就是这样那我也无话可说了... https://t.co/MMTIepHjNY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2087686912408699147",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 514,
+          "like_count": 14040,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 5222
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21（不是跨）｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农民🌾｜生产日期09 06 01🥳｜账号用来随便发点东西，分享自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 121,
+                "expanded_url": "http://2345.lgbt",
+                "start": 98,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2087569106358960466",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2086812930562298141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1785402666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 364,
+          "like_count": 14010,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

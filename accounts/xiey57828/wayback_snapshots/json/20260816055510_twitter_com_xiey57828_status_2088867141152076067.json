@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2088629494475321847",
+    "created_at": "2026-08-16T05:55:10.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088867141152076067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087466297722560512",
+          "start": 0,
+          "username": "Mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088867141152076067",
+    "in_reply_to_user_id": "2087466297722560512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088629494475321847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mwdxj29477 不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2088629494475321847",
+        "created_at": "2026-08-16T05:55:10.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088867141152076067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087466297722560512",
+              "start": 0,
+              "username": "Mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088867141152076067",
+        "in_reply_to_user_id": "2087466297722560512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088629494475321847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mwdxj29477 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087466297722560512",
+        "conversation_id": "2088629494475321847",
+        "created_at": "2026-08-15T14:10:50.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088629494475321847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088629494475321847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 691,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扭转和精卫让我胖到了60.5kg😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2088867141152076067",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 515,
+          "like_count": 14485,
+          "listed_count": 4,
+          "media_count": 311,
+          "tweet_count": 5342
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T09:10:31.000Z",
+        "description": "|MtX?🏳️‍⚧️| Hrt01.28.2026|初二牲|\n|年龄党+家长反对党|已出扭转\n|已炸柜|oder💊|生产日期:11.13.2011\n|161cm61kg|有点笨笨的🥺\n|INFP-T | 重度社恐|希望不登校\n|渴望在家里躺尸|同类互fo喵~\n|@UnkXyn|http://t.co/pSlJYI21uo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 131,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/unkxyn2",
+                "end": 161,
+                "expanded_url": "http://NGL.Link/unkxyn2",
+                "start": 139,
+                "url": "http://t.co/pSlJYI21uo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/unkxyn",
+                "end": 23,
+                "expanded_url": "http://telegram.me/unkxyn",
+                "start": 0,
+                "url": "https://t.co/WTwGTpr9Em"
+              }
+            ]
+          }
+        },
+        "id": "2087466297722560512",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2088822367858626728",
+        "name": "✟𝑼𝒏𝒌✟🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087466297722560512/1786544998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088511359164272640/_GSM6QJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 127,
+          "like_count": 96,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/WTwGTpr9Em",
+        "username": "Mwdxj29477",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

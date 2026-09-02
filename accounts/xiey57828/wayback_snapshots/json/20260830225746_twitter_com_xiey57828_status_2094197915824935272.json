@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2093982840988000657",
+    "created_at": "2026-08-30T22:57:46.000Z",
+    "display_text_range": [
+      10,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094197915824935272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059882544586469376",
+          "start": 0,
+          "username": "Planecys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094197915824935272",
+    "in_reply_to_user_id": "2059882544586469376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094083539818193382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Planecys 学生医保是可以减的，直接用医保支付然后微信支付就减了一部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2093982840988000657",
+        "created_at": "2026-08-30T22:57:46.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094197915824935272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059882544586469376",
+              "start": 0,
+              "username": "Planecys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094197915824935272",
+        "in_reply_to_user_id": "2059882544586469376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094083539818193382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Planecys 学生医保是可以减的，直接用医保支付然后微信支付就减了一部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059882544586469376",
+        "conversation_id": "2093982840988000657",
+        "created_at": "2026-08-30T15:23:16.000Z",
+        "display_text_range": [
+          11,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094083539818193382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094083539818193382",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094035919326289981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 不同地区医保政策不一样，我记得我以前的学生医保卡里是没钱的，除非你走急诊然后找学校报销，或者住院走大病"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "自恨老跨女，开始试着慢慢接受自己中...\n\n同时牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "a2517337359"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2094197915824935272",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 531,
+          "like_count": 16477,
+          "listed_count": 3,
+          "media_count": 352,
+          "tweet_count": 5970
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T06:21:28.000Z",
+        "description": "男娘一枚，间断含🍬，大号🎺又都被封了，不发瑟瑟了，坐标上海杨浦，周末在苏州，超爱打桩哥。",
+        "id": "2059882544586469376",
+        "is_identity_verified": false,
+        "location": "上海杨浦",
+        "most_recent_tweet_id": "2094197736199663759",
+        "name": "是瑶情阿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059882544586469376/1780285863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063426831391617024/Gne38qeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "Planecys",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2093611692525846892",
+    "created_at": "2026-08-29T15:31:44.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T16:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093723280549249200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714835082807234560",
+          "start": 0,
+          "username": "SumikyouHideru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093723280549249200",
+    "in_reply_to_user_id": "1714835082807234560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093611692525846892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SumikyouHideru 你看我像什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2093611692525846892",
+        "created_at": "2026-08-29T15:31:44.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093723280549249200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714835082807234560",
+              "start": 0,
+              "username": "SumikyouHideru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093723280549249200",
+        "in_reply_to_user_id": "1714835082807234560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093611692525846892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SumikyouHideru 你看我像什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714835082807234560",
+        "conversation_id": "2093611692525846892",
+        "created_at": "2026-08-29T08:08:19.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093611692525846892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bghtnya/status/2093252002084257810",
+              "start": 7,
+              "url": "https://t.co/KCZp2SJouq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093611692525846892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093252002084257810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被跨畜吓晕了 https://t.co/KCZp2SJouq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "自恨老跨女，开始试着慢慢接受自己中...\n\n同时牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "a2517337359"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2093723280549249200",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 534,
+          "like_count": 16396,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 5946
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-19T02:45:37.000Z",
+        "description": "amab/mtx但不是x/any pronouns are ok/🍥 since Jun. 2026/大龄药娘/是顺直男哦\n攒钱改变自己中……",
+        "id": "1714835082807234560",
+        "is_identity_verified": false,
+        "location": "江浙沪某城市",
+        "most_recent_tweet_id": "2093611692525846892",
+        "name": "澄恭",
+        "pinned_tweet_id": "2076168912224636978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714835082807234560/1782129960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069008433433677825/QZC7fCFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 26,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "SumikyouHideru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2084060144300970351",
+    "created_at": "2026-08-03T02:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084100365012857096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "501767132",
+          "start": 0,
+          "username": "0623taisei"
+        },
+        {
+          "end": 24,
+          "id": "1873755969815269376",
+          "start": 12,
+          "username": "yuer66666ya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084100365012857096",
+    "in_reply_to_user_id": "501767132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084073365904805984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0623taisei @yuer66666ya 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2084060144300970351",
+        "created_at": "2026-08-03T02:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084100365012857096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "501767132",
+              "start": 0,
+              "username": "0623taisei"
+            },
+            {
+              "end": 24,
+              "id": "1873755969815269376",
+              "start": 12,
+              "username": "yuer66666ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084100365012857096",
+        "in_reply_to_user_id": "501767132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084073365904805984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0623taisei @yuer66666ya 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "501767132",
+        "conversation_id": "2084060144300970351",
+        "created_at": "2026-08-03T00:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084073365904805984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 36,
+              "id": "1873755969815269376",
+              "start": 24,
+              "username": "yuer66666ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084073365904805984",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084060144300970351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 💰 💐 看了半天x就她可以@yuer66666ya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 516,
+          "like_count": 13436,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 5000
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-24T13:16:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/yoneya_0623",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/yoneya_0623",
+                "start": 0,
+                "url": "https://t.co/MXQIdKROnU"
+              }
+            ]
+          }
+        },
+        "id": "501767132",
+        "location": "桑袋団地",
+        "name": "大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644687234124374018/60IKDJzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1302,
+          "like_count": 7084,
+          "listed_count": 0,
+          "media_count": 505,
+          "tweet_count": 8259
+        },
+        "url": "https://t.co/MXQIdKROnU",
+        "username": "0623taisei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T15:40:15.000Z",
+        "description": "找同城长期带坐标联系，女，属性m，喜欢主动且有素质的宝宝，包真诚的。",
+        "id": "1873755969815269376",
+        "location": "距离你4.7km",
+        "name": "雨儿",
+        "pinned_tweet_id": "1912600926919209123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873756062429675521/Omt4SeXb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 16,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "yuer66666ya",
+        "verified": false
+      }
+    ]
+  }
+}

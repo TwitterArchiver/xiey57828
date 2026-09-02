@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2082342171588677747",
+    "created_at": "2026-07-29T07:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082371749472256385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082371749472256385",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082370519429788044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 还真是一样的病😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082370499355779072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYQ77DaoAAy59z.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2082342171588677747",
+        "created_at": "2026-07-29T07:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082371749472256385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082371749472256385",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082370519429788044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 还真是一样的病😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082370499355779072"
+          ]
+        },
+        "author_id": "1965448764686303235",
+        "conversation_id": "2082342171588677747",
+        "created_at": "2026-07-29T07:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082370519429788044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0ZPKKKss2",
+              "end": 40,
+              "expanded_url": "https://x.com/mio_negimeow/status/2082370519429788044/photo/1",
+              "media_key": "3_2082370499355779072",
+              "start": 17,
+              "url": "https://t.co/r0ZPKKKss2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082370519429788044",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082342171588677747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 我也是弱智 https://t.co/r0ZPKKKss2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n一般情况不再fo人了，介意就别fo我\n\n恋人@ABC13067637 & @a2517337359",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "a2517337359"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "太平间天国",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 516,
+          "like_count": 12980,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 4892
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "笨葱猫喵~｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念  |  🏳️‍⚧️  |  姐姐🥰@RrkwM10400",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "RrkwM10400"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowmiku-home.top/ask/",
+                "end": 23,
+                "expanded_url": "https://snowmiku-home.top/ask/",
+                "start": 0,
+                "url": "https://t.co/D65FRZl7CC"
+              }
+            ]
+          }
+        },
+        "id": "1965448764686303235",
+        "location": "提问箱📦→",
+        "name": "酱葱🌱",
+        "pinned_tweet_id": "2076361084647444658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 100,
+          "like_count": 1647,
+          "listed_count": 6,
+          "media_count": 107,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/D65FRZl7CC",
+        "username": "mio_negimeow",
+        "verified": true
+      }
+    ]
+  }
+}

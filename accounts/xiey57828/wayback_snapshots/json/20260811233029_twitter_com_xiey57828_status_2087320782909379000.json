@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2087320782909379000",
+    "created_at": "2026-08-11T23:30:29.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087320782909379000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LeavesMao/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/LeavesMao/status/2087268779013345506",
+          "start": 25,
+          "url": "https://t.co/c1RMS9LuAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087320782909379000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087268779013345506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "干预你妈笔的，人家想死就让人死呗，碍着你了？傻逼 https://t.co/c1RMS9LuAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087268755999166464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd33_AaEAALQ7-.jpg",
+        "width": 1188
+      },
+      {
+        "height": 2750,
+        "media_key": "3_2087268762961727488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd34Y8aUAA4A_S.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2750,
+        "media_key": "3_2087268768405991424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd34tObMAA_mWV.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2087268774840020992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd35FMasAAS_mQ.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2087320782909379000",
+        "created_at": "2026-08-11T23:30:29.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087320782909379000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LeavesMao/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/LeavesMao/status/2087268779013345506",
+              "start": 25,
+              "url": "https://t.co/c1RMS9LuAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087320782909379000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087268779013345506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干预你妈笔的，人家想死就让人死呗，碍着你了？傻逼 https://t.co/c1RMS9LuAv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087268755999166464",
+            "3_2087268762961727488",
+            "3_2087268768405991424",
+            "3_2087268774840020992"
+          ]
+        },
+        "author_id": "1946799807366082560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087268779013345506",
+        "created_at": "2026-08-11T20:03:51.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087268779013345506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自杀干预"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1868438397083410432",
+              "start": 6,
+              "username": "2020520Rei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268755999166464",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268762961727488",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268768405991424",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            },
+            {
+              "display_url": "pic.x.com/ivQ8xulyuL",
+              "end": 89,
+              "expanded_url": "https://x.com/LeavesMao/status/2087268779013345506/photo/1",
+              "media_key": "3_2087268774840020992",
+              "start": 66,
+              "url": "https://t.co/ivQ8xulyuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087268779013345506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087268755999166464"
+          },
+          {
+            "media_key": "3_2087268762961727488"
+          },
+          {
+            "media_key": "3_2087268768405991424"
+          },
+          {
+            "media_key": "3_2087268774840020992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 866,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#自杀干预 @2020520Rei  疑似已经吞药昏迷 我已经报警了... 希望一切平安... 阿零说没事的...就一定没事... https://t.co/ivQ8xulyuL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2087320782909379000",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 517,
+          "like_count": 13994,
+          "listed_count": 4,
+          "media_count": 303,
+          "tweet_count": 5211
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "🍥🏳️‍⚧️ 猫猫......叶？\n2009.05.23 | 家暴党 | 独居中 | mtx | hrt 2026.03.18 | INFP | #Minecraft | 对不起我还活着 我不死了对不起…… 我再也不死了 | 好妹妹@NanoCatfish 另一只猫猫叶 @DontLeaveMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 73,
+                "tag": "Minecraft"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 116,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "DontLeaveMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovablemaomao",
+                "end": 23,
+                "expanded_url": "http://ngl.link/lovablemaomao",
+                "start": 0,
+                "url": "https://t.co/NFpt0pkm6h"
+              }
+            ]
+          }
+        },
+        "id": "1946799807366082560",
+        "is_identity_verified": false,
+        "location": "重庆 两江新区 晴 41℃",
+        "most_recent_tweet_id": "2087282115356525040",
+        "name": "🍼猫猫叶TheCat🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082547065276833876",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946799807366082560/1785295903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055121224888664064/q0TB8fg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 637,
+          "like_count": 3244,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/NFpt0pkm6h",
+        "username": "LeavesMao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

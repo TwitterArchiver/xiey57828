@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2093559446534328566",
+    "created_at": "2026-08-29T05:18:31.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093568959060849065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924119398497026050",
+          "start": 0,
+          "username": "HhcvhW18221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093568959060849065",
+    "in_reply_to_user_id": "1924119398497026050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093559446534328566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhcvhW18221 我偶像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2093559434391810050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3RNqMXcAIIrMn.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2093559446534328566",
+        "created_at": "2026-08-29T05:18:31.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093568959060849065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924119398497026050",
+              "start": 0,
+              "username": "HhcvhW18221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093568959060849065",
+        "in_reply_to_user_id": "1924119398497026050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093559446534328566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhcvhW18221 我偶像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093559434391810050"
+          ]
+        },
+        "author_id": "1924119398497026050",
+        "conversation_id": "2093559446534328566",
+        "created_at": "2026-08-29T04:40:43.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093559446534328566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/657Mz2Umbr",
+              "end": 28,
+              "expanded_url": "https://x.com/HhcvhW18221/status/2093559446534328566/photo/1",
+              "media_key": "3_2093559434391810050",
+              "start": 5,
+              "url": "https://t.co/657Mz2Umbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093559446534328566",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093559434391810050"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是谁啊 https://t.co/657Mz2Umbr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2093568959060849065",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 534,
+          "like_count": 16304,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 5904
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-18T15:06:41.000Z",
+        "description": "出厂日期09年9.4号｜无证含糖｜hrt2026.5.19｜TG号 ;https://t.co/TXNcFPNWlV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HhcvhW",
+                "end": 58,
+                "expanded_url": "http://t.me/HhcvhW",
+                "start": 35,
+                "url": "https://t.co/TXNcFPNWlV"
+              }
+            ]
+          }
+        },
+        "id": "1924119398497026050",
+        "is_identity_verified": false,
+        "location": "纳塔 烟迷主",
+        "most_recent_tweet_id": "2093567728711811513",
+        "name": "茜 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093325386926956751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924119398497026050/1784622428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040818645069189120/SUfTwSbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 515,
+          "like_count": 1048,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 1400
+        },
+        "url": "",
+        "username": "HhcvhW18221",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

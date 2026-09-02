@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090572502657638400"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2090570421133627732",
+    "created_at": "2026-08-20T22:51:41.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090572507070030074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UThuqxi01B",
+          "end": 25,
+          "expanded_url": "https://x.com/xiey57828/status/2090572507070030074/photo/1",
+          "media_key": "3_2090572502657638400",
+          "start": 2,
+          "url": "https://t.co/UThuqxi01B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090572507070030074",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090572502657638400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090570421133627732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/UThuqxi01B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_2090572502657638400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQM0nWYboAAvBQN.jpg",
+        "width": 1214
+      },
+      {
+        "height": 858,
+        "media_key": "3_2090570415320252416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMyt2cawAA6bhT.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090572502657638400"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2090570421133627732",
+        "created_at": "2026-08-20T22:51:41.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090572507070030074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UThuqxi01B",
+              "end": 25,
+              "expanded_url": "https://x.com/xiey57828/status/2090572507070030074/photo/1",
+              "media_key": "3_2090572502657638400",
+              "start": 2,
+              "url": "https://t.co/UThuqxi01B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090572507070030074",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090572502657638400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090570421133627732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/UThuqxi01B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090570415320252416"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2090570421133627732",
+        "created_at": "2026-08-20T22:43:23.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090570421133627732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEkaSfaXsk",
+              "end": 34,
+              "expanded_url": "https://x.com/xiey57828/status/2090570421133627732/photo/1",
+              "media_key": "3_2090570415320252416",
+              "start": 11,
+              "url": "https://t.co/mEkaSfaXsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090570421133627732",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090570415320252416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们再也见不到她了😭 https://t.co/mEkaSfaXsk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2090572507070030074",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 511,
+          "like_count": 15235,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 5591
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
