@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095076549192245248"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2094761999939043395",
+    "created_at": "2026-09-02T09:09:30.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095076641303388608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZ89JyR93w",
+          "end": 46,
+          "expanded_url": "https://x.com/xiey57828/status/2095076641303388608/photo/1",
+          "media_key": "3_2095076549192245248",
+          "start": 23,
+          "url": "https://t.co/XZ89JyR93w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095076641303388608",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095076549192245248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094761999939043395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao 波动小真让人放心🥰 https://t.co/XZ89JyR93w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_2095076549192245248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRM1BXPa4AAinr6.jpg",
+        "width": 1212
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2094761990577438720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIW7pFbwAALlsG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095076549192245248"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2094761999939043395",
+        "created_at": "2026-09-02T09:09:30.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095076641303388608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZ89JyR93w",
+              "end": 46,
+              "expanded_url": "https://x.com/xiey57828/status/2095076641303388608/photo/1",
+              "media_key": "3_2095076549192245248",
+              "start": 23,
+              "url": "https://t.co/XZ89JyR93w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095076641303388608",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095076549192245248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094761999939043395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 波动小真让人放心🥰 https://t.co/XZ89JyR93w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094761990577438720"
+          ]
+        },
+        "author_id": "616537873",
+        "conversation_id": "2094761999939043395",
+        "created_at": "2026-09-01T12:19:14.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094761999939043395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPEy2Z5neF",
+              "end": 42,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2094761999939043395/photo/1",
+              "media_key": "3_2094761990577438720",
+              "start": 19,
+              "url": "https://t.co/bPEy2Z5neF"
+            },
+            {
+              "display_url": "x.com/aaarjkkmiao/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/aaarjkkmiao/status/2094736379616075942",
+              "start": 43,
+              "url": "https://t.co/W7DHQUqFNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094761999939043395",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094761990577438720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094736379616075942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更正一下🤭，之前是我忘记设置体重了😅 https://t.co/bPEy2Z5neF https://t.co/W7DHQUqFNv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "自恨老跨女，开始试着慢慢接受自己中...\n\n同时牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "a2517337359"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2095076641303388608",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 534,
+          "like_count": 16727,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 6060
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo卡进后室寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)\n🤍@a0brjkkmiao🤭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2095071106843680781",
+        "name": "是貓貓喵🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 515,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

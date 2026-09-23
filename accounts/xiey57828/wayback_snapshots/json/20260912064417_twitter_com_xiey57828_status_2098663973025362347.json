@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2098377665300545895",
+    "created_at": "2026-09-12T06:44:17.000Z",
+    "display_text_range": [
+      77,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098663973025362347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        },
+        {
+          "end": 32,
+          "id": "1144647115030708224",
+          "start": 16,
+          "username": "nekotanko_shiro"
+        },
+        {
+          "end": 42,
+          "id": "1254708490267799553",
+          "start": 33,
+          "username": "tangyity"
+        },
+        {
+          "end": 53,
+          "id": "2014962288567160832",
+          "start": 43,
+          "username": "yun228922"
+        },
+        {
+          "end": 63,
+          "id": "1724348868585013248",
+          "start": 54,
+          "username": "KiriyoXX"
+        },
+        {
+          "end": 76,
+          "id": "1234134115181457409",
+          "start": 64,
+          "username": "RIMUnawakon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098663973025362347",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098377665300545895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky @nekotanko_shiro @tangyity @yun228922 @KiriyoXX @RIMUnawakon 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2098377655016169472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7vXAvbIAA6c4O.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2098377665300545895",
+        "created_at": "2026-09-12T06:44:17.000Z",
+        "display_text_range": [
+          77,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098663973025362347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 32,
+              "id": "1144647115030708224",
+              "start": 16,
+              "username": "nekotanko_shiro"
+            },
+            {
+              "end": 42,
+              "id": "1254708490267799553",
+              "start": 33,
+              "username": "tangyity"
+            },
+            {
+              "end": 53,
+              "id": "2014962288567160832",
+              "start": 43,
+              "username": "yun228922"
+            },
+            {
+              "end": 63,
+              "id": "1724348868585013248",
+              "start": 54,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 76,
+              "id": "1234134115181457409",
+              "start": 64,
+              "username": "RIMUnawakon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098663973025362347",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098377665300545895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky @nekotanko_shiro @tangyity @yun228922 @KiriyoXX @RIMUnawakon 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098377655016169472"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098377665300545895",
+        "created_at": "2026-09-11T11:46:36.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098377665300545895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1144647115030708224",
+              "start": 11,
+              "username": "nekotanko_shiro"
+            },
+            {
+              "end": 38,
+              "id": "1254708490267799553",
+              "start": 29,
+              "username": "tangyity"
+            },
+            {
+              "end": 50,
+              "id": "2014962288567160832",
+              "start": 40,
+              "username": "yun228922"
+            },
+            {
+              "end": 61,
+              "id": "1724348868585013248",
+              "start": 52,
+              "username": "KiriyoXX"
+            },
+            {
+              "end": 75,
+              "id": "1234134115181457409",
+              "start": 63,
+              "username": "RIMUnawakon"
+            }
+          ],
+          "urls": [
+            {
+              "description": "台灣跨圈聯盟 — 跨性別 Professional Wiki、研討峰會與部落格平台。",
+              "display_url": "Trans.Kiriyo.Link",
+              "end": 99,
+              "expanded_url": "https://Trans.Kiriyo.Link",
+              "start": 76,
+              "status": 200,
+              "title": "首頁 | 台灣跨圈聯盟",
+              "unwound_url": "https://Trans.Kiriyo.Link",
+              "url": "https://t.co/U5KJutJiz0"
+            },
+            {
+              "display_url": "pic.x.com/mbDgtwiFam",
+              "end": 123,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2098377665300545895/photo/1",
+              "media_key": "3_2098377655016169472",
+              "start": 100,
+              "url": "https://t.co/mbDgtwiFam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098377665300545895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098377655016169472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1871,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "台灣xyn世紀大面基\n@nekotanko_shiro \n@tangyity \n@yun228922 \n@KiriyoXX \n@RIMUnawakon\nhttps://t.co/U5KJutJiz0 https://t.co/mbDgtwiFam"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "投喂沐桃→",
+        "most_recent_tweet_id": "2098663973025362347",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 555,
+          "like_count": 17371,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 6294
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "抑鬱好不舒服😖 有多重人格🥺 常駐躁狂ing\n確診:重度憂鬱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5UTU7"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "0.1km  在台灣             問喵問題！➡️",
+        "most_recent_tweet_id": "2098611691311550488",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2087597485330174044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 2535,
+          "like_count": 105776,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 8428
+        },
+        "url": "https://t.co/7K5di5UTU7",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-28T16:41:53.000Z",
+        "description": "吃糖的一隻貓/mtf.x/姛/貝歇氏症/ベーチェット病🐱🏳️‍⚧️\n最愛的妹妹:@xian_zi17640\nGAHT:2026/06/05 アンドロカー/安德卡 06/12 プロギノバ/補佳樂🍥\n台灣華語/台語/日本語N1\n98碼農大貓 風景/星景/動物/交通攝影📷\n可以叫我小白/白醬/しろちゃんで呼んでね🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "xian_zi17640"
+              }
+            ]
+          }
+        },
+        "id": "1144647115030708224",
+        "is_identity_verified": false,
+        "location": "そらの果て",
+        "most_recent_tweet_id": "2098644387253383530",
+        "name": "ねこたん-白🐱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088530748236242975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144647115030708224/1785685617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083124833509052416/38zTT0fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 1095,
+          "like_count": 17849,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 2848
+        },
+        "url": "",
+        "username": "nekotanko_shiro",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T09:46:42.000Z",
+        "description": "台灣的mtf osu std/taiko/catch/maina player\n\nhttps://t.co/wjQ3ayIsXA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/21520031",
+                "end": 64,
+                "expanded_url": "https://osu.ppy.sh/users/21520031",
+                "start": 41,
+                "url": "https://t.co/wjQ3ayIsXA"
+              }
+            ]
+          }
+        },
+        "id": "1254708490267799553",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2098632790413840821",
+        "name": "糖伊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254708490267799553/1648896677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865720533146648576/qcx-jNsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 183,
+          "like_count": 2573,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1087
+        },
+        "url": "",
+        "username": "tangyity",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-24T07:24:03.000Z",
+        "description": "殘存的櫻花碎片 終究會 重新開出 淡粉色的希望",
+        "id": "2014962288567160832",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2098383798899757510",
+        "name": "緣 落芳",
+        "pinned_tweet_id": "2098376031447269835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014962288567160832/1783622849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075953244208308224/9u9FlDco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 319,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "yun228922",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 台灣跨圈聯盟(https://t.co/deAyJObD6j) 召集人 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組 / 開發者兼企業家兼夢想家 / 雙北面面 / 165,46kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trans.kiriyo.link",
+                "end": 36,
+                "expanded_url": "http://trans.kiriyo.link",
+                "start": 13,
+                "url": "https://t.co/deAyJObD6j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "world.kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://world.kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/HyV8DwVGOn"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "is_identity_verified": false,
+        "location": "Taiwan Taipei",
+        "most_recent_tweet_id": "2096526916270645420",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724348868585013248/1771069604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086693685950054400/aqvzC4Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 86,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/HyV8DwVGOn",
+        "username": "KiriyoXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-01T15:11:24.000Z",
+        "description": "MTF｜HRT |中度憂鬱重度未滿｜無藥可救拘束癖｜TK、DID、強高｜喜歡跟人貼貼歡迎來摸摸我抱抱我",
+        "id": "1234134115181457409",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098388230353895753",
+        "name": "RIMU🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234134115181457409/1748197747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926707064639733760/RweP_bSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 420,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "RIMUnawakon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2099277000645222530",
+    "created_at": "2026-09-13T23:55:21.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T00:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099285837079015749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088588358050340864",
+          "start": 0,
+          "username": "coder_wanfeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099285837079015749",
+    "in_reply_to_user_id": "2088588358050340864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099278700504363508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coder_wanfeng 很多跨？😱羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2099277000645222530",
+        "created_at": "2026-09-13T23:55:21.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T00:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099285837079015749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088588358050340864",
+              "start": 0,
+              "username": "coder_wanfeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099285837079015749",
+        "in_reply_to_user_id": "2088588358050340864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099278700504363508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coder_wanfeng 很多跨？😱羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088588358050340864",
+        "conversation_id": "2099277000645222530",
+        "created_at": "2026-09-13T23:26:59.000Z",
+        "display_text_range": [
+          11,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T00:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099278700504363508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099278700504363508",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099277000645222530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 虽然我没在学校里碰见同类....\n但是...据我浙工大的同学说...她那里跨会\"传染\"欸..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "投喂沐桃→",
+        "most_recent_tweet_id": "2099285837079015749",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 558,
+          "like_count": 17428,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 6316
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T11:28:56.000Z",
+        "description": "Ciallo～\n雌化的新式程序员(其实大一)～\n试图去回龙观找邸晓兰奶奶开小证ing...(2026.9.18)\n170cm / 59kg | 生产日期 2008 04 03\n不定期分享生活中的点点滴滴\n偶尔会更新涩(划掉)图哦～",
+        "id": "2088588358050340864",
+        "is_identity_verified": false,
+        "location": "(仅寒暑假)天津 | 中国石油大学 (北京) 昌平校区",
+        "most_recent_tweet_id": "2099280450959397299",
+        "name": "挽枫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088588358050340864/1787190643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088599900938485760/v4iiC7gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 173,
+          "like_count": 646,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "coder_wanfeng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

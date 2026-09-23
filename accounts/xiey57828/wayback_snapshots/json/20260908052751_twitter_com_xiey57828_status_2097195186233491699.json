@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2097179384478392550",
+    "created_at": "2026-09-08T05:27:51.000Z",
+    "display_text_range": [
+      30,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097195186233491699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385796067116027905",
+          "start": 0,
+          "username": "poemcloud8000"
+        },
+        {
+          "end": 29,
+          "id": "1937119059277139968",
+          "start": 15,
+          "username": "OmaeKumiko529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097195186233491699",
+    "in_reply_to_user_id": "1385796067116027905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097179384478392550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poemcloud8000 @OmaeKumiko529 羡慕xql"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "緑の谷に沿って山間の台地に電線が張られている",
+        "height": 4096,
+        "media_key": "3_2097179269164404736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqtbxjbkAA2F3H.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097179292593692672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqtdI1aIAANVxO.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2097179343319683072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqtgFzbUAAfu7m.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2097179365503377408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqthYcboAAwskm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2097179384478392550",
+        "created_at": "2026-09-08T05:27:51.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097195186233491699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385796067116027905",
+              "start": 0,
+              "username": "poemcloud8000"
+            },
+            {
+              "end": 29,
+              "id": "1937119059277139968",
+              "start": 15,
+              "username": "OmaeKumiko529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097195186233491699",
+        "in_reply_to_user_id": "1385796067116027905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097179384478392550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poemcloud8000 @OmaeKumiko529 羡慕xql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097179269164404736",
+            "3_2097179292593692672",
+            "3_2097179343319683072",
+            "3_2097179365503377408"
+          ]
+        },
+        "author_id": "1385796067116027905",
+        "conversation_id": "2097179384478392550",
+        "created_at": "2026-09-08T04:25:03.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097179384478392550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 147,
+              "id": "1937119059277139968",
+              "start": 133,
+              "username": "OmaeKumiko529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YEJozNSDX0",
+              "end": 171,
+              "expanded_url": "https://x.com/poemcloud8000/status/2097179384478392550/photo/1",
+              "media_key": "3_2097179269164404736",
+              "start": 148,
+              "url": "https://t.co/YEJozNSDX0"
+            },
+            {
+              "display_url": "pic.x.com/YEJozNSDX0",
+              "end": 171,
+              "expanded_url": "https://x.com/poemcloud8000/status/2097179384478392550/photo/1",
+              "media_key": "3_2097179292593692672",
+              "start": 148,
+              "url": "https://t.co/YEJozNSDX0"
+            },
+            {
+              "display_url": "pic.x.com/YEJozNSDX0",
+              "end": 171,
+              "expanded_url": "https://x.com/poemcloud8000/status/2097179384478392550/photo/1",
+              "media_key": "3_2097179343319683072",
+              "start": 148,
+              "url": "https://t.co/YEJozNSDX0"
+            },
+            {
+              "display_url": "pic.x.com/YEJozNSDX0",
+              "end": 171,
+              "expanded_url": "https://x.com/poemcloud8000/status/2097179384478392550/photo/1",
+              "media_key": "3_2097179365503377408",
+              "start": 148,
+              "url": "https://t.co/YEJozNSDX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097179384478392550",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "緑の谷に沿って山間の台地に電線が張られている",
+            "media_key": "3_2097179269164404736"
+          },
+          {
+            "media_key": "3_2097179292593692672"
+          },
+          {
+            "media_key": "3_2097179343319683072"
+          },
+          {
+            "media_key": "3_2097179365503377408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夏山や\n風軽ければ \n人残る\n\n夏山风轻柔\n行人驻足久停留\n风轻渡不走\n\n北京は今日気温が下がり、夏はもう終わりそうですか長沙で過ごした夏を思い出すと、風は静かに吹き、風は想いを寄せることができますが、軽すぎてここに残っている人を連れて行くことができませんでした。 @OmaeKumiko529 https://t.co/YEJozNSDX0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2097195186233491699",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 534,
+          "like_count": 17074,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 6189
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-24T03:21:51.000Z",
+        "description": "Hallo world",
+        "id": "1385796067116027905",
+        "is_identity_verified": false,
+        "location": "Rhode Island",
+        "most_recent_tweet_id": "2097183493667365180",
+        "name": "詩雲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385796067116027905/1782234409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550188704341168128/v3PRGnEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 164,
+          "like_count": 16301,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "poemcloud8000",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T12:02:45.000Z",
+        "description": "ENFP/伊地知虹夏/黄前久美子/全栈开发/OIer与Planner\n法团主义/技术治国⚙/社会主义☭\n目标是成为唯一且真实的自我✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "omaekumiko529.online",
+                "end": 23,
+                "expanded_url": "http://omaekumiko529.online",
+                "start": 0,
+                "url": "https://t.co/w6kbvulsSV"
+              }
+            ]
+          }
+        },
+        "id": "1937119059277139968",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2097152979333955779",
+        "name": "黄前不长酒梅子",
+        "pinned_tweet_id": "2064195950726574562",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937119059277139968/1750689838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020236070873653248/NIbRp30-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 181,
+          "like_count": 12860,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/w6kbvulsSV",
+        "username": "OmaeKumiko529",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

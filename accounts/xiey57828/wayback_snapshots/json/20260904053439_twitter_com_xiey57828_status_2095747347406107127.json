@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095747342603558914"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "conversation_id": "2095747347406107127",
+    "created_at": "2026-09-04T05:34:39.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095747347406107127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JeWhRHJ5O8",
+          "end": 55,
+          "expanded_url": "https://x.com/xiey57828/status/2095747347406107127/photo/1",
+          "media_key": "3_2095747342603558914",
+          "start": 32,
+          "url": "https://t.co/JeWhRHJ5O8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095747347406107127",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095747342603558914"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天早上去上海精神病院，有没有要日雌的有13瓶可以来和我交易。 https://t.co/JeWhRHJ5O8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2095747342603558914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWXGrbaoAIjWih.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095747342603558914"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2095747347406107127",
+        "created_at": "2026-09-04T05:34:39.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095747347406107127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JeWhRHJ5O8",
+              "end": 55,
+              "expanded_url": "https://x.com/xiey57828/status/2095747347406107127/photo/1",
+              "media_key": "3_2095747342603558914",
+              "start": 32,
+              "url": "https://t.co/JeWhRHJ5O8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095747347406107127",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095747342603558914"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天早上去上海精神病院，有没有要日雌的有13瓶可以来和我交易。 https://t.co/JeWhRHJ5O8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。\n\n恋人@a2517337359",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "a2517337359"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2095747347406107127",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 534,
+          "like_count": 16794,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 6093
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

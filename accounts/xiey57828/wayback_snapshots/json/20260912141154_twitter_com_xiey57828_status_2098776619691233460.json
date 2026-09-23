@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2098611667584286761",
+    "created_at": "2026-09-12T14:11:54.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098776619691233460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098776619691233460",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098611667584286761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 666"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16109,
+        "height": 1920,
+        "media_key": "13_2098611593571631105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098611593571631105/img/4y7LjG-kJd3b6LcW.jpg",
+        "public_metrics": {
+          "view_count": 85556
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098611593571631105/pl/exot19HTvWqeU1Ib.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098611593571631105/vid/avc1/1440x1920/YTBnecw9CjYpczx_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098611593571631105/vid/avc1/720x960/rYMXlrTGYf3AV2kk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098611593571631105/vid/avc1/320x426/wmvq6AEWnevVUEZI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098611593571631105/vid/avc1/480x640/hvuFNZ51hgxzOF9o.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2098611667584286761",
+        "created_at": "2026-09-12T14:11:54.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098776619691233460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098776619691233460",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098611667584286761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 666"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098611593571631105"
+          ]
+        },
+        "author_id": "1426207565575192577",
+        "conversation_id": "2098611667584286761",
+        "created_at": "2026-09-12T03:16:26.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098611667584286761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3QalprIC8",
+              "end": 35,
+              "expanded_url": "https://x.com/Lainyer051230/status/2098611667584286761/video/1",
+              "media_key": "13_2098611593571631105",
+              "start": 12,
+              "url": "https://t.co/J3QalprIC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098611667584286761",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098611593571631105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1194,
+          "impression_count": 134590,
+          "like_count": 3675,
+          "quote_count": 1,
+          "reply_count": 495,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "才区区175……唔（） https://t.co/J3QalprIC8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "投喂沐桃→",
+        "most_recent_tweet_id": "2098776619691233460",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 555,
+          "like_count": 17383,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 6299
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜HRT：2026.5.1（26.8.18停药中｜无不良嗜好｜偶尔分享下照片还有生活之类的～｜我的吉祥物推号😋@lovhh2005 ｜可爱小唯唯： @weiweisama1220",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "lovhh2005"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "weiweisama1220"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mawuneko",
+                "end": 23,
+                "expanded_url": "http://t.me/mawuneko",
+                "start": 0,
+                "url": "https://t.co/sGyhuZah47"
+              }
+            ]
+          }
+        },
+        "id": "1426207565575192577",
+        "is_identity_verified": false,
+        "location": "Johor, Malaysia",
+        "most_recent_tweet_id": "2098729506278428862",
+        "name": "千缘sama",
+        "pinned_tweet_id": "2080979883987997106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426207565575192577/1779697729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053778111582584832/F55FNMQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 325,
+          "like_count": 21527,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 3012
+        },
+        "url": "https://t.co/sGyhuZah47",
+        "username": "Lainyer051230",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

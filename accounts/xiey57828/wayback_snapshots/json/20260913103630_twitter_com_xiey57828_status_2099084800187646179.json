@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2099084800187646179",
+    "created_at": "2026-09-13T10:36:30.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099084800187646179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863319222765428736",
+          "start": 3,
+          "username": "Re_ZaoTon"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一篇从偏僻乡村童年写起的跨性别成长自述，记录家庭、性别觉醒、自我探索，以及在漫长风雨中继续活下去的坚韧。",
+          "display_url": "kiramyao.com/stories/246884…",
+          "end": 108,
+          "expanded_url": "https://kiramyao.com/stories/24688445",
+          "start": 85,
+          "status": 200,
+          "title": "生根发芽的毅力",
+          "unwound_url": "https://kiramyao.com/stories/24688445",
+          "url": "https://t.co/1Wyy9SvyYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099084800187646179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099052799438868978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re_ZaoTon: 不知道怎么写自我介绍，就把之前写的一篇自传拿出来吧，感兴趣的可以去看看哦，还有这个网站真的很不错，推荐大家也可以试试来这里分享自己的故事~\nhttps://t.co/1Wyy9SvyYo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2099084800187646179",
+        "created_at": "2026-09-13T10:36:30.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099084800187646179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863319222765428736",
+              "start": 3,
+              "username": "Re_ZaoTon"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一篇从偏僻乡村童年写起的跨性别成长自述，记录家庭、性别觉醒、自我探索，以及在漫长风雨中继续活下去的坚韧。",
+              "display_url": "kiramyao.com/stories/246884…",
+              "end": 108,
+              "expanded_url": "https://kiramyao.com/stories/24688445",
+              "start": 85,
+              "status": 200,
+              "title": "生根发芽的毅力",
+              "unwound_url": "https://kiramyao.com/stories/24688445",
+              "url": "https://t.co/1Wyy9SvyYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099084800187646179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099052799438868978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Re_ZaoTon: 不知道怎么写自我介绍，就把之前写的一篇自传拿出来吧，感兴趣的可以去看看哦，还有这个网站真的很不错，推荐大家也可以试试来这里分享自己的故事~\nhttps://t.co/1Wyy9SvyYo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2099052799438868978",
+        "created_at": "2026-09-13T08:29:20.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099052799438868978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一篇从偏僻乡村童年写起的跨性别成长自述，记录家庭、性别觉醒、自我探索，以及在漫长风雨中继续活下去的坚韧。",
+              "display_url": "kiramyao.com/stories/246884…",
+              "end": 93,
+              "expanded_url": "https://kiramyao.com/stories/24688445",
+              "start": 70,
+              "status": 200,
+              "title": "生根发芽的毅力",
+              "unwound_url": "https://kiramyao.com/stories/24688445",
+              "url": "https://t.co/1Wyy9SvyYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099052799438868978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 333,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道怎么写自我介绍，就把之前写的一篇自传拿出来吧，感兴趣的可以去看看哦，还有这个网站真的很不错，推荐大家也可以试试来这里分享自己的故事~\nhttps://t.co/1Wyy9SvyYo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "投喂沐桃→",
+        "most_recent_tweet_id": "2099084800187646179",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 558,
+          "like_count": 17418,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 6310
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用于分享日常，发表自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 117,
+                "expanded_url": "http://2345.lgbt",
+                "start": 94,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2099055755110547966",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2099052799438868978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1787493431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519816440176640/lzogbhRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 394,
+          "like_count": 18274,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
