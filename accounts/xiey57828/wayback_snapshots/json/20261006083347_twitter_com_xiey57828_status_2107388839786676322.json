@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2107388839786676322",
+    "created_at": "2026-10-06T08:33:47.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107388839786676322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863319222765428736",
+          "start": 3,
+          "username": "Re_ZaoTon"
+        }
+      ],
+      "urls": [
+        {
+          "description": "枣桐酱🍥's Space · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1mxPa…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/spaces/1mxPaZADPAVKN",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2107388192957825024/rg7L7IhM?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2107388192957825024/rg7L7IhM?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "Happening now: 只欢迎顺直男 / X",
+          "unwound_url": "https://x.com/i/spaces/1mxPaZADPAVKN",
+          "url": "https://t.co/3CJYkZuIKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107388839786676322",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107388191942856915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re_ZaoTon: https://t.co/3CJYkZuIKm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2107388839786676322",
+        "created_at": "2026-10-06T08:33:47.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107388839786676322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863319222765428736",
+              "start": 3,
+              "username": "Re_ZaoTon"
+            }
+          ],
+          "urls": [
+            {
+              "description": "枣桐酱🍥's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mxPa…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/spaces/1mxPaZADPAVKN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2107388192957825024/rg7L7IhM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2107388192957825024/rg7L7IhM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "Happening now: 只欢迎顺直男 / X",
+              "unwound_url": "https://x.com/i/spaces/1mxPaZADPAVKN",
+              "url": "https://t.co/3CJYkZuIKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107388839786676322",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107388191942856915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Re_ZaoTon: https://t.co/3CJYkZuIKm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2107388191942856915",
+        "created_at": "2026-10-06T08:31:12.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107388191942856915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "枣桐酱🍥's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mxPa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mxPaZADPAVKN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2107388192957825024/rg7L7IhM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2107388192957825024/rg7L7IhM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 只欢迎顺直男 / X",
+              "unwound_url": "https://x.com/i/spaces/1mxPaZADPAVKN",
+              "url": "https://t.co/3CJYkZuIKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107388191942856915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3CJYkZuIKm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF家长党\n😺156cm 51kg 体脂率28 一眼男 短发\n❤️无不良嗜好\n🎂18岁\n😱性格古怪\n🏥无精神病不吃除hrt外的药\n😇持证残疾人\n🥺@Re_ZaoTon会一直爱我吗？\n\n我会像个正常女孩生活…是吧？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "Re_ZaoTon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMPJKW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2107388839786676322",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 599,
+          "like_count": 19277,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 6917
+        },
+        "url": "https://t.co/Nt7VzMPJKW",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "🍥HRT2023.11.21\n🍬不发负面内容\n🍃家长无视中\n✨性格大概良好\n🌾农村超级大穷逼\n🥳生产日期09年\n📝欢迎私信找我玩\n🥺姐妹情变质@xiey57828\n\n最近戾气太重了...正在尝试变得温柔一点！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2107388191942856915",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2099052799438868978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1787493431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519816440176640/lzogbhRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 434,
+          "like_count": 20658,
+          "listed_count": 5,
+          "media_count": 174,
+          "tweet_count": 2253
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": "読売巨人軍 (Yomiuri Giants)",
+          "id": "836464357919748098",
+          "name": "読売巨人軍 (Yomiuri Giants)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "読売巨人軍 (Yomiuri Giants)",
+          "id": "836464357919748098",
+          "name": "読売巨人軍 (Yomiuri Giants)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NPB",
+          "id": "839757898951487488",
+          "name": "NPB"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1235637307048210433",
+          "name": "Central League"
+        }
+      }
+    ],
+    "conversation_id": "2108128288040210899",
+    "created_at": "2026-10-09T00:23:17.000Z",
+    "display_text_range": [
+      30,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T01:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108352564890874039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958048434021437440",
+          "start": 0,
+          "username": "baizhimengyao"
+        },
+        {
+          "end": 29,
+          "id": "2104374000998547456",
+          "start": 15,
+          "username": "HabaraRei2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108352564890874039",
+    "in_reply_to_user_id": "1958048434021437440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108342978108629348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhimengyao @HabaraRei2333 巨人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "description": "読売巨人軍 (Yomiuri Giants)",
+              "id": "836464357919748098",
+              "name": "読売巨人軍 (Yomiuri Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "読売巨人軍 (Yomiuri Giants)",
+              "id": "836464357919748098",
+              "name": "読売巨人軍 (Yomiuri Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NPB",
+              "id": "839757898951487488",
+              "name": "NPB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235637307048210433",
+              "name": "Central League"
+            }
+          }
+        ],
+        "conversation_id": "2108128288040210899",
+        "created_at": "2026-10-09T00:23:17.000Z",
+        "display_text_range": [
+          30,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T01:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108352564890874039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            },
+            {
+              "end": 29,
+              "id": "2104374000998547456",
+              "start": 15,
+              "username": "HabaraRei2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108352564890874039",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108342978108629348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao @HabaraRei2333 巨人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2108128288040210899",
+        "created_at": "2026-10-08T23:45:11.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T00:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108342978108629348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2104374000998547456",
+              "start": 0,
+              "username": "HabaraRei2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108342978108629348",
+        "in_reply_to_user_id": "2104374000998547456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108128288040210899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HabaraRei2333 163大只那我181算啥？！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "病病的我走了\n正如我病病的来\n我努力的扑腾\n告别生命与疾病\n\n希望世间再无遗传病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMPJKW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2108352564890874039",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 604,
+          "like_count": 19398,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 6951
+        },
+        "url": "https://t.co/Nt7VzMPJKW",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友（现网瘾少女）/某师范高校在读生/@k66cheng 伪物空城我大姐头/学姐@xinjie87288/攒钱手术ing\n紧急逃生舱：@wuheyuyang（已经被鬼了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "k66cheng"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "xinjie87288"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "is_identity_verified": false,
+        "location": "距你0.1km",
+        "most_recent_tweet_id": "2108342978108629348",
+        "name": "白芷梦瑶🍥",
+        "pinned_tweet_id": "2091135577379000468",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 41,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2408
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-28T00:55:10.000Z",
+        "description": "账号重生×6 😵 1400fo账号重生\n不纪念过去的账号，而是纪念逝去的人和事\n努力转变正常人ing～🥰\n 163cm  45kg（超可爱小小只小女孩）🤤\n已删除跨籍（即便本质跨）        \n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/aJC4YeKDey"
+              }
+            ]
+          }
+        },
+        "id": "2104374000998547456",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2108349474804322660",
+        "name": "ReiOᴗoಣ零酱🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104374000998547456/1790579661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104375772932706306/wxUjc-3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 113,
+          "like_count": 948,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/aJC4YeKDey",
+        "username": "HabaraRei2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

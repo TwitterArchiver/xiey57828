@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2105577851621957949",
+    "created_at": "2026-10-01T12:12:52.000Z",
+    "display_text_range": [
+      15,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T13:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105632034983211489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970336973853507584",
+          "start": 0,
+          "username": "qfngyng120047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105632034983211489",
+    "in_reply_to_user_id": "1970336973853507584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105630426404708756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qfngyng120047 不是这样，二十多岁自杀率肯定没有十几岁的自杀率高，二十多大多都有理智，不是特别特别活不下去一般不会死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2105577851621957949",
+        "created_at": "2026-10-01T12:12:52.000Z",
+        "display_text_range": [
+          15,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105632034983211489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970336973853507584",
+              "start": 0,
+              "username": "qfngyng120047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105632034983211489",
+        "in_reply_to_user_id": "1970336973853507584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105630426404708756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qfngyng120047 不是这样，二十多岁自杀率肯定没有十几岁的自杀率高，二十多大多都有理智，不是特别特别活不下去一般不会死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970336973853507584",
+        "conversation_id": "2105577851621957949",
+        "created_at": "2026-10-01T12:06:29.000Z",
+        "display_text_range": [
+          11,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105630426404708756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105630426404708756",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105577851621957949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 不应该是很多因为精神疾病20多就紫砂了，所以平均才不到30吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n坚定维护中国共产党的领导的 #人民群众\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "普通人"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "自我主义者"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "人民群众"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2105632034983211489",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 580,
+          "like_count": 18585,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 6726
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T03:58:53.000Z",
+        "description": "想变成一只可爱的猫娘，关注我的话，我也会回关的哦",
+        "id": "1970336973853507584",
+        "is_identity_verified": false,
+        "location": "航天基地-总裁会客厅",
+        "most_recent_tweet_id": "2105631894813782084",
+        "name": "七峰樱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970336973853507584/1759289179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104905622840119296/ich7f6Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 126,
+          "like_count": 4379,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "qfngyng120047",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

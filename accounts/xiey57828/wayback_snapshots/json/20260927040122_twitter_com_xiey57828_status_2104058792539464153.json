@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2104048513495777462",
+    "created_at": "2026-09-27T04:01:22.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104058792539464153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1737507370031611904",
+          "start": 0,
+          "username": "Fennel_Homura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104058792539464153",
+    "in_reply_to_user_id": "1737507370031611904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104048513495777462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fennel_Homura 你咋变成了mtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2104048513495777462",
+        "created_at": "2026-09-27T04:01:22.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104058792539464153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1737507370031611904",
+              "start": 0,
+              "username": "Fennel_Homura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104058792539464153",
+        "in_reply_to_user_id": "1737507370031611904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104048513495777462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fennel_Homura 你咋变成了mtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737507370031611904",
+        "conversation_id": "2104048513495777462",
+        "created_at": "2026-09-27T03:20:31.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104048513495777462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TL_Xingyi/stat…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/TL_Xingyi/status/2103318146312778192",
+              "start": 123,
+              "url": "https://t.co/4YXU9BE9GR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104048513495777462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103318146312778192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接受程度\n称呼   自指 他指\n男的    🟨    🟩\n男娘    🟨    🟩\n伪娘    🟨    🟩\n药娘    🟥    🟨\n跨女    🟩    🟩\n女的    🟨    🟩\n小猫    🟩    🟩\nmtf      🟩    🟩 https://t.co/4YXU9BE9GR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n坚定维护中国共产党的领导的 #人民群众\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "普通人"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "自我主义者"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "人民群众"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海第二工业大学  投喂沐桃↓",
+        "most_recent_tweet_id": "2104058792539464153",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 573,
+          "like_count": 18247,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 6612
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T16:17:08.000Z",
+        "description": "生命·理性·希望·尊重\n我一直觉得共情力太强是一种病，那种空有悲悯之心却无救世之力的无助让自己太内耗了，直到听到过一句话 。“共情到底是诅咒还是奖赏”答：“是善良者的天赋”\n伟大的导师和舵手：@jiechengmadoka\n｜焰｜ENTP｜不自恨｜出廠於100年｜博愛｜無證含糖｜拒絕🔪🩸｜拒絕💊💉｜零度抑鬱｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "jiechengmadoka"
+              }
+            ]
+          }
+        },
+        "id": "1737507370031611904",
+        "is_identity_verified": false,
+        "location": "鹿目圆环私人药师回忆录",
+        "most_recent_tweet_id": "2104057811558957385",
+        "name": "晓虹焰🌹🇹🇼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2103353276125135314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737507370031611904/1786456348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099521324117016577/8OIz4CpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 418,
+          "like_count": 2182,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1468
+        },
+        "url": "",
+        "username": "Fennel_Homura",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

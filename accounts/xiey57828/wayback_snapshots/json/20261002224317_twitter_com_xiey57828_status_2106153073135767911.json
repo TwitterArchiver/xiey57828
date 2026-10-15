@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2105959891693351229",
+    "created_at": "2026-10-02T22:43:17.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T23:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106153073135767911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094128030973403136",
+          "start": 0,
+          "username": "AmanomiyaSakuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106153073135767911",
+    "in_reply_to_user_id": "2094128030973403136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106131396255535360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmanomiyaSakuya 上海找厕所好难😭有时候还要出站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2105959891693351229",
+        "created_at": "2026-10-02T22:43:17.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106153073135767911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094128030973403136",
+              "start": 0,
+              "username": "AmanomiyaSakuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106153073135767911",
+        "in_reply_to_user_id": "2094128030973403136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106131396255535360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanomiyaSakuya 上海找厕所好难😭有时候还要出站"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094128030973403136",
+        "conversation_id": "2105959891693351229",
+        "created_at": "2026-10-02T21:17:09.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T22:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106131396255535360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106131396255535360",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105959891693351229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 上海甚至做不到每站都有厕所"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "受够了眼睛与性别，不解决一个就解决我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2106153073135767911",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 582,
+          "like_count": 18754,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 6765
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T18:20:43.000Z",
+        "description": "可爱的大只兔娘~\n性别女🏳️‍⚧️ || 全性恋 || GAHT：2026-07-10🍥 || 体重63kg 身高178cm || 爱哭鬼🪻 || 性冷淡(?)🫧 || 神经衰弱🥀 || 尝试重新点燃自己心中的热情❤️‍🔥",
+        "id": "2094128030973403136",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2106138587825942930",
+        "name": "天ノ宮朔夜",
+        "pinned_tweet_id": "2096184015732822507",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099520351525056512/Y-ahOArE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 144,
+          "like_count": 1534,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "AmanomiyaSakuya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

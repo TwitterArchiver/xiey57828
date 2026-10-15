@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2108419059067060475",
+    "created_at": "2026-10-09T06:17:07.000Z",
+    "display_text_range": [
+      24,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T07:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108441610971418805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547584851007913984",
+          "start": 0,
+          "username": "MTF_yuer"
+        },
+        {
+          "end": 23,
+          "id": "2041449281677045760",
+          "start": 10,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108441610971418805",
+    "in_reply_to_user_id": "1547584851007913984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108441419283337559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTF_yuer @Sorcerer1311 你起码比我好，你还去势了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2108419059067060475",
+        "created_at": "2026-10-09T06:17:07.000Z",
+        "display_text_range": [
+          24,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T07:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108441610971418805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547584851007913984",
+              "start": 0,
+              "username": "MTF_yuer"
+            },
+            {
+              "end": 23,
+              "id": "2041449281677045760",
+              "start": 10,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108441610971418805",
+        "in_reply_to_user_id": "1547584851007913984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108441419283337559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTF_yuer @Sorcerer1311 你起码比我好，你还去势了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547584851007913984",
+        "conversation_id": "2108419059067060475",
+        "created_at": "2026-10-09T06:16:21.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108441419283337559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 24,
+              "id": "2041449281677045760",
+              "start": 11,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108441419283337559",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108440918110109984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 @Sorcerer1311 别骂了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "病病的我走了\n正如我病病的来\n我努力的扑腾\n告别生命与疾病\n\n希望世间再无遗传病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMPJKW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2108441610971418805",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 604,
+          "like_count": 19422,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 6959
+        },
+        "url": "https://t.co/Nt7VzMPJKW",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-14T14:12:44.000Z",
+        "description": "05/MTF/HRT2022.7.3/去势2026.10.4/SRS20??.?.?/同类互fo/回fo私信/讨厌od自残/反向深柜中",
+        "id": "1547584851007913984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108441419283337559",
+        "name": "雨儿酱🏳️‍⚧️",
+        "pinned_tweet_id": "2094812460436140296",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547584851007913984/1669449725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559861076736770049/ata5n_VC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3765,
+          "following_count": 634,
+          "like_count": 1616,
+          "listed_count": 11,
+          "media_count": 151,
+          "tweet_count": 2588
+        },
+        "url": "",
+        "username": "MTF_yuer",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 985本科在读 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 随缘发生活和观点，照片无p ｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2108435338712821822",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1178,
+          "like_count": 3399,
+          "listed_count": 3,
+          "media_count": 697,
+          "tweet_count": 4864
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

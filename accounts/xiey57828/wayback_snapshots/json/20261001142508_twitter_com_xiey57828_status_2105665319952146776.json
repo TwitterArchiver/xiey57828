@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2105641527175508033",
+    "created_at": "2026-10-01T14:25:08.000Z",
+    "display_text_range": [
+      22,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105665319952146776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "dddddhxwys"
+        },
+        {
+          "end": 21,
+          "id": "1695649420539219968",
+          "start": 12,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105665319952146776",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105641527175508033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddhxwys @LiciiQAQ od男好似喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105641510515666945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi9zDKacAEkynp.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2105641527175508033",
+        "created_at": "2026-10-01T14:25:08.000Z",
+        "display_text_range": [
+          22,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105665319952146776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "dddddhxwys"
+            },
+            {
+              "end": 21,
+              "id": "1695649420539219968",
+              "start": 12,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105665319952146776",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105641527175508033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddhxwys @LiciiQAQ od男好似喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105641510515666945"
+          ]
+        },
+        "author_id": "1860742128688857088",
+        "conversation_id": "2105641527175508033",
+        "created_at": "2026-10-01T12:50:35.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105641527175508033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWA9gAPcJc",
+              "end": 75,
+              "expanded_url": "https://x.com/dddddhxwys/status/2105641527175508033/photo/1",
+              "media_key": "3_2105641510515666945",
+              "start": 52,
+              "url": "https://t.co/IWA9gAPcJc"
+            },
+            {
+              "display_url": "x.com/dddddhxwys/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/dddddhxwys/status/2105635991767990656",
+              "start": 76,
+              "url": "https://t.co/5SYN8x3aA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105641527175508033",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105641510515666945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 592,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105635991767990656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 因为过量吸食阿片于2026年10月1日下午6:44确认离世。\n永远怀念，永远爱你。 https://t.co/IWA9gAPcJc https://t.co/5SYN8x3aA2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n坚定维护中国共产党的领导的 #人民群众\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "普通人"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "自我主义者"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "人民群众"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2105665319952146776",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 581,
+          "like_count": 18636,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 6740
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "最好的朋友·猫猫·二等分的恋人@LiciiQAQ｜可能是个坏东西｜情绪不稳定｜可以和我做朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2105657843332559088",
+        "name": "电子锈病萱草花🍥",
+        "pinned_tweet_id": "2095449993100554453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860742128688857088/1785800418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086885370688684032/VXXerKWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 541,
+          "like_count": 2978,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "dddddhxwys",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🫥@Grinin_mark，❤️姐姐：@chicosiaasgard ，😺猫猫：@laneunya_QWQ，💜主人：@dddddhxwys\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "chicosiaasgard"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "laneunya_QWQ"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "dddddhxwys"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105366767099154478",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695649420539219968/1737909112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 2142,
+          "like_count": 122040,
+          "listed_count": 4,
+          "media_count": 481,
+          "tweet_count": 8387
+        },
+        "url": "",
+        "username": "LiciiQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

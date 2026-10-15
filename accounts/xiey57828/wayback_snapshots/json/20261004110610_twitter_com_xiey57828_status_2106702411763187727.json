@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2106688876404478282",
+    "created_at": "2026-10-04T11:06:10.000Z",
+    "display_text_range": [
+      24,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106702411763187727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863319222765428736",
+          "start": 0,
+          "username": "Re_ZaoTon"
+        },
+        {
+          "end": 23,
+          "id": "1860552199585300482",
+          "start": 11,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106702411763187727",
+    "in_reply_to_user_id": "1863319222765428736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106702008854138916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re_ZaoTon @Seven_Eraya 我爸会给我剩特别多🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2106688876404478282",
+        "created_at": "2026-10-04T11:06:10.000Z",
+        "display_text_range": [
+          24,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106702411763187727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            },
+            {
+              "end": 23,
+              "id": "1860552199585300482",
+              "start": 11,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106702411763187727",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106702008854138916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon @Seven_Eraya 我爸会给我剩特别多🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2106688876404478282",
+        "created_at": "2026-10-04T11:04:34.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106702008854138916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106702008854138916",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106688876404478282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya 和我爸差不多😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "受够了眼睛与性别，不解决一个就解决我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2106702411763187727",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 586,
+          "like_count": 18997,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 6836
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用于分享日常，发表自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 117,
+                "expanded_url": "http://2345.lgbt",
+                "start": 94,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2106702239180222493",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2099052799438868978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1787493431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519816440176640/lzogbhRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 410,
+          "like_count": 20029,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 2179
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "|无糖跨女| |C++|\n|生产日期2012.1.7|\n|18岁以后我会重拾起我的梦想|",
+        "id": "1860552199585300482",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106688876404478282",
+        "name": "Eraya_",
+        "pinned_tweet_id": "2106013281379144097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860552199585300482/1764860170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 275,
+          "like_count": 1021,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "Seven_Eraya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

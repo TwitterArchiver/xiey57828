@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2105229754463092815",
+    "created_at": "2026-10-01T13:27:26.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T14:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105650801997996073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105650801997996073",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105229754463092815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 上职高自己也好不到哪去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2105229754463092815",
+        "created_at": "2026-10-01T13:27:26.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105650801997996073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105650801997996073",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105229754463092815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 上职高自己也好不到哪去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2105229754463092815",
+        "created_at": "2026-09-30T09:34:21.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105229754463092815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105229754463092815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 42057,
+          "like_count": 368,
+          "quote_count": 10,
+          "reply_count": 187,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "上个职高发现一整栋男寝没一个寝室一个不抽烟的，男的真恶心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n坚定维护中国共产党的领导的 #人民群众\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "普通人"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "自我主义者"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "人民群众"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2105650801997996073",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 581,
+          "like_count": 18628,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 6739
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "匿名消息:https://t.co/7pzqHavjAR||不改不o|171cm|58kg|INFP?|CNTK:註銷|邮箱:430830097@qq.com|最LOVE的姐姐:@Liunian_a|妈妈:@laggard234472|亲姐姐:小寻\n等我重拾梦想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "laggard234472"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tixitem4527|Hr…",
+                "end": 28,
+                "expanded_url": "http://ngl.link/tixitem4527|Hrt?:26.01.12|11.03.25",
+                "start": 5,
+                "url": "https://t.co/7pzqHavjAR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/trscomunty",
+                "end": 23,
+                "expanded_url": "https://t.me/trscomunty",
+                "start": 0,
+                "url": "https://t.co/udaSHJuwFY"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "is_identity_verified": false,
+        "location": "互联网",
+        "most_recent_tweet_id": "2105271642100580694",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2085888533315891502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708446662514110464/1790760742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 1513,
+          "like_count": 4405,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/udaSHJuwFY",
+        "username": "TixItem4527",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

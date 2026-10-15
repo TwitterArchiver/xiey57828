@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2106156504059666711",
+    "created_at": "2026-10-02T23:57:58.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T00:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106171865207361891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2104374000998547456",
+          "start": 0,
+          "username": "HabaraRei2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106171865207361891",
+    "in_reply_to_user_id": "2104374000998547456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106168058578338170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HabaraRei2333 好0😍😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2106156504059666711",
+        "created_at": "2026-10-02T23:57:58.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106171865207361891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2104374000998547456",
+              "start": 0,
+              "username": "HabaraRei2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106171865207361891",
+        "in_reply_to_user_id": "2104374000998547456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106168058578338170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HabaraRei2333 好0😍😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2104374000998547456",
+        "conversation_id": "2106156504059666711",
+        "created_at": "2026-10-02T23:42:50.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106168058578338170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106168058578338170",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106156504059666711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 好桃😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "受够了眼睛与性别，不解决一个就解决我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2106171865207361891",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 583,
+          "like_count": 18760,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 6769
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-28T00:55:10.000Z",
+        "description": "账号重生×6 😵 1400fo账号重生\n不纪念过去的账号，而是纪念逝去的人和事\n努力转变正常人ing～🥰\n 163cm  45kg（超可爱小小只小女孩）🤤\n已删除跨籍（即便本质跨）        \n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/aJC4YeKDey"
+              }
+            ]
+          }
+        },
+        "id": "2104374000998547456",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2106171595861512297",
+        "name": "ReiOᴗoಣ零酱🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104374000998547456/1790579661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104375772932706306/wxUjc-3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 49,
+          "like_count": 416,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/aJC4YeKDey",
+        "username": "HabaraRei2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

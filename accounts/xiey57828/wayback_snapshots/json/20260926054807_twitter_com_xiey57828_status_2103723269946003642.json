@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2103682965267996882",
+    "created_at": "2026-09-26T05:48:07.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T06:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103723269946003642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809754445162639361",
+          "start": 0,
+          "username": "kizumiyamizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103723269946003642",
+    "in_reply_to_user_id": "1809754445162639361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103682965267996882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kizumiyamizuki 经典操作之宿舍没人就女装（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2103682909786009600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHIde3a8AAOo70.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103682929457348608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHIeoJbwAAzZNy.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2103682965267996882",
+        "created_at": "2026-09-26T05:48:07.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103723269946003642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809754445162639361",
+              "start": 0,
+              "username": "kizumiyamizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103723269946003642",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103682965267996882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kizumiyamizuki 经典操作之宿舍没人就女装（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103682909786009600",
+            "3_2103682929457348608"
+          ]
+        },
+        "author_id": "1809754445162639361",
+        "conversation_id": "2103682965267996882",
+        "created_at": "2026-09-26T03:07:58.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103682965267996882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsJYs7x7Ad",
+              "end": 37,
+              "expanded_url": "https://x.com/kizumiyamizuki/status/2103682965267996882/photo/1",
+              "media_key": "3_2103682909786009600",
+              "start": 14,
+              "url": "https://t.co/bsJYs7x7Ad"
+            },
+            {
+              "display_url": "pic.x.com/bsJYs7x7Ad",
+              "end": 37,
+              "expanded_url": "https://x.com/kizumiyamizuki/status/2103682965267996882/photo/1",
+              "media_key": "3_2103682929457348608",
+              "start": 14,
+              "url": "https://t.co/bsJYs7x7Ad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103682965267996882",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103682909786009600"
+          },
+          {
+            "media_key": "3_2103682929457348608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1168,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典操作之宿舍没人就女装（ https://t.co/bsJYs7x7Ad"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "自我主义者"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海第二工业大学  投喂沐桃↓",
+        "most_recent_tweet_id": "2103723269946003642",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 572,
+          "like_count": 18161,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 6581
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "平安牛油果",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAVHyg"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "is_identity_verified": false,
+        "location": "127.0.0.1",
+        "most_recent_tweet_id": "2103682965267996882",
+        "name": "希澈希澈希澈澈澈澈澈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809754445162639361/1785920082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073190551978213376/5Pwq-kXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 888,
+          "like_count": 1092,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1153
+        },
+        "url": "https://t.co/gbSTeAVHyg",
+        "username": "kizumiyamizuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2107088644930703587",
+    "created_at": "2026-10-05T12:40:55.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T13:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107088644930703587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oyama_Mihari01…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2062052100440461382",
+          "start": 13,
+          "url": "https://t.co/9WtMxHoxRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107088644930703587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062052100440461382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "四年对a的我已严肃购买🫡 https://t.co/9WtMxHoxRH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062052088931319808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3hcx0agAAwCy5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2107088644930703587",
+        "created_at": "2026-10-05T12:40:55.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107088644930703587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Mihari01…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2062052100440461382",
+              "start": 13,
+              "url": "https://t.co/9WtMxHoxRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107088644930703587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062052100440461382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四年对a的我已严肃购买🫡 https://t.co/9WtMxHoxRH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062052088931319808"
+          ]
+        },
+        "author_id": "2015624869665456129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062052100440461382",
+        "created_at": "2026-06-03T06:01:46.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062052100440461382"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "MTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KMMtoLDj6",
+              "end": 81,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2062052100440461382/photo/1",
+              "media_key": "3_2062052088931319808",
+              "start": 58,
+              "url": "https://t.co/1KMMtoLDj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062052100440461382",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2062052088931319808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 85726,
+          "like_count": 429,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "热知识：别再说黄体酮在HRT治疗中没有用了，仅五个月的人工经期后我本人的欧派涨了一个罩杯（要变成熟女了！😾#MTF https://t.co/1KMMtoLDj6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "坚定维护中国共产党的领导",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2107088644930703587",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 595,
+          "like_count": 19172,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 6888
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "•女子高生のゆるい日常～☆ ͜ \n\n•🌈Bi♀.写真家.クリア系.社会学.LGBTQフレンドリー\n\n•旅してきた軌跡と、これから叶える夢。#SciComm\n\n•🚪52💖フォローありがとう～！みはるんは永遠にみんなを愛してるよ！✨\n\n•他のSNSやGitHubはリンクから",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "SciComm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kingyosama",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kingyosama",
+                "start": 0,
+                "url": "https://t.co/A5JnYGZ3B4"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "is_identity_verified": false,
+        "location": "Wubba lubba dub dub！",
+        "most_recent_tweet_id": "2064639333206995200",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060703266305192121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015624869665456129/1779968041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 481,
+          "like_count": 1061,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/A5JnYGZ3B4",
+        "username": "Oyama_Mihari01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2106920183147426013",
+    "created_at": "2026-10-05T13:43:17.000Z",
+    "display_text_range": [
+      10,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T14:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107104341115171017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1705975905167020032",
+          "start": 0,
+          "username": "EmoooNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107104341115171017",
+    "in_reply_to_user_id": "1705975905167020032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106920183147426013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoooNET 可能是括约肌变小了，可能是前列腺萎缩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2106920183147426013",
+        "created_at": "2026-10-05T13:43:17.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107104341115171017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705975905167020032",
+              "start": 0,
+              "username": "EmoooNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107104341115171017",
+        "in_reply_to_user_id": "1705975905167020032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106920183147426013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoooNET 可能是括约肌变小了，可能是前列腺萎缩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705975905167020032",
+        "conversation_id": "2106920183147426013",
+        "created_at": "2026-10-05T01:31:31.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106920183147426013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106920183147426013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16408,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很好奇，为什么HRT时上完厕所只要坐下就会漏点尿（）\n不管我是用日雌还是吃补子时都这样（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "坚定维护中国共产党的领导",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2107104341115171017",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 595,
+          "like_count": 19187,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 6893
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T16:02:16.000Z",
+        "description": "毁了，都毁了，要死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emooo.net",
+                "end": 23,
+                "expanded_url": "https://emooo.net",
+                "start": 0,
+                "url": "https://t.co/yqcZ9ZzC1i"
+              }
+            ]
+          }
+        },
+        "id": "1705975905167020032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107053252617625796",
+        "name": "星璇",
+        "pinned_tweet_id": "1891639129462517910",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705975905167020032/1789804000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101218024653221888/6rIgXDg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 1946,
+          "like_count": 1189,
+          "listed_count": 6,
+          "media_count": 95,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/yqcZ9ZzC1i",
+        "username": "EmoooNET",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

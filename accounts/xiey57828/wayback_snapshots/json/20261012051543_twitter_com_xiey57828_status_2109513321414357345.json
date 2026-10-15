@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2109512060140945553",
+    "created_at": "2026-10-12T05:15:43.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T06:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109513321414357345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076607397431496704",
+          "start": 0,
+          "username": "Rurikave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109513321414357345",
+    "in_reply_to_user_id": "2076607397431496704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109513158482178241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rurikave 用aip了一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2109512060140945553",
+        "created_at": "2026-10-12T05:15:43.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T06:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109513321414357345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076607397431496704",
+              "start": 0,
+              "username": "Rurikave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109513321414357345",
+        "in_reply_to_user_id": "2076607397431496704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109513158482178241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rurikave 用aip了一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076607397431496704",
+        "conversation_id": "2109512060140945553",
+        "created_at": "2026-10-12T05:15:04.000Z",
+        "display_text_range": [
+          11,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T06:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109513158482178241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109513158482178241",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109512060140945553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 怎么刚改了😋😋\n\n🥵🥵\n\n药娘大学启动"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑MtF家长不给钱上学党\n😺156cm 51kg 体脂率28 一眼男 短发\n❤️无不良嗜好\n🎂18岁 2008.02.16\n😱性格古怪\n🏥无精神病不吃除hrt外的药\n😇持证残疾人\n🥺对不起…@Re_ZaoTon\n\n我会像个正常女孩生活…是吧？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "Re_ZaoTon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMPJKW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2109513321414357345",
+        "name": "沐桃",
+        "pinned_tweet_id": "2109467471904420194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 605,
+          "like_count": 19492,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 6987
+        },
+        "url": "https://t.co/Nt7VzMPJKW",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T10:00:21.000Z",
+        "description": "友跨兼科技爱好者\n日常骚扰@CyberKanjousen\n私は誰ですか？\n可以關注我嗎🥺小号:@sexsors",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "sexsors"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NekomotoKanjou…",
+                "end": 23,
+                "expanded_url": "https://t.me/NekomotoKanjousen",
+                "start": 0,
+                "url": "https://t.co/Yj3Oiyys6F"
+              }
+            ]
+          }
+        },
+        "id": "2076607397431496704",
+        "is_identity_verified": false,
+        "location": "HN「生灵何本，命属负熵」",
+        "most_recent_tweet_id": "2109513158482178241",
+        "name": "𝑁𝑎𝑡𝑠𝑢",
+        "pinned_tweet_id": "2107609136045470018",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076607397431496704/1791188767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106935908817899520/1KAghCSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 409,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/Yj3Oiyys6F",
+        "username": "Rurikave",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

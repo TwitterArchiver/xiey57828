@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2105269038570246326",
+    "created_at": "2026-10-01T08:19:06.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105573207428489534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090322811479027712",
+          "start": 0,
+          "username": "Irosasmeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105573207428489534",
+    "in_reply_to_user_id": "2090322811479027712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105269038570246326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosasmeow ge到底是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2105269038570246326",
+        "created_at": "2026-10-01T08:19:06.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105573207428489534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090322811479027712",
+              "start": 0,
+              "username": "Irosasmeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105573207428489534",
+        "in_reply_to_user_id": "2090322811479027712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105269038570246326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosasmeow ge到底是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090322811479027712",
+        "conversation_id": "2105269038570246326",
+        "created_at": "2026-09-30T12:10:27.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105269038570246326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fennel_homura/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/fennel_homura/status/2105161917727928759",
+              "start": 65,
+              "url": "https://t.co/mWLCnx3Pyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105269038570246326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105161917727928759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反对GAHT的都来了\n我承认我虽然有男性器官但是还是女的，但是吃糖带来的变化能让我ge，缓解gd\n这冲突在哪里，为什么要虚假两难 https://t.co/mWLCnx3Pyt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n坚定维护中国共产党的领导的 #人民群众\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "普通人"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "自我主义者"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "人民群众"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2105573207428489534",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 580,
+          "like_count": 18560,
+          "listed_count": 3,
+          "media_count": 401,
+          "tweet_count": 6712
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:20:51.000Z",
+        "description": "老婆@Irosas_sub\n最好的闺蜜@Irosasmjau\n偶像@AacerF59616  @AAcer_Freilyns\n11 MtF🏳️‍⚧️/ GAHT 30.04.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Irosas_sub"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Irosasmjau"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "AacerF59616"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          }
+        },
+        "id": "2090322811479027712",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2105544095792005274",
+        "name": "Irosas 4.0🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2102403575532200175",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090322811479027712/1788028974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093331604202762240/X-BCTe2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 318,
+          "like_count": 1410,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "Irosasmeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

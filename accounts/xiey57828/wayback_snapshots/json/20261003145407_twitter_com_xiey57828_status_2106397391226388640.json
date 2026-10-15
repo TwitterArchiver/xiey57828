@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2106271695803908384",
+    "created_at": "2026-10-03T14:54:07.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106397391226388640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714835082807234560",
+          "start": 0,
+          "username": "SumikyouHideru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106397391226388640",
+    "in_reply_to_user_id": "1714835082807234560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106271695803908384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SumikyouHideru 笑死我了樱神😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2106271695803908384",
+        "created_at": "2026-10-03T14:54:07.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106397391226388640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714835082807234560",
+              "start": 0,
+              "username": "SumikyouHideru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106397391226388640",
+        "in_reply_to_user_id": "1714835082807234560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106271695803908384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SumikyouHideru 笑死我了樱神😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714835082807234560",
+        "conversation_id": "2106271695803908384",
+        "created_at": "2026-10-03T06:34:39.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106271695803908384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106271695803908384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了。\n偶然得知我的仇人之一的跨畜和大学辅导员出柜了。我实在想不出来他是怀着什么心态把大学辅导员当成了什么以为和大学辅导员说这件事能够解决什么问题才和他的辅导员说这件事的，不过看起来结果并不好🤣🤣🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "受够了眼睛与性别，不解决一个就解决我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2106397391226388640",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 585,
+          "like_count": 18883,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 6813
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-19T02:45:37.000Z",
+        "description": "amab/mtx但不是x/any pronouns are ok/🍥 since Jun. 2026/大龄药娘/是顺直男哦\n攒钱改变自己中……",
+        "id": "1714835082807234560",
+        "is_identity_verified": false,
+        "location": "江浙沪某城市",
+        "most_recent_tweet_id": "2106387339492597960",
+        "name": "澄恭",
+        "pinned_tweet_id": "2076168912224636978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714835082807234560/1782129960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106227500364005376/w-Vpoh6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 35,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "SumikyouHideru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

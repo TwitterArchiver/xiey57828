@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2103019257516671309",
+    "created_at": "2026-09-24T12:11:59.000Z",
+    "display_text_range": [
+      11,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T13:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103095096061370852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022798586342174721",
+          "start": 0,
+          "username": "hwanxing9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103095096061370852",
+    "in_reply_to_user_id": "2022798586342174721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）\n哈哈哈哈哈🤣🤣🤣，一起玩原神↗（云☁️原神！）\n好、好、好想🤩——想玩玩玩原神😋～\n网页云端，低功耗不失真😌！\nWIFI网线🥰，都可以60帧😍～\n来来来来👏，来进入云☁️原神～"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103019257516671309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hwanxing9 欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2103019257516671309",
+        "created_at": "2026-09-24T12:11:59.000Z",
+        "display_text_range": [
+          11,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103095096061370852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022798586342174721",
+              "start": 0,
+              "username": "hwanxing9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103095096061370852",
+        "in_reply_to_user_id": "2022798586342174721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）\n哈哈哈哈哈🤣🤣🤣，一起玩原神↗（云☁️原神！）\n好、好、好想🤩——想玩玩玩原神😋～\n网页云端，低功耗不失真😌！\nWIFI网线🥰，都可以60帧😍～\n来来来来👏，来进入云☁️原神～"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103019257516671309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwanxing9 欸？🤓☝️云朵☁️😄，哒↘哒↗哒↘哒↗哒↘，好想玩原神😨～（云☁️原神😙！）\n当当当当当😊，看精彩纷纷👍🎊😆～（云☁️原神😄！）\n呜呜呜呜呜，好想玩原神😭😭😭——（云☁️原神！）\n朋友已就位😊😃😆，一起玩原神！（云☁️原神！）\n啊啊啊啊啊😙，好想玩原神～（云☁️原神！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022798586342174721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2103019257516671309",
+        "created_at": "2026-09-24T07:10:37.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103019257516671309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103019257516671309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哒哒哒哒哒\n好想玩原神\n云原神！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "自我主义者"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海第二工业大学  投喂沐桃↓",
+        "most_recent_tweet_id": "2103095096061370852",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 571,
+          "like_count": 18102,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 6568
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T22:22:28.000Z",
+        "description": "？？？\n宝宝:@mchchc5216",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "mchchc5216"
+              }
+            ]
+          }
+        },
+        "id": "2022798586342174721",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103019257516671309",
+        "name": "绾星🐱",
+        "pinned_tweet_id": "2096483184167076183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022798586342174721/1774962733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079139133591801856/1R1g5Vtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 362,
+          "like_count": 3014,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "hwanxing9",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

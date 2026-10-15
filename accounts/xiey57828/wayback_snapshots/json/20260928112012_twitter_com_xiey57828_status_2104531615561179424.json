@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2104518846812143965",
+    "created_at": "2026-09-28T11:20:12.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104531615561179424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385919167971282946",
+          "start": 0,
+          "username": "whyyoutangping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104531615561179424",
+    "in_reply_to_user_id": "1385919167971282946",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104518846812143965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutangping ？？？？？？？？？？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4288,
+        "height": 448,
+        "media_key": "13_2104518476803321858",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104518476803321858/img/zh3ozPKOvzLW1ADv.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104518476803321858/vid/avc1/770x270/_NyM0lqh-CvT2Cvp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104518476803321858/vid/avc1/1280x448/8pOnyCeSSCCdhiAw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104518476803321858/pl/LWq6eNJkyKTjWPJH.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2104518846812143965",
+        "created_at": "2026-09-28T11:20:12.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104531615561179424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385919167971282946",
+              "start": 0,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104531615561179424",
+        "in_reply_to_user_id": "1385919167971282946",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104518846812143965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutangping ？？？？？？？？？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104518476803321858"
+          ]
+        },
+        "author_id": "1385919167971282946",
+        "conversation_id": "2104518846812143965",
+        "created_at": "2026-09-28T10:29:27.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104518846812143965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBp6mWQbkX",
+              "end": 62,
+              "expanded_url": "https://x.com/whyyoutangping/status/2104518846812143965/video/1",
+              "media_key": "13_2104518476803321858",
+              "start": 39,
+              "url": "https://t.co/aBp6mWQbkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104518846812143965",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104518476803321858"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现我乳房已经这么女性化了。难道这就是先天圣体？不吃药都能这么女性化发育吗 https://t.co/aBp6mWQbkX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n坚定维护中国共产党的领导的 #人民群众\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "普通人"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "自我主义者"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "人民群众"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2104531615561179424",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 576,
+          "like_count": 18366,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 6651
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（一直吃喵！）｜欢迎来亲亲抱抱贴贴喵！（友跨喵！）｜喜欢我就啃一口豆娘喵｜沪国牛马不是沪✌｜也许是MTX🏳️‍🌈｜互fo喵！！！\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb\nhttps://t.co/BBTMD4eD93",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 126,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 103,
+                "url": "https://t.co/fmhkL0PNyb"
+              },
+              {
+                "display_url": "ngl.link/soyiso72622",
+                "end": 150,
+                "expanded_url": "https://ngl.link/soyiso72622",
+                "start": 127,
+                "url": "https://t.co/BBTMD4eD93"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "is_identity_verified": false,
+        "location": "大豆星球",
+        "most_recent_tweet_id": "2104530830471381115",
+        "name": "豆娘𝑆𝑜𝑦𝑖𝑠𝑜～",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385919167971282946/1780987997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082827324094099456/L7FsiJ11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 163,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1304
+        },
+        "url": "",
+        "username": "whyyoutangping",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

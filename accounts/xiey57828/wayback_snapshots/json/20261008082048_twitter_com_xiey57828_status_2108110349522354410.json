@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2108101057545187746",
+    "created_at": "2026-10-08T08:20:48.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T09:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108110349522354410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021569499993112576",
+          "start": 0,
+          "username": "Hachimi_UmizuKi"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108110349522354410",
+    "in_reply_to_user_id": "2021569499993112576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108101057545187746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hachimi_UmizuKi @grok 回答ta"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2108101057545187746",
+        "created_at": "2026-10-08T08:20:48.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108110349522354410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021569499993112576",
+              "start": 0,
+              "username": "Hachimi_UmizuKi"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108110349522354410",
+        "in_reply_to_user_id": "2021569499993112576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108101057545187746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hachimi_UmizuKi @grok 回答ta"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021569499993112576",
+        "conversation_id": "2108101057545187746",
+        "created_at": "2026-10-08T07:43:53.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T08:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108101057545187746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/xiey57828/status/2107719335255081044",
+              "start": 84,
+              "url": "https://t.co/oQ9O2Z9rNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108101057545187746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107719335255081044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请分析我的推文、个人资料和互动历史，并回答以下问题：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n兴趣爱好：\n智商：\n形容我的形容词：\n喜欢的东西5个：\n讨厌的东西5个： https://t.co/oQ9O2Z9rNU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "病病的我走了\n正如我病病的来\n我努力的扑腾\n告别生命与疾病\n\n希望世间再无遗传病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMPJKW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2108110349522354410",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 603,
+          "like_count": 19366,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 6938
+        },
+        "url": "https://t.co/Nt7VzMPJKW",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T12:58:31.000Z",
+        "description": "MTF/Les/INTP 5w4/168 60/20+大龄跨\n未出柜 推上随便发发+观察同类（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "http://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/k6WvUpTvBk"
+              }
+            ]
+          }
+        },
+        "id": "2021569499993112576",
+        "is_identity_verified": false,
+        "location": "提瓦特大陆",
+        "most_recent_tweet_id": "2108101057545187746",
+        "name": "UmizuKi🏳️‍⚧️",
+        "pinned_tweet_id": "2107323220391240005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021569499993112576/1790941880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051047353478737920/Zq9C2tjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 47,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/k6WvUpTvBk",
+        "username": "Hachimi_UmizuKi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108110365699584151",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9149295,
+          "following_count": 4,
+          "like_count": 143,
+          "listed_count": 7760,
+          "media_count": 3991715,
+          "tweet_count": 139599700
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

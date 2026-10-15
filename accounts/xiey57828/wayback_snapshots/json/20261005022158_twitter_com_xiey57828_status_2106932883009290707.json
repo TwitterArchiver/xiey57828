@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2086449346019770696",
+    "created_at": "2026-10-05T02:21:58.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T03:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106932883009290707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863024822147809280",
+          "start": 0,
+          "username": "Moli_Lanxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106932883009290707",
+    "in_reply_to_user_id": "1863024822147809280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086449346019770696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moli_Lanxi 友谊医院李革临才一万吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2086449346019770696",
+        "created_at": "2026-10-05T02:21:58.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T03:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106932883009290707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863024822147809280",
+              "start": 0,
+              "username": "Moli_Lanxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106932883009290707",
+        "in_reply_to_user_id": "1863024822147809280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086449346019770696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moli_Lanxi 友谊医院李革临才一万吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863024822147809280",
+        "conversation_id": "2086449346019770696",
+        "created_at": "2026-08-09T13:47:43.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086449346019770696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086449346019770696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6649,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "应大家的要求我写一下我在南京明基医院做vfs的经历。首先在这里做声带手术是可以选择平时就一直在的胡慧英主任做主刀（基本是工作日），也可以选择著名的李哥（周末从北京飞过来），李哥要多收一个6000的高级专家费。全套下来是大约一万七到一万八（胡主任一万一到一万二），这个费用不可以医保。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "受够了眼睛与性别，不解决一个就解决我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2106932883009290707",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 593,
+          "like_count": 19111,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 6867
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T00:58:38.000Z",
+        "description": "trans girl| hrt24.08.09 | srs25.07.23 |高浓度二刺猿 | coser | 哈夫克优秀雇员| 手术日记↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoliLanxi",
+                "end": 23,
+                "expanded_url": "https://t.me/MoliLanxi",
+                "start": 0,
+                "url": "https://t.co/ZhqiuPRjx1"
+              }
+            ]
+          }
+        },
+        "id": "1863024822147809280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098110104193417383",
+        "name": "兰汐",
+        "pinned_tweet_id": "1955677366312988782",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863024822147809280/1748665020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979838644690030592/zHMrYOdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 162,
+          "like_count": 1408,
+          "listed_count": 13,
+          "media_count": 222,
+          "tweet_count": 3150
+        },
+        "url": "https://t.co/ZhqiuPRjx1",
+        "username": "Moli_Lanxi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

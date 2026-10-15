@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2108371367095627929",
+    "created_at": "2026-10-09T06:07:08.000Z",
+    "display_text_range": [
+      16,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T07:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108439096783929829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794306281572118528",
+          "start": 0,
+          "username": "mikumi_huihui4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108439096783929829",
+    "in_reply_to_user_id": "1794306281572118528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108371367095627929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikumi_huihui4 不该性别毕业学历改不了，学历作废，八万可不够买这个学历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2108371367095627929",
+        "created_at": "2026-10-09T06:07:08.000Z",
+        "display_text_range": [
+          16,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T07:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108439096783929829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "mikumi_huihui4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108439096783929829",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108371367095627929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumi_huihui4 不该性别毕业学历改不了，学历作废，八万可不够买这个学历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794306281572118528",
+        "conversation_id": "2108371367095627929",
+        "created_at": "2026-10-09T01:38:00.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T02:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108371367095627929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108371367095627929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3131,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻子才去做srs，假逼丑死了，8万块改个性别，要是你不pass，一样一脸男相"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "病病的我走了\n正如我病病的来\n我努力的扑腾\n告别生命与疾病\n\n希望世间再无遗传病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMPJKW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2108439096783929829",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 604,
+          "like_count": 19411,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 6952
+        },
+        "url": "https://t.co/Nt7VzMPJKW",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n老婆:@ChiAki1000kzm\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "ChiAki1000kzm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "is_identity_verified": false,
+        "location": "广东韶关",
+        "most_recent_tweet_id": "2108432016605651143",
+        "name": "惠惠🏳️‍⚧️(糖🍥商)（中二病也要mtf）",
+        "pinned_tweet_id": "2095890884730757256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794306281572118528/1790743722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105157646592671744/fH-jJV3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 176,
+          "like_count": 297,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/mhMUnF6GNe",
+        "username": "mikumi_huihui4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

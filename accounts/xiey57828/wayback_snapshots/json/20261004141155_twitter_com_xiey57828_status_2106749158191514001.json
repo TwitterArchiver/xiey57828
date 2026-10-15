@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2106723271798661620",
+    "created_at": "2026-10-04T14:11:55.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106749158191514001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910937639269888000",
+          "start": 0,
+          "username": "NJMPUydvf294498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106749158191514001",
+    "in_reply_to_user_id": "1910937639269888000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106748084122443990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NJMPUydvf294498 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2106723271798661620",
+        "created_at": "2026-10-04T14:11:55.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106749158191514001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910937639269888000",
+              "start": 0,
+              "username": "NJMPUydvf294498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106749158191514001",
+        "in_reply_to_user_id": "1910937639269888000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106748084122443990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NJMPUydvf294498 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910937639269888000",
+        "conversation_id": "2106723271798661620",
+        "created_at": "2026-10-04T14:07:39.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106748084122443990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106748084122443990",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106723271798661620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 恭喜喵，我也希望我有机会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "受够了眼睛与性别，不解决一个就解决我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2106749158191514001",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 590,
+          "like_count": 19048,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 6854
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T06:07:14.000Z",
+        "description": "168cm 59kg\nBMI22 体脂14.6%\n宝宝：@Gunandjason\n天残党｜究极家暴党\n生理男 心理女\nGAHT：2026.9.8\n9.17.2004\n摄影｜垃圾佬｜玩车\n叫我 悦悦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Gunandjason"
+              }
+            ]
+          }
+        },
+        "id": "1910937639269888000",
+        "is_identity_verified": false,
+        "location": "重庆医科大学附属第三医院",
+        "most_recent_tweet_id": "2106749041044590898",
+        "name": "要期待未来啊🍥🏳️‍⚧️ （氯化汞）",
+        "pinned_tweet_id": "2106418531617403273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910937639269888000/1785835057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087189162810355712/NWJ9xOc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 934,
+          "like_count": 2197,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 1939
+        },
+        "url": "",
+        "username": "NJMPUydvf294498",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

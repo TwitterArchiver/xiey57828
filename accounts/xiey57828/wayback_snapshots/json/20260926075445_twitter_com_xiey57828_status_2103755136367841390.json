@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2103400593868075329",
+    "created_at": "2026-09-26T07:54:45.000Z",
+    "display_text_range": [
+      13,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T08:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103755136367841390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088281025604616192",
+          "start": 0,
+          "username": "XunyuX74232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Re_ZaoTon/stat…",
+          "end": 53,
+          "expanded_url": "https://x.com/Re_ZaoTon/status/2103371616898215944",
+          "start": 30,
+          "url": "https://t.co/9CZvdBloAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103755136367841390",
+    "in_reply_to_user_id": "2088281025604616192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103371616898215944",
+        "type": "quoted"
+      },
+      {
+        "id": "2103400593868075329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@XunyuX74232 我的已经解冻了，他应该是好似喵了😁https://t.co/9CZvdBloAC"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103400593868075329].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103400593868075329",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103400593868075329"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2103371604663451648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCtVI6bwAALsRh.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2103371610111836160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCtVdNbgAAPHXr.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2103400593868075329",
+        "created_at": "2026-09-26T07:54:45.000Z",
+        "display_text_range": [
+          13,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103755136367841390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088281025604616192",
+              "start": 0,
+              "username": "XunyuX74232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Re_ZaoTon/stat…",
+              "end": 53,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2103371616898215944",
+              "start": 30,
+              "url": "https://t.co/9CZvdBloAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103755136367841390",
+        "in_reply_to_user_id": "2088281025604616192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103371616898215944",
+            "type": "quoted"
+          },
+          {
+            "id": "2103400593868075329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@XunyuX74232 我的已经解冻了，他应该是好似喵了😁https://t.co/9CZvdBloAC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103371604663451648",
+            "3_2103371610111836160"
+          ]
+        },
+        "author_id": "1863319222765428736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103371616898215944",
+        "created_at": "2026-09-25T06:30:46.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103371616898215944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1887391023976038400",
+              "start": 10,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvRMH7uoEa",
+              "end": 69,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2103371616898215944/photo/1",
+              "media_key": "3_2103371604663451648",
+              "start": 46,
+              "url": "https://t.co/VvRMH7uoEa"
+            },
+            {
+              "display_url": "pic.x.com/VvRMH7uoEa",
+              "end": 69,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2103371616898215944/photo/1",
+              "media_key": "3_2103371610111836160",
+              "start": 46,
+              "url": "https://t.co/VvRMH7uoEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103371616898215944",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103371604663451648"
+          },
+          {
+            "media_key": "3_2103371610111836160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5676,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報\n沐桃@xiey57828\n因14:08的扫号被以不真实行为冻结，无妄之灾😿 https://t.co/VvRMH7uoEa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "自我主义者"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海第二工业大学  投喂沐桃↓",
+        "most_recent_tweet_id": "2103755136367841390",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 572,
+          "like_count": 18170,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 6585
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T15:11:27.000Z",
+        "description": "你好，这里是迅羽。交个朋友，好不好呢？\n2008.01生人 | 观点略开放，尽量友好交流 | 不聊政治 | 学习公共写作 | 试图找回自己的声音(哪个?) | 戏谑但有时会过头 | 生活+评论 | 飞猪来的！| 随心而动 |",
+        "id": "2088281025604616192",
+        "is_identity_verified": false,
+        "location": "哎呀哎呀，这是个好问题～",
+        "most_recent_tweet_id": "2103694311657451581",
+        "name": "迅羽—Xunyu",
+        "pinned_tweet_id": "2088534942905139671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088281025604616192/1786722474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092472583933636609/lauKDrRF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 516,
+          "like_count": 4562,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "XunyuX74232",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用于分享日常，发表自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 117,
+                "expanded_url": "http://2345.lgbt",
+                "start": 94,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2103641071347814463",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2099052799438868978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1787493431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519816440176640/lzogbhRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 393,
+          "like_count": 18477,
+          "listed_count": 6,
+          "media_count": 154,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

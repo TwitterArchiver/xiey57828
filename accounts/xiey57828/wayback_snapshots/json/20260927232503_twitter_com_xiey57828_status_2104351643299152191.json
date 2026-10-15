@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104351638018551808"
+      ]
+    },
+    "author_id": "1887391023976038400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104259818395758719",
+    "created_at": "2026-09-27T23:25:03.000Z",
+    "display_text_range": [
+      8,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104351643299152191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2086258214631591936",
+          "start": 0,
+          "username": "netxfer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OZ1guP2pEe",
+          "end": 32,
+          "expanded_url": "https://x.com/xiey57828/status/2104351643299152191/photo/1",
+          "media_key": "3_2104351638018551808",
+          "start": 9,
+          "url": "https://t.co/OZ1guP2pEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104351643299152191",
+    "in_reply_to_user_id": "2086258214631591936",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2104351638018551808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104259818395758719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netxfer https://t.co/OZ1guP2pEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2104351638018551808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQoqlqbcAAFRC4.jpg",
+        "width": 1216
+      },
+      {
+        "height": 836,
+        "media_key": "3_2104259812343287809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPVJoXaEAE6eiQ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104351638018551808"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104259818395758719",
+        "created_at": "2026-09-27T23:25:03.000Z",
+        "display_text_range": [
+          8,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104351643299152191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2086258214631591936",
+              "start": 0,
+              "username": "netxfer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZ1guP2pEe",
+              "end": 32,
+              "expanded_url": "https://x.com/xiey57828/status/2104351643299152191/photo/1",
+              "media_key": "3_2104351638018551808",
+              "start": 9,
+              "url": "https://t.co/OZ1guP2pEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104351643299152191",
+        "in_reply_to_user_id": "2086258214631591936",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104351638018551808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104259818395758719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netxfer https://t.co/OZ1guP2pEe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104259812343287809"
+          ]
+        },
+        "author_id": "2086258214631591936",
+        "conversation_id": "2104259818395758719",
+        "created_at": "2026-09-27T17:20:10.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104259818395758719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wbO8QigG1",
+              "end": 30,
+              "expanded_url": "https://x.com/netxfer/status/2104259818395758719/photo/1",
+              "media_key": "3_2104259812343287809",
+              "start": 7,
+              "url": "https://t.co/7wbO8QigG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104259818395758719",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2104259812343287809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wtf😿😿😿 https://t.co/7wbO8QigG1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "游离在自恨与自我边缘的 #普通人\n沉浸在自我世界中的 #自我主义者\n坚定维护中国共产党的领导的 #人民群众\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "普通人"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "自我主义者"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "人民群众"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海第二工业大学  投喂沐桃↓",
+        "most_recent_tweet_id": "2104351643299152191",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 573,
+          "like_count": 18309,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 6629
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T01:09:40.000Z",
+        "description": "上海张江C++码农，生产日期1986.11.22，高172cm、重71kg，HRT日期2026.8.26。二代账号，已同步旧账号所有关注并从旧账号取关，旧账号同步书签后注销。不定期删除本人部分历史评论或回复，无特殊原因。",
+        "id": "2086258214631591936",
+        "is_identity_verified": false,
+        "location": "GitHub",
+        "most_recent_tweet_id": "2104289154792370452",
+        "name": "天涯過客",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087559008005820416/OYwMldre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 170,
+          "like_count": 3055,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

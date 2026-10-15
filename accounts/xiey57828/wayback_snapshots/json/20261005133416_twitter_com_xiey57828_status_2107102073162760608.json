@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2107088644930703587",
+    "created_at": "2026-10-05T13:34:16.000Z",
+    "display_text_range": [
+      24,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T14:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107102073162760608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643126722760679424",
+          "start": 0,
+          "username": "AnnieChorly"
+        },
+        {
+          "end": 23,
+          "id": "1641812125789069313",
+          "start": 13,
+          "username": "_chitong_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107102073162760608",
+    "in_reply_to_user_id": "1643126722760679424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107101085995504079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnnieChorly @_chitong_ 我靠，晚上本来就容易抑郁和发情的会不会更加啊😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2107088644930703587",
+        "created_at": "2026-10-05T13:34:16.000Z",
+        "display_text_range": [
+          24,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107102073162760608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643126722760679424",
+              "start": 0,
+              "username": "AnnieChorly"
+            },
+            {
+              "end": 23,
+              "id": "1641812125789069313",
+              "start": 13,
+              "username": "_chitong_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107102073162760608",
+        "in_reply_to_user_id": "1643126722760679424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107101085995504079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnnieChorly @_chitong_ 我靠，晚上本来就容易抑郁和发情的会不会更加啊😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643126722760679424",
+        "conversation_id": "2107088644930703587",
+        "created_at": "2026-10-05T13:30:21.000Z",
+        "display_text_range": [
+          22,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107101085995504079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641812125789069313",
+              "start": 0,
+              "username": "_chitong_"
+            },
+            {
+              "end": 21,
+              "id": "1887391023976038400",
+              "start": 11,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107101085995504079",
+        "in_reply_to_user_id": "1641812125789069313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107100250393477255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_chitong_ @xiey57828 是的，我这边的情况就是有用，但是确实在服用期间的心理状态不是很稳定，所以一般强烈建议在晚上睡觉前吃，别在白天吃把心态搞爆影响干活。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "坚定维护中国共产党的领导",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMQhAu"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2107102073162760608",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 595,
+          "like_count": 19177,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 6889
+        },
+        "url": "https://t.co/Nt7VzMQhAu",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T05:42:03.000Z",
+        "description": "做好自己手上的事，好好生活",
+        "id": "1643126722760679424",
+        "is_identity_verified": false,
+        "location": "Gangdong, PRC",
+        "most_recent_tweet_id": "2107101546630791499",
+        "name": "是小酥子呀🍢🍰",
+        "pinned_tweet_id": "2099546207811207557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643126722760679424/1725548472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815608698984710144/IjSAp-oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 160,
+          "like_count": 4137,
+          "listed_count": 1,
+          "media_count": 973,
+          "tweet_count": 3394
+        },
+        "url": "",
+        "username": "AnnieChorly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-31T14:38:18.000Z",
+        "description": "推推日记本😇\n善用block与mute😋\n喜欢做白日梦😣",
+        "id": "1641812125789069313",
+        "is_identity_verified": false,
+        "location": "距你-15cm😈",
+        "most_recent_tweet_id": "2107100250393477255",
+        "name": "🍦tong🍦",
+        "pinned_tweet_id": "2054039063926276584",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680886682575568896/Zkl9mDOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 761,
+          "like_count": 21995,
+          "listed_count": 4,
+          "media_count": 1068,
+          "tweet_count": 11268
+        },
+        "url": "",
+        "username": "_chitong_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

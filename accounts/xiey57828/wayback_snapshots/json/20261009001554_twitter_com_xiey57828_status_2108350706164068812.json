@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1887391023976038400",
+    "conversation_id": "2107961670660411463",
+    "created_at": "2026-10-09T00:15:54.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T01:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108350706164068812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108350706164068812",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107961670660411463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruoruoMing 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2107961670660411463",
+        "created_at": "2026-10-09T00:15:54.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T01:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108350706164068812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108350706164068812",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107961670660411463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruoruoMing 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938537315586244608",
+        "conversation_id": "2107961670660411463",
+        "created_at": "2026-10-07T22:30:00.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107961670660411463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107961670660411463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1889,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 101,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo了来整个抽奖吧\n不会发快递只能抽点红包了）\n一等奖1人：52元\n二等奖3人：19.58元\n三等奖5人：5.20元\n关注+点赞+回复\n暂定10月18日开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "病病的我走了\n正如我病病的来\n我努力的扑腾\n告别生命与疾病\n\n希望世间再无遗传病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/520xiey57828/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/520xiey57828/status/2098032382125449357",
+                "start": 0,
+                "url": "https://t.co/Nt7VzMPJKW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "上海 另一个沐桃↓",
+        "most_recent_tweet_id": "2108350706164068812",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 604,
+          "like_count": 19396,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 6950
+        },
+        "url": "https://t.co/Nt7VzMPJKW",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "GDUT大一|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsvHb8"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "广州/天津",
+        "most_recent_tweet_id": "2108223856981033221",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2107835457996472712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1233,
+          "like_count": 8652,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/1YBPxsvHb8",
+        "username": "ruoruoruoMing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
